@@ -11238,7 +11238,6 @@
     "DFIntHttp2StatsHundredthsPercent": 500,
     "FFlagEnableAudioDuckingFixes2": true,
     "DFFlagSetLCRenderSizeCheckScalingToModelScale": true,
-    "FFlagSurfaceAppearanceUseLowestRoughnessMipAtLowLOD2": true,
     "FFlagLuaAppAmazonSocialLinkEdp": true,
     "FFlagRemoveShareLinksRoduxAndNetworking_v2": true,
     "FFlagLuaAppFixDetailsPageThumbnailRenderInPhone": true,
@@ -11288,7 +11287,6 @@
     "FFlagStudioDeviceEmulatorGamepadEmulation3": true,
     "FFlagStudioDeviceEmulatorVREmulation3": true,
     "FFlagVREmulationRenderView2": true,
-    "FFlagNavigationUseNewOffsetForClosestPoint_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-03T21:49:28",
     "DFFlagPerformanceControlInfiniteUtilities3": true,
     "FFlagFixPSGamepadDisconnectRaceCondition": true,
     "FFlagFixExpChatConsoleTextSize": true,
@@ -11301,6 +11299,7 @@
     "DFFlagReportFirstThirdPartyErrorOnly": true,
     "FFlagAXFixDuplicateWidgetListFetchApiCalls_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-03T22:47:21",
     "FFlagAXPayloadExperimentReductionPortraitMode_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-03T22:47:21",
+    "FFlagNavigationUseNewOffsetForClosestPoint": true,
     "FFlagRenderEnableGlobalInstancingD3D11": true,
     "FFlagFixLooksSecondaryLayerApdativeScrolling": true,
     "FFlagUpdateAvatarGestures_PlaceFilter": "true;16818255141",
@@ -11984,8 +11983,8 @@
     "FStringPerformanceControlExperimentName_IXP": "1;Portal.FFlagDisableStreamingTunableMemoryTracking-FStringPerformanceControlExperimentName;FFlagDisableStreamingTunableMemoryTracking-FStringPerformanceControlExperimentName;1249780813;flagbank",
     "FFlagEnablePartyVoiceStatusChangedDetailAnalytics": true,
     "FFlagCevAdditionalStatusLogging": true,
-    "FStringFlagRepoGitHashFastString": "ffc2e1f88b43eb66e2f6aa9d45e3fb2db1acce6c",
-    "DFStringFlagRepoGitHashDynamicString": "ffc2e1f88b43eb66e2f6aa9d45e3fb2db1acce6c",
-    "FStringFlipTimeStampFastString": "2025-04-03T22:51:25.289Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-03T22:51:25.289Z"
+    "FStringFlagRepoGitHashFastString": "e699c8e009feddd334746809d98791f528091ab3",
+    "DFStringFlagRepoGitHashDynamicString": "e699c8e009feddd334746809d98791f528091ab3",
+    "FStringFlipTimeStampFastString": "2025-04-03T22:57:05.057Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-03T22:57:05.057Z"
 }
