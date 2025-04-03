@@ -11299,6 +11299,8 @@
     "DFFlagEnableThirdPartyAdPauseResumeEventReporting2": true,
     "DFFlagEnableThirdPartyAdVolumeEventReporting": true,
     "DFFlagReportFirstThirdPartyErrorOnly": true,
+    "FFlagAXFixDuplicateWidgetListFetchApiCalls_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-03T22:47:21",
+    "FFlagAXPayloadExperimentReductionPortraitMode_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-03T22:47:21",
     "FFlagRenderEnableGlobalInstancingD3D11": true,
     "FFlagFixLooksSecondaryLayerApdativeScrolling": true,
     "FFlagUpdateAvatarGestures_PlaceFilter": "true;16818255141",
@@ -11982,8 +11984,8 @@
     "FStringPerformanceControlExperimentName_IXP": "1;Portal.FFlagDisableStreamingTunableMemoryTracking-FStringPerformanceControlExperimentName;FFlagDisableStreamingTunableMemoryTracking-FStringPerformanceControlExperimentName;1249780813;flagbank",
     "FFlagEnablePartyVoiceStatusChangedDetailAnalytics": true,
     "FFlagCevAdditionalStatusLogging": true,
-    "FStringFlagRepoGitHashFastString": "90fdc7bfb706635208485acd193397ad7f2798a7",
-    "DFStringFlagRepoGitHashDynamicString": "90fdc7bfb706635208485acd193397ad7f2798a7",
-    "FStringFlipTimeStampFastString": "2025-04-03T22:38:45.784Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-03T22:38:45.784Z"
+    "FStringFlagRepoGitHashFastString": "ffc2e1f88b43eb66e2f6aa9d45e3fb2db1acce6c",
+    "DFStringFlagRepoGitHashDynamicString": "ffc2e1f88b43eb66e2f6aa9d45e3fb2db1acce6c",
+    "FStringFlipTimeStampFastString": "2025-04-03T22:51:25.289Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-03T22:51:25.289Z"
 }
