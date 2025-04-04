@@ -11296,13 +11296,13 @@
     "DFFlagEnableThirdPartyAdVolumeEventReporting": true,
     "DFFlagReportFirstThirdPartyErrorOnly": true,
     "FFlagNavigationUseNewOffsetForClosestPoint": true,
-    "FFlagEnableResponsiveContainerRef10ft_Rollout": "true;60;2025-04-03T23:17:30",
     "DFIntRbxStorageRollingStatsHundredthsPercent_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-03T23:25:37",
     "FFlagAXFixDuplicateWidgetListFetchApiCalls": true,
     "FFlagAXPayloadExperimentReductionPortraitMode": true,
     "FFlagNavigationIncorrectPolyRefPathfindingLink": true,
     "FFlagAddFriendsPageFunctionalMigration_v2": true,
     "FFlagFixCustomTextBoxHotkey": true,
+    "FFlagEnableResponsiveContainerRef10ft": true,
     "FFlagRenderEnableGlobalInstancingD3D11": true,
     "FFlagFixLooksSecondaryLayerApdativeScrolling": true,
     "FFlagUpdateAvatarGestures_PlaceFilter": "true;16818255141",
@@ -11985,8 +11985,8 @@
     "FStringPerformanceControlExperimentName_IXP": "1;Portal.FFlagDisableStreamingTunableMemoryTracking-FStringPerformanceControlExperimentName;FFlagDisableStreamingTunableMemoryTracking-FStringPerformanceControlExperimentName;1249780813;flagbank",
     "FFlagEnablePartyVoiceStatusChangedDetailAnalytics": true,
     "FFlagCevAdditionalStatusLogging": true,
-    "FStringFlagRepoGitHashFastString": "fe962061f9d45eb378327c8697e5e2422e5946ff",
-    "DFStringFlagRepoGitHashDynamicString": "fe962061f9d45eb378327c8697e5e2422e5946ff",
-    "FStringFlipTimeStampFastString": "2025-04-04T00:12:20.694Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-04T00:12:20.694Z"
+    "FStringFlagRepoGitHashFastString": "ec3f5e66d4a872f6d1d6aabc8fc5818aded12235",
+    "DFStringFlagRepoGitHashDynamicString": "ec3f5e66d4a872f6d1d6aabc8fc5818aded12235",
+    "FStringFlipTimeStampFastString": "2025-04-04T00:24:34.900Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-04T00:24:34.900Z"
 }
