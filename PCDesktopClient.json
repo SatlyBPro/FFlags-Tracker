@@ -11601,8 +11601,8 @@
     "FFlagProfileBlockUnblockErrorToasts_v3": true,
     "FFlagSplitSquadJoinOriginSources": true,
     "FFlagAXCatalogPerfReduceCatalogAPIPayloadIXP4": true,
-    "FFlagAddFriendsTileFunctionalMigration_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-04T18:13:58",
     "FFlagEnableRecordSquadExperienceInviteChanges_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-04T18:53:30",
+    "FFlagAddFriendsTileFunctionalMigration": true,
     "AllowVideoPreRoll": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
@@ -11991,8 +11991,8 @@
     "FStringPerformanceControlExperimentName_IXP": "1;Portal.FFlagDisableStreamingTunableMemoryTracking-FStringPerformanceControlExperimentName;FFlagDisableStreamingTunableMemoryTracking-FStringPerformanceControlExperimentName;1249780813;flagbank",
     "FFlagEnablePartyVoiceStatusChangedDetailAnalytics": true,
     "FFlagCevAdditionalStatusLogging": true,
-    "FStringFlagRepoGitHashFastString": "dfee687c4c9fea8866fbfa95e51435ac79f76d7b",
-    "DFStringFlagRepoGitHashDynamicString": "dfee687c4c9fea8866fbfa95e51435ac79f76d7b",
-    "FStringFlipTimeStampFastString": "2025-04-04T19:04:05.598Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-04T19:04:05.598Z"
+    "FStringFlagRepoGitHashFastString": "9ffdae3d154ba259d6cd13f15c7ab8d24b0c075c",
+    "DFStringFlagRepoGitHashDynamicString": "9ffdae3d154ba259d6cd13f15c7ab8d24b0c075c",
+    "FStringFlipTimeStampFastString": "2025-04-04T19:17:22.189Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-04T19:17:22.189Z"
 }
