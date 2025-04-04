@@ -11600,7 +11600,7 @@
     "FFlagAXWidgetImpressionBasedIxpLayerExposure": true,
     "FFlagProfileBlockUnblockErrorToasts_v3": true,
     "FFlagSplitSquadJoinOriginSources": true,
-    "FFlagAXCatalogPerfReduceCatalogAPIPayloadIXP4_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-04T17:00:32",
+    "FFlagAXCatalogPerfReduceCatalogAPIPayloadIXP4": true,
     "AllowVideoPreRoll": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
@@ -11989,8 +11989,8 @@
     "FStringPerformanceControlExperimentName_IXP": "1;Portal.FFlagDisableStreamingTunableMemoryTracking-FStringPerformanceControlExperimentName;FFlagDisableStreamingTunableMemoryTracking-FStringPerformanceControlExperimentName;1249780813;flagbank",
     "FFlagEnablePartyVoiceStatusChangedDetailAnalytics": true,
     "FFlagCevAdditionalStatusLogging": true,
-    "FStringFlagRepoGitHashFastString": "1d7f04c5a80298bb7936dc27fdfb97e31ccc3256",
-    "DFStringFlagRepoGitHashDynamicString": "1d7f04c5a80298bb7936dc27fdfb97e31ccc3256",
-    "FStringFlipTimeStampFastString": "2025-04-04T17:57:35.909Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-04T17:57:35.909Z"
+    "FStringFlagRepoGitHashFastString": "b04422a5353637ef38a976dcfc9d5d5aba67800d",
+    "DFStringFlagRepoGitHashDynamicString": "b04422a5353637ef38a976dcfc9d5d5aba67800d",
+    "FStringFlipTimeStampFastString": "2025-04-04T18:03:48.699Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-04T18:03:48.699Z"
 }
