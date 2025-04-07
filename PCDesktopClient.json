@@ -11327,6 +11327,7 @@
     "DFIntInstanceOutliveDataModelThrottle": 1,
     "FFlagAXCombineGetOutfitDispatchesIXP3": true,
     "DFIntReportContextActionServiceBindEventsHundrethsPercent2": 100,
+    "FFlagUwpPlantDatFile_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-07T20:21:46",
     "FFlagRenderEnableGlobalInstancingD3D11": true,
     "FFlagFixLooksSecondaryLayerApdativeScrolling": true,
     "FFlagUpdateAvatarGestures_PlaceFilter": "true;16818255141",
@@ -12014,8 +12015,8 @@
     "FFlagCevAdditionalStatusLogging": true,
     "DFFlagFastClearMidphase": true,
     "FFlagTextureManagerRemoveAddExternalRef6": true,
-    "FStringFlagRepoGitHashFastString": "1e329e0ee2853d7c144d4a5f55d127a2d5a11375",
-    "DFStringFlagRepoGitHashDynamicString": "1e329e0ee2853d7c144d4a5f55d127a2d5a11375",
-    "FStringFlipTimeStampFastString": "2025-04-07T20:23:05.406Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-07T20:23:05.406Z"
+    "FStringFlagRepoGitHashFastString": "38b53db2ac4c9d5fb0578d59af6ee93844ecb024",
+    "DFStringFlagRepoGitHashDynamicString": "38b53db2ac4c9d5fb0578d59af6ee93844ecb024",
+    "FStringFlipTimeStampFastString": "2025-04-07T20:25:48.882Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-07T20:25:48.882Z"
 }
