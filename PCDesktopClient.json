@@ -11326,8 +11326,6 @@
     "DFStringRobloxTelemetryReliabilityCountAllowList_Staged": "perfdata,PerformanceControl,SessionTracking,ClientDisconnect;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-07T19:37:52",
     "DFIntInstanceOutliveDataModelThrottle": 1,
     "FFlagAXCombineGetOutfitDispatchesIXP3": true,
-    "FFlagChatWindowOnlyRenderMessagesOnce_Staged": "true;SteadyState;10;30;Revert;2025-04-07T20:04:53",
-    "FFlagChatWindowOnlyRenderMessagesOnce_IXP": "1;Portal.FFlagChatWindowOnlyRenderMessagesOnce-003;FFlagChatWindowOnlyRenderMessagesOnce-003;530774716;flagbank",
     "DFIntReportContextActionServiceBindEventsHundrethsPercent2": 100,
     "FFlagRenderEnableGlobalInstancingD3D11": true,
     "FFlagFixLooksSecondaryLayerApdativeScrolling": true,
@@ -12016,8 +12014,8 @@
     "FFlagCevAdditionalStatusLogging": true,
     "DFFlagFastClearMidphase": true,
     "FFlagTextureManagerRemoveAddExternalRef6": true,
-    "FStringFlagRepoGitHashFastString": "bdc68314abb6a43d081ef13c1b5621e0f833e051",
-    "DFStringFlagRepoGitHashDynamicString": "bdc68314abb6a43d081ef13c1b5621e0f833e051",
-    "FStringFlipTimeStampFastString": "2025-04-07T20:09:13.277Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-07T20:09:13.277Z"
+    "FStringFlagRepoGitHashFastString": "019743d639290cf2233b5b3c927261f23bb0e608",
+    "DFStringFlagRepoGitHashDynamicString": "019743d639290cf2233b5b3c927261f23bb0e608",
+    "FStringFlipTimeStampFastString": "2025-04-07T20:12:38.469Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-07T20:12:38.469Z"
 }
