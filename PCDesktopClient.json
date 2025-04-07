@@ -11326,6 +11326,8 @@
     "FFlagStudioFixExitAllPlaceSessionScopesCrash": true,
     "DFFlagGamepadCursorUsesRawPosition2_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-07T19:02:22",
     "FFlagEnableLayoutModifiers2": true,
+    "DFFlagPerformanceControlReportQuality2_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-07T19:25:52",
+    "FFlagPlayerViewRemoteEventTimeoutEnabled_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-07T19:25:56",
     "FFlagRenderEnableGlobalInstancingD3D11": true,
     "FFlagFixLooksSecondaryLayerApdativeScrolling": true,
     "FFlagUpdateAvatarGestures_PlaceFilter": "true;16818255141",
@@ -12012,8 +12014,8 @@
     "FFlagCevAdditionalStatusLogging": true,
     "DFFlagFastClearMidphase": true,
     "FFlagTextureManagerRemoveAddExternalRef6": true,
-    "FStringFlagRepoGitHashFastString": "610f72040a94beb4184f757cdf1495ebe69e869c",
-    "DFStringFlagRepoGitHashDynamicString": "610f72040a94beb4184f757cdf1495ebe69e869c",
-    "FStringFlipTimeStampFastString": "2025-04-07T19:18:48.283Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-07T19:18:48.283Z"
+    "FStringFlagRepoGitHashFastString": "fe63cc5ff614d0dbac4c6afd27527e448f07d3c0",
+    "DFStringFlagRepoGitHashDynamicString": "fe63cc5ff614d0dbac4c6afd27527e448f07d3c0",
+    "FStringFlipTimeStampFastString": "2025-04-07T19:27:25.123Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-07T19:27:25.123Z"
 }
