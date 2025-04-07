@@ -11611,6 +11611,7 @@
     "FFlagAddFriendsTileFunctionalMigration": true,
     "FFlagEnableRecordSquadExperienceInviteChanges": true,
     "FFlagNewControllerManagerManagedJoint_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-07T16:48:53",
+    "FFlagLuaAppHeroUnitImageOffset_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-07T17:14:46",
     "CaptureCountersIntervalInMinutes": 5,
     "CaptureQTStudioCountersEnabled": true,
     "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": false,
@@ -11999,8 +12000,8 @@
     "FFlagCevAdditionalStatusLogging": true,
     "FStringPlatformEventUrl_Rollout": ";60;2025-04-07T16:20:50",
     "DFFlagFastClearMidphase_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-07T16:48:23",
-    "FStringFlagRepoGitHashFastString": "07c7f6ae721dc80be2bc9033530bfa11702edd78",
-    "DFStringFlagRepoGitHashDynamicString": "07c7f6ae721dc80be2bc9033530bfa11702edd78",
-    "FStringFlipTimeStampFastString": "2025-04-07T17:11:55.087Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-07T17:11:55.087Z"
+    "FStringFlagRepoGitHashFastString": "9ceb79d699903f5494eb4ffb7e06f7a0fb31062b",
+    "DFStringFlagRepoGitHashDynamicString": "9ceb79d699903f5494eb4ffb7e06f7a0fb31062b",
+    "FStringFlipTimeStampFastString": "2025-04-07T17:15:49.165Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-07T17:15:49.165Z"
 }
