@@ -109,7 +109,7 @@
     "DFIntParallelNarrowPhaseSerialCutoff": 50,
     "DFIntPercentApiRequestsRecordGoogleAnalytics": 5,
     "DFIntPercentageThresholdUsingFriendsV2A3": 100,
-    "DFIntPerfDataGlobalThrottleHundredthsPercent": 20,
+    "DFIntPerfDataGlobalThrottleHundredthsPercent": 18,
     "DFIntPhysicsSenderMaxBandwidthBps": 38760,
     "DFIntPlayerConfigurerCDNProbeDelayMs": 10000,
     "DFIntPrimStatsGANumDelimited": 3000,
@@ -11305,7 +11305,6 @@
     "FFlagGetWidgetLuau": true,
     "FFlagRibbonConfigSave3": true,
     "FIntVkErrorEventsThrottleHundredthsPercent": 1000,
-    "DFIntPerfDataGlobalThrottleHundredthsPercent_Staged": "18;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-07T16:25:49",
     "FFlagSHUseNewBinSize_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-07T16:48:19",
     "FFlagIxpCrashTaggingIOS_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-07T17:02:19",
     "FStringStudioEmergencyMessageV4_Staged": "ewogICAgInZlcnNpb25TdGFydCI6IjAuMzAwLjAuMSIsCiAgICAidmVyc2lvbkVuZCI6IjAuNjY0LjAuNjY0MDcxMyIsCiAgICAicGxhdGZvcm1zIjogWyJXaW5kb3dzIiwgIk1hYyJdLAogICAgIm1lc3NhZ2UiOnt9LAogICAgInNodXRkb3duIjp0cnVlCn0=;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-07T17:06:59",
@@ -12000,8 +11999,9 @@
     "FFlagEnablePartyVoiceStatusChangedDetailAnalytics": true,
     "FFlagCevAdditionalStatusLogging": true,
     "DFFlagFastClearMidphase_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-07T16:48:23",
-    "FStringFlagRepoGitHashFastString": "8e55598ad60bb47d173adf479d0619e3bdeda053",
-    "DFStringFlagRepoGitHashDynamicString": "8e55598ad60bb47d173adf479d0619e3bdeda053",
-    "FStringFlipTimeStampFastString": "2025-04-07T17:29:24.839Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-07T17:29:24.839Z"
+    "FFlagTextureManagerRemoveAddExternalRef6_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-07T17:30:14",
+    "FStringFlagRepoGitHashFastString": "44cbb90f7acf8190c78b2424c7902cb9f45f3b1c",
+    "DFStringFlagRepoGitHashDynamicString": "44cbb90f7acf8190c78b2424c7902cb9f45f3b1c",
+    "FStringFlipTimeStampFastString": "2025-04-07T17:33:14.556Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-07T17:33:14.556Z"
 }
