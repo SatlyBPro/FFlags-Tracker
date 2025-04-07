@@ -11312,6 +11312,7 @@
     "FFlagIxpCrashTaggingIOS_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-07T17:02:19",
     "FStringStudioEmergencyMessageV4_Staged": "ewogICAgInZlcnNpb25TdGFydCI6IjAuMzAwLjAuMSIsCiAgICAidmVyc2lvbkVuZCI6IjAuNjY0LjAuNjY0MDcxMyIsCiAgICAicGxhdGZvcm1zIjogWyJXaW5kb3dzIiwgIk1hYyJdLAogICAgIm1lc3NhZ2UiOnt9LAogICAgInNodXRkb3duIjp0cnVlCn0=;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-07T17:06:59",
     "FFlagFixScriptDiffViewForNewCreatedScript_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-07T17:07:03",
+    "FFlagSetRolloutUpdateTimestamp_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-07T17:09:22",
     "FFlagRenderEnableGlobalInstancingD3D11": true,
     "FFlagFixLooksSecondaryLayerApdativeScrolling": true,
     "FFlagUpdateAvatarGestures_PlaceFilter": "true;16818255141",
@@ -11998,8 +11999,8 @@
     "FFlagCevAdditionalStatusLogging": true,
     "FStringPlatformEventUrl_Rollout": ";60;2025-04-07T16:20:50",
     "DFFlagFastClearMidphase_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-07T16:48:23",
-    "FStringFlagRepoGitHashFastString": "54f4dca4407552222ca1f7a56be2dc51645876e9",
-    "DFStringFlagRepoGitHashDynamicString": "54f4dca4407552222ca1f7a56be2dc51645876e9",
-    "FStringFlipTimeStampFastString": "2025-04-07T17:08:36.934Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-07T17:08:36.934Z"
+    "FStringFlagRepoGitHashFastString": "07c7f6ae721dc80be2bc9033530bfa11702edd78",
+    "DFStringFlagRepoGitHashDynamicString": "07c7f6ae721dc80be2bc9033530bfa11702edd78",
+    "FStringFlipTimeStampFastString": "2025-04-07T17:11:55.087Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-07T17:11:55.087Z"
 }
