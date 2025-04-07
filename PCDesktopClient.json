@@ -11320,6 +11320,9 @@
     "FFlagSHUseNewBinSize": true,
     "FFlagTelemetryDataReArchCompressBodyData_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-07T17:53:48",
     "FFlagCheckRolloutTimestamp_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-07T17:55:13",
+    "FFlagStudioDontBlockLoginIfFailedToSaveToken_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-07T17:58:23",
+    "FFlagStudioFixExitAllPlaceSessionScopesCrash_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-07T17:59:17",
+    "FFlagEnableLayoutModifiers2_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-07T18:01:20",
     "FFlagFixLooksSecondaryLayerApdativeScrolling": true,
     "FFlagUpdateAvatarGestures_PlaceFilter": "true;16818255141",
     "FFlagEnableTempFixCollectibleBundlePurchase": true,
@@ -12006,8 +12009,8 @@
     "FFlagCevAdditionalStatusLogging": true,
     "FFlagTextureManagerRemoveAddExternalRef6_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-07T17:30:14",
     "DFFlagFastClearMidphase": true,
-    "FStringFlagRepoGitHashFastString": "a1a5a257ef171c6ecb72ce62b8c0da33a2e1c5fa",
-    "DFStringFlagRepoGitHashDynamicString": "a1a5a257ef171c6ecb72ce62b8c0da33a2e1c5fa",
-    "FStringFlipTimeStampFastString": "2025-04-07T17:59:41.173Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-07T17:59:41.173Z"
+    "FStringFlagRepoGitHashFastString": "f51f9264c05a11f560b39a08f9384edb52b8d129",
+    "DFStringFlagRepoGitHashDynamicString": "f51f9264c05a11f560b39a08f9384edb52b8d129",
+    "FStringFlipTimeStampFastString": "2025-04-07T18:02:33.203Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-07T18:02:33.203Z"
 }
