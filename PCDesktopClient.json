@@ -11606,6 +11606,7 @@
     "FFlagAXCatalogPerfReduceCatalogAPIPayloadIXP4": true,
     "FFlagAddFriendsTileFunctionalMigration": true,
     "FFlagEnableRecordSquadExperienceInviteChanges": true,
+    "FFlagNewControllerManagerManagedJoint_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-07T16:48:53",
     "CaptureCountersIntervalInMinutes": 5,
     "CaptureQTStudioCountersEnabled": true,
     "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": false,
@@ -11993,8 +11994,9 @@
     "FFlagEnablePartyVoiceStatusChangedDetailAnalytics": true,
     "FFlagCevAdditionalStatusLogging": true,
     "FStringPlatformEventUrl_Rollout": ";60;2025-04-07T16:20:50",
-    "FStringFlagRepoGitHashFastString": "564c9d06f21edc68e8d9063209eb4df7061ed67d",
-    "DFStringFlagRepoGitHashDynamicString": "564c9d06f21edc68e8d9063209eb4df7061ed67d",
-    "FStringFlipTimeStampFastString": "2025-04-07T16:49:54.161Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-07T16:49:54.161Z"
+    "DFFlagFastClearMidphase_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-07T16:48:23",
+    "FStringFlagRepoGitHashFastString": "d71b393a043762d4e3041a8752fc0f3e3b649f4c",
+    "DFStringFlagRepoGitHashDynamicString": "d71b393a043762d4e3041a8752fc0f3e3b649f4c",
+    "FStringFlipTimeStampFastString": "2025-04-07T16:53:18.084Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-07T16:53:18.084Z"
 }
