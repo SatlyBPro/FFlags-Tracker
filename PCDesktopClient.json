@@ -11314,6 +11314,8 @@
     "DFFlagInstanceOutliveDataModelAssert_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-07T17:20:09",
     "DFIntInstanceOutliveDataModelThrottle_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-07T17:20:29",
     "FFlagRenderEnableGlobalInstancingD3D11": true,
+    "FFlagEnableMPAllocCallbackDynamicAlloc_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-07T17:40:53",
+    "FFlagShouldShowSimpleMusicFtuxTooltip2_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-07T17:41:35",
     "FFlagFixLooksSecondaryLayerApdativeScrolling": true,
     "FFlagUpdateAvatarGestures_PlaceFilter": "true;16818255141",
     "FFlagEnableTempFixCollectibleBundlePurchase": true,
@@ -12000,8 +12002,8 @@
     "FFlagCevAdditionalStatusLogging": true,
     "DFFlagFastClearMidphase_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-07T16:48:23",
     "FFlagTextureManagerRemoveAddExternalRef6_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-07T17:30:14",
-    "FStringFlagRepoGitHashFastString": "44cbb90f7acf8190c78b2424c7902cb9f45f3b1c",
-    "DFStringFlagRepoGitHashDynamicString": "44cbb90f7acf8190c78b2424c7902cb9f45f3b1c",
-    "FStringFlipTimeStampFastString": "2025-04-07T17:33:14.556Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-07T17:33:14.556Z"
+    "FStringFlagRepoGitHashFastString": "97043ded6557d3c9f547972c806eada922700671",
+    "DFStringFlagRepoGitHashDynamicString": "97043ded6557d3c9f547972c806eada922700671",
+    "FStringFlipTimeStampFastString": "2025-04-07T17:44:37.055Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-07T17:44:37.055Z"
 }
