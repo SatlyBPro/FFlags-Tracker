@@ -11307,7 +11307,6 @@
     "FIntVkErrorEventsThrottleHundredthsPercent": 1000,
     "FFlagLogPartyVoiceJoinFailure": true,
     "DFFlagInstanceOutliveDataModelAssert_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-07T17:20:09",
-    "DFIntInstanceOutliveDataModelThrottle_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-07T17:20:29",
     "FFlagRenderEnableGlobalInstancingD3D11": true,
     "FFlagEnableMPAllocCallbackDynamicAlloc_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-07T17:40:53",
     "FFlagShouldShowSimpleMusicFtuxTooltip2_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-07T17:41:35",
@@ -11617,8 +11616,8 @@
     "FFlagAXCatalogPerfReduceCatalogAPIPayloadIXP4": true,
     "FFlagAddFriendsTileFunctionalMigration": true,
     "FFlagEnableRecordSquadExperienceInviteChanges": true,
-    "FFlagLuaAppHeroUnitImageOffset_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-07T17:14:46",
     "FFlagNewControllerManagerManagedJoint": true,
+    "FFlagLuaAppHeroUnitImageOffset": true,
     "AllowVideoPreRoll": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
@@ -12008,8 +12007,8 @@
     "FFlagCevAdditionalStatusLogging": true,
     "FFlagTextureManagerRemoveAddExternalRef6_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-07T17:30:14",
     "DFFlagFastClearMidphase": true,
-    "FStringFlagRepoGitHashFastString": "ce271adc1e426017b9aeff89329572bbde341905",
-    "DFStringFlagRepoGitHashDynamicString": "ce271adc1e426017b9aeff89329572bbde341905",
-    "FStringFlipTimeStampFastString": "2025-04-07T18:12:54.510Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-07T18:12:54.510Z"
+    "FStringFlagRepoGitHashFastString": "faf0a93f07cbabcae96d2dd0ccb82881ea17ed58",
+    "DFStringFlagRepoGitHashDynamicString": "faf0a93f07cbabcae96d2dd0ccb82881ea17ed58",
+    "FStringFlipTimeStampFastString": "2025-04-07T18:19:21.008Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-07T18:19:21.008Z"
 }
