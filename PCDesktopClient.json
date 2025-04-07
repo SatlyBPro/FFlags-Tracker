@@ -11307,7 +11307,6 @@
     "FFlagLogPartyVoiceJoinFailure": true,
     "FFlagAppChatNavigateLandingWhenDisabled": true,
     "FFlagSHUseNewBinSize": true,
-    "FFlagEnableLayoutModifiers2_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-07T18:01:20",
     "FFlagIxpCrashTaggingIOS": true,
     "FFlagSetRolloutUpdateTimestamp": true,
     "FFlagFixScriptDiffViewForNewCreatedScript": true,
@@ -11327,6 +11326,7 @@
     "FFlagStudioDontBlockLoginIfFailedToSaveToken": true,
     "FFlagStudioFixExitAllPlaceSessionScopesCrash": true,
     "DFFlagGamepadCursorUsesRawPosition2_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-07T19:02:22",
+    "FFlagEnableLayoutModifiers2": true,
     "FFlagRenderEnableGlobalInstancingD3D11": true,
     "FFlagFixLooksSecondaryLayerApdativeScrolling": true,
     "FFlagUpdateAvatarGestures_PlaceFilter": "true;16818255141",
@@ -12013,8 +12013,8 @@
     "FFlagCevAdditionalStatusLogging": true,
     "DFFlagFastClearMidphase": true,
     "FFlagTextureManagerRemoveAddExternalRef6": true,
-    "FStringFlagRepoGitHashFastString": "a9917d98e505376f08391f264ef235395a873c56",
-    "DFStringFlagRepoGitHashDynamicString": "a9917d98e505376f08391f264ef235395a873c56",
-    "FStringFlipTimeStampFastString": "2025-04-07T19:04:02.928Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-07T19:04:02.928Z"
+    "FStringFlagRepoGitHashFastString": "1b80c63c74f342e787f7c02daaa207c80f532491",
+    "DFStringFlagRepoGitHashDynamicString": "1b80c63c74f342e787f7c02daaa207c80f532491",
+    "FStringFlipTimeStampFastString": "2025-04-07T19:07:07.152Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-07T19:07:07.152Z"
 }
