@@ -11824,7 +11824,7 @@
     "FFlagLuaInExperienceCoreScriptsGameInviteUnificationV3": true,
     "FFlagWindowsClientCrashpadInitInThread": true,
     "DFIntReportAbsoluteSizeOutsideDMThrottleHundrethsPercent": 10,
-    "FFlagPlatformEventEnabled2": true,
+    "FFlagPlatformEventEnabled2": false,
     "DFIntUIScrollingTime_ReportHundredthsPercent2": 100,
     "DFIntReportUIScrollingTimeSampleInterval": 50,
     "FFlagContactImporterManagerPolicyFix_v1": true,
@@ -11990,8 +11990,8 @@
     "FStringPerformanceControlExperimentName_IXP": "1;Portal.FFlagDisableStreamingTunableMemoryTracking-FStringPerformanceControlExperimentName;FFlagDisableStreamingTunableMemoryTracking-FStringPerformanceControlExperimentName;1249780813;flagbank",
     "FFlagEnablePartyVoiceStatusChangedDetailAnalytics": true,
     "FFlagCevAdditionalStatusLogging": true,
-    "FStringFlagRepoGitHashFastString": "4b8f574f53a9d823b43413344229062ce5832185",
-    "DFStringFlagRepoGitHashDynamicString": "4b8f574f53a9d823b43413344229062ce5832185",
-    "FStringFlipTimeStampFastString": "2025-04-07T16:14:48.952Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-07T16:14:48.952Z"
+    "FStringFlagRepoGitHashFastString": "987ed1c3b1aff8467c6ed4603c26df0aef854aa8",
+    "DFStringFlagRepoGitHashDynamicString": "987ed1c3b1aff8467c6ed4603c26df0aef854aa8",
+    "FStringFlipTimeStampFastString": "2025-04-07T16:16:50.159Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-07T16:16:50.159Z"
 }
