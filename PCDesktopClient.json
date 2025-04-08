@@ -11338,9 +11338,7 @@
     "DFFlagSanityNullCheckInNativeAdsProtocol": true,
     "FFlagEnableMp4RecorderForAllWindows": true,
     "FFlagEnableUpdatedLocalizationTableLoading2": true,
-    "FFlagScrollEventOverhaulIncludeAndroid_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-08T17:06:23",
     "FFlagFixPartyVoiceGetPermissions2": true,
-    "FFlagUIBloxMoveMediaGalleryToLuaApps_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-08T17:09:06",
     "DFFlagSwapRayCellTraversalOrder": true,
     "DFIntRobloxTelemetryThrottlingTimeToTrackMeshSizeBuckets_Rollout": "10;60;2025-04-08T17:33:36",
     "DFIntUnexpectedEventGlobalCapIntervalSeconds": 7200,
@@ -11348,6 +11346,8 @@
     "FFlagLoadKeysFromDbAsync": true,
     "DFFlagODAGetAdAvailabilityOrFetchRefactor": true,
     "DFFlagODARetrieveQueryInfoAndFetchAdRefactor": true,
+    "FFlagScrollEventOverhaulIncludeAndroid": true,
+    "FFlagUIBloxMoveMediaGalleryToLuaApps": true,
     "FFlagFixLooksSecondaryLayerApdativeScrolling": true,
     "FFlagUpdateAvatarGestures_PlaceFilter": "true;16818255141",
     "FFlagEnableTempFixCollectibleBundlePurchase": true,
@@ -12038,8 +12038,8 @@
     "FFlagCevAdditionalStatusLogging": true,
     "DFFlagFastClearMidphase": true,
     "FFlagTextureManagerRemoveAddExternalRef6": true,
-    "FStringFlagRepoGitHashFastString": "70d38c57dda33eb4251872d9d225d018343f974e",
-    "DFStringFlagRepoGitHashDynamicString": "70d38c57dda33eb4251872d9d225d018343f974e",
-    "FStringFlipTimeStampFastString": "2025-04-08T17:42:34.711Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-08T17:42:34.711Z"
+    "FStringFlagRepoGitHashFastString": "9d9d4cd52a0f66e3fb6aeb812e03b170606d0c4e",
+    "DFStringFlagRepoGitHashDynamicString": "9d9d4cd52a0f66e3fb6aeb812e03b170606d0c4e",
+    "FStringFlipTimeStampFastString": "2025-04-08T18:14:09.283Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-08T18:14:09.283Z"
 }
