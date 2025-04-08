@@ -115,7 +115,7 @@
     "FFlagAXUseDynamicIsLooksWidget": true,
     "DFFlagMeshLODTranscode2": false,
     "DFFlagVoiceChatCullingSendMessagesOnWorkerThread": true,
-    "FFlagReportIsFriendsWithUsage": false,
+    "FFlagReportIsFriendsWithUsage": true,
     "DFFlagFixFloatConversionPlaybackErrorForImage": true,
     "FFlagAXEnableOrganicContentTemplates2": true,
     "FFlagAgreementItemsOrderFixEnabled": true,
@@ -243,8 +243,8 @@
     "ShowInstallSuccessPrompt": true,
     "FFlagAXUnifiedItemFooterPriceFix": true,
     "FFlagWinInstallerDoNotKillRunningClient": true,
-    "FStringFlagRepoGitHashFastString": "321663f2707c032a103133f8ab2cdce424a6a33f",
-    "DFStringFlagRepoGitHashDynamicString": "321663f2707c032a103133f8ab2cdce424a6a33f",
-    "FStringFlipTimeStampFastString": "2025-04-08T19:28:03.639Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-08T19:28:03.639Z"
+    "FStringFlagRepoGitHashFastString": "8a87c003c07192bf43b80b7c8abc49c928b426c8",
+    "DFStringFlagRepoGitHashDynamicString": "8a87c003c07192bf43b80b7c8abc49c928b426c8",
+    "FStringFlipTimeStampFastString": "2025-04-08T19:29:09.410Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-08T19:29:09.410Z"
 }
