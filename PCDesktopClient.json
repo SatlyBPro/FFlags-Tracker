@@ -11647,6 +11647,8 @@
     "DFFlagReportReplicatorStatsToTelemetryV22": true,
     "FFlagManagedSensor3": true,
     "DFFlagRakNetMissingPingUpgradeDetection_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-08T16:39:28",
+    "FFlagAppChatEnableInterventionRC3_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-08T17:14:58",
+    "FFlagInAppInterventionEnabledRC1_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-08T17:14:58",
     "AllowVideoPreRoll": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
@@ -12035,8 +12037,8 @@
     "FFlagCevAdditionalStatusLogging": true,
     "DFFlagFastClearMidphase": true,
     "FFlagTextureManagerRemoveAddExternalRef6": true,
-    "FStringFlagRepoGitHashFastString": "b47712e5f9a03247e9c32391e2ec15545b3779f4",
-    "DFStringFlagRepoGitHashDynamicString": "b47712e5f9a03247e9c32391e2ec15545b3779f4",
-    "FStringFlipTimeStampFastString": "2025-04-08T17:11:58.619Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-08T17:11:58.619Z"
+    "FStringFlagRepoGitHashFastString": "59b39b69c6b51ed409119905065966e9b161abe5",
+    "DFStringFlagRepoGitHashDynamicString": "59b39b69c6b51ed409119905065966e9b161abe5",
+    "FStringFlipTimeStampFastString": "2025-04-08T17:16:10.436Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-08T17:16:10.436Z"
 }
