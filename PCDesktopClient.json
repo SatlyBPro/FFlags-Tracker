@@ -11348,6 +11348,7 @@
     "FFlagUIBloxMoveMediaGalleryToLuaApps": true,
     "FFlagSeamlessVoiceFTUXV2_Staged": "false;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-08T18:17:26",
     "FFlagRenderDynamicResolutionScale12": true,
+    "FFlagScrollEventOverhaulIncludePlaystation_Staged": "true;SteadyState;10;30;Revert;2025-04-08T19:14:16",
     "FFlagRenderEnableGlobalInstancingD3D11": true,
     "FFlagFixLooksSecondaryLayerApdativeScrolling": true,
     "FFlagUpdateAvatarGestures_PlaceFilter": "true;16818255141",
@@ -12039,8 +12040,8 @@
     "DFFlagFastClearMidphase": true,
     "FFlagTextureManagerRemoveAddExternalRef6": true,
     "FFlagMovePrerenderV2_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-08T18:24:54",
-    "FStringFlagRepoGitHashFastString": "34f757310603646dfdf15bc33b0873c70a7d34cd",
-    "DFStringFlagRepoGitHashDynamicString": "34f757310603646dfdf15bc33b0873c70a7d34cd",
-    "FStringFlipTimeStampFastString": "2025-04-08T18:42:07.632Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-08T18:42:07.632Z"
+    "FStringFlagRepoGitHashFastString": "22b5b0e2a780ef5c0e081031d503f176755534d3",
+    "DFStringFlagRepoGitHashDynamicString": "22b5b0e2a780ef5c0e081031d503f176755534d3",
+    "FStringFlipTimeStampFastString": "2025-04-08T19:15:35.334Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-08T19:15:35.334Z"
 }
