@@ -11346,10 +11346,10 @@
     "FFlagScrollEventOverhaulIncludeAndroid": true,
     "FFlagUIBloxMoveMediaGalleryToLuaApps": true,
     "FFlagRenderDynamicResolutionScale12": true,
-    "FFlagStudioRemoveQuitIfLastDocInLastAppInstance_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-08T19:28:11",
     "FFlagScrollEventOverhaulIncludePlaystation_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-08T20:19:34",
     "FFlagStudioUnderstandInvalidLaunchTask": true,
     "FFlagStudioCloseTelemetry": true,
+    "FFlagStudioRemoveQuitIfLastDocInLastAppInstance": true,
     "FFlagRenderEnableGlobalInstancingD3D11": true,
     "FFlagFixLooksSecondaryLayerApdativeScrolling": true,
     "FFlagUpdateAvatarGestures_PlaceFilter": "true;16818255141",
@@ -12042,8 +12042,8 @@
     "DFFlagFastClearMidphase": true,
     "FFlagTextureManagerRemoveAddExternalRef6": true,
     "FFlagMovePrerenderV2": true,
-    "FStringFlagRepoGitHashFastString": "291f3b3097fba988ba4fdf32c9e3674568797c57",
-    "DFStringFlagRepoGitHashDynamicString": "291f3b3097fba988ba4fdf32c9e3674568797c57",
-    "FStringFlipTimeStampFastString": "2025-04-08T20:30:56.619Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-08T20:30:56.619Z"
+    "FStringFlagRepoGitHashFastString": "1141197805da7966514d1d098a8ef0e1dd701f43",
+    "DFStringFlagRepoGitHashDynamicString": "1141197805da7966514d1d098a8ef0e1dd701f43",
+    "FStringFlipTimeStampFastString": "2025-04-08T20:40:03.992Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-08T20:40:03.992Z"
 }
