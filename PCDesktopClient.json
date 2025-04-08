@@ -229,7 +229,7 @@
     "FFlagUserCameraToggle": "true",
     "FFlagUserChatAddServerSideChecks": true,
     "FFlagUserChatAddServerSideChecks2": true,
-    "FFlagUserChatHistorySinksInput": false,
+    "FFlagUserChatHistorySinksInput": true,
     "FFlagUserChatNewMessageLengthCheck": false,
     "FFlagUserChatNewMessageLengthCheck2": true,
     "FFlagUserChatValidateFirst": true,
@@ -11350,6 +11350,7 @@
     "FFlagScrollEventOverhaulIncludePlaystation_Staged": "true;SteadyState;10;30;Revert;2025-04-08T19:14:16",
     "FFlagStudioUnderstandInvalidLaunchTask_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-08T19:18:09",
     "FFlagStudioCloseTelemetry_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-08T19:20:54",
+    "FFlagStudioRemoveQuitIfLastDocInLastAppInstance_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-08T19:28:11",
     "FFlagRenderEnableGlobalInstancingD3D11": true,
     "FFlagFixLooksSecondaryLayerApdativeScrolling": true,
     "FFlagUpdateAvatarGestures_PlaceFilter": "true;16818255141",
@@ -12041,8 +12042,8 @@
     "DFFlagFastClearMidphase": true,
     "FFlagTextureManagerRemoveAddExternalRef6": true,
     "FFlagMovePrerenderV2": true,
-    "FStringFlagRepoGitHashFastString": "321663f2707c032a103133f8ab2cdce424a6a33f",
-    "DFStringFlagRepoGitHashDynamicString": "321663f2707c032a103133f8ab2cdce424a6a33f",
-    "FStringFlipTimeStampFastString": "2025-04-08T19:28:03.639Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-08T19:28:03.639Z"
+    "FStringFlagRepoGitHashFastString": "8a87c003c07192bf43b80b7c8abc49c928b426c8",
+    "DFStringFlagRepoGitHashDynamicString": "8a87c003c07192bf43b80b7c8abc49c928b426c8",
+    "FStringFlipTimeStampFastString": "2025-04-08T19:29:09.410Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-08T19:29:09.410Z"
 }
