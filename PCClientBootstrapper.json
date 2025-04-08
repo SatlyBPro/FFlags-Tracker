@@ -6,7 +6,7 @@
     "FStringDisabledRobloxChannelList": "ZReleaseVS2019,Zfeatureboost_removal_test_in_prod,Zbugfixboost-mutex-revert,zfeaturehsr2cdnplaytest2,Zproject512-boost-remove-mutex-1,Zproject516-boost-remove-mutex-network,Zfeatureinstance-parent-weak-ptr,Zfeaturebaseline,Zfeatureinstance-parent-weak-ptr-2,Zfeaturetelemlife,Zfeaturefmod-20115,ZbugfixCLI-54676-test,Zfeaturesubsystematomic,ZbugfixCLI-55214-master,Zfeatureqt5.15,Zfeatureuse-new-rapidjson-in-flag-loading,Zfeaturefmod-recording-test,Zfeaturesubsystemhttpclient,Zfeaturesignalconcurrency,Zfeatureupgrade-lz4,Zxcode13release,ZQTitanStudioRelease,ZQTitanStudioReleaseHighDpi,Zfeatureprepare-shorelines4,zqtcanary,Zfeatureupgrade-libyuv-bento4,ZfeatureLUATOOLS-121-rbxpMoonbeamReleaseTest,Zfeaturewin64_client_deploy_test,ZWinPlayer64,ZProjectQt5159,Zprojectupdate-webrtc-fetch-content,ZFeaturesignaldoublelink,ZProjectnetwork-transport-split",
     "FFlagBootstrapperSaveOptOutDUAR": true,
     "FFlagBootstrapperAutoOptIn": true,
-    "FIntBootstrapperInfluxReportHundredthPercentage": 1,
+    "FIntBootstrapperInfluxReportHundredthPercentage": 100,
     "FIntBootstrapperWebView2InstallationTelemetryHundredthPercent": 10000,
     "FIntInstallWebView2RuntimeTimeoutMs": 1200000,
     "FIntMacBootstrapperWaitMillisecondsForClientTermination": 500,
@@ -243,8 +243,8 @@
     "ShowInstallSuccessPrompt": true,
     "FFlagAXUnifiedItemFooterPriceFix": true,
     "FFlagWinInstallerDoNotKillRunningClient": true,
-    "FStringFlagRepoGitHashFastString": "8a87c003c07192bf43b80b7c8abc49c928b426c8",
-    "DFStringFlagRepoGitHashDynamicString": "8a87c003c07192bf43b80b7c8abc49c928b426c8",
-    "FStringFlipTimeStampFastString": "2025-04-08T19:29:09.410Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-08T19:29:09.410Z"
+    "FStringFlagRepoGitHashFastString": "fe5408f07e303809773e69b53d35d9416cc9d572",
+    "DFStringFlagRepoGitHashDynamicString": "fe5408f07e303809773e69b53d35d9416cc9d572",
+    "FStringFlipTimeStampFastString": "2025-04-08T19:37:40.201Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-08T19:37:40.201Z"
 }
