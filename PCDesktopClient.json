@@ -11339,7 +11339,6 @@
     "FFlagEnableMp4RecorderForAllWindows": true,
     "FFlagEnableUpdatedLocalizationTableLoading2": true,
     "FFlagFixPartyVoiceGetPermissions2": true,
-    "DFFlagSwapRayCellTraversalOrder": true,
     "DFIntUnexpectedEventGlobalCapIntervalSeconds": 7200,
     "FFlagLoadKeysFromDbAsync": true,
     "DFFlagODAGetAdAvailabilityOrFetchRefactor": true,
@@ -11350,6 +11349,7 @@
     "FFlagStudioUnderstandInvalidLaunchTask_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-08T19:18:09",
     "FFlagStudioCloseTelemetry_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-08T19:20:54",
     "FFlagStudioRemoveQuitIfLastDocInLastAppInstance_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-08T19:28:11",
+    "FFlagScrollEventOverhaulIncludePlaystation_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-08T20:19:34",
     "FFlagRenderEnableGlobalInstancingD3D11": true,
     "FFlagFixLooksSecondaryLayerApdativeScrolling": true,
     "FFlagUpdateAvatarGestures_PlaceFilter": "true;16818255141",
@@ -12042,8 +12042,8 @@
     "DFFlagFastClearMidphase": true,
     "FFlagTextureManagerRemoveAddExternalRef6": true,
     "FFlagMovePrerenderV2": true,
-    "FStringFlagRepoGitHashFastString": "4a0870f5c0df23d68ddda8282058b6fa64ee2f42",
-    "DFStringFlagRepoGitHashDynamicString": "4a0870f5c0df23d68ddda8282058b6fa64ee2f42",
-    "FStringFlipTimeStampFastString": "2025-04-08T19:47:40.198Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-08T19:47:40.198Z"
+    "FStringFlagRepoGitHashFastString": "48bec17d22db0e3926e39452dcd2286ab84923f7",
+    "DFStringFlagRepoGitHashDynamicString": "48bec17d22db0e3926e39452dcd2286ab84923f7",
+    "FStringFlipTimeStampFastString": "2025-04-08T20:21:09.487Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-08T20:21:09.487Z"
 }
