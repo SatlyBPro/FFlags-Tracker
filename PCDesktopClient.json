@@ -11345,6 +11345,7 @@
     "FFlagLoadKeysFromDbAsync_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-08T16:40:08",
     "FFlagScrollEventOverhaulIncludeAndroid_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-08T17:06:23",
     "FFlagFixPartyVoiceGetPermissions2": true,
+    "FFlagUIBloxMoveMediaGalleryToLuaApps_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-08T17:09:06",
     "FFlagRenderEnableGlobalInstancingD3D11": true,
     "FFlagFixLooksSecondaryLayerApdativeScrolling": true,
     "FFlagUpdateAvatarGestures_PlaceFilter": "true;16818255141",
@@ -11603,7 +11604,6 @@
     "FFlagSimSkeletonNestedAttachments": true,
     "FFlagLoadAndReportDeviceBTIDCookie": true,
     "DFIntVideoEncoderBitrate": 4000000,
-    "FFlagEnableMp4RecorderForAllWindows_IXP": "1;Portal.FFlagEnableMp4RecorderForAllWindows;FFlagEnableMp4RecorderForAllWindows;793345777;flagbank",
     "FFlagAXMarketplaceUnusedEventAblation2": true,
     "FFlagShouldShowSimpleMusicFtuxTooltip": true,
     "FIntShareCaptureUploadVideoToApiRolloutLimit": 50,
@@ -12035,8 +12035,8 @@
     "FFlagCevAdditionalStatusLogging": true,
     "DFFlagFastClearMidphase": true,
     "FFlagTextureManagerRemoveAddExternalRef6": true,
-    "FStringFlagRepoGitHashFastString": "0bc9f241bb7136cd4e98880f90922141c6c237a0",
-    "DFStringFlagRepoGitHashDynamicString": "0bc9f241bb7136cd4e98880f90922141c6c237a0",
-    "FStringFlipTimeStampFastString": "2025-04-08T17:07:29.396Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-08T17:07:29.396Z"
+    "FStringFlagRepoGitHashFastString": "b47712e5f9a03247e9c32391e2ec15545b3779f4",
+    "DFStringFlagRepoGitHashDynamicString": "b47712e5f9a03247e9c32391e2ec15545b3779f4",
+    "FStringFlipTimeStampFastString": "2025-04-08T17:11:58.619Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-08T17:11:58.619Z"
 }
