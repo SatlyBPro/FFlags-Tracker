@@ -229,7 +229,7 @@
     "FFlagUserCameraToggle": "true",
     "FFlagUserChatAddServerSideChecks": true,
     "FFlagUserChatAddServerSideChecks2": true,
-    "FFlagUserChatHistorySinksInput": true,
+    "FFlagUserChatHistorySinksInput": false,
     "FFlagUserChatNewMessageLengthCheck": false,
     "FFlagUserChatNewMessageLengthCheck2": true,
     "FFlagUserChatValidateFirst": true,
