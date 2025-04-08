@@ -115,7 +115,7 @@
     "FFlagAXUseDynamicIsLooksWidget": true,
     "DFFlagMeshLODTranscode2": false,
     "DFFlagVoiceChatCullingSendMessagesOnWorkerThread": true,
-    "FFlagReportIsFriendsWithUsage": true,
+    "FFlagReportIsFriendsWithUsage": false,
     "DFFlagFixFloatConversionPlaybackErrorForImage": true,
     "FFlagAXEnableOrganicContentTemplates2": true,
     "FFlagAgreementItemsOrderFixEnabled": true,
