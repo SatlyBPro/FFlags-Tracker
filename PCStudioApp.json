@@ -11366,6 +11366,7 @@
     "FFlagLuauFragmentNoTypeFunEval": true,
     "FFlagTutorialsUseLuaRibbon2": true,
     "FFlagEditableMeshNoCacheTangent_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-09T17:28:58",
+    "FFlagPluginGuiClipsToViewport_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-09T17:53:56",
     "AllowVideoPreRoll": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
@@ -12956,8 +12957,8 @@
     "FFlagLuaStartPagePlaceOpenAttributionTelemetry": true,
     "FFlagCacheReadParsePolicy": true,
     "FFlagFontListFetchRetryForMoreTimes": true,
-    "FStringFlagRepoGitHashFastString": "244dfd8d3c6da819451590e1c11a82e23dedd03a",
-    "DFStringFlagRepoGitHashDynamicString": "244dfd8d3c6da819451590e1c11a82e23dedd03a",
-    "FStringFlipTimeStampFastString": "2025-04-09T17:29:52.993Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-09T17:29:52.993Z"
+    "FStringFlagRepoGitHashFastString": "4ee18f4fb98e82e56f0a5294f9c0c743c5ff67e2",
+    "DFStringFlagRepoGitHashDynamicString": "4ee18f4fb98e82e56f0a5294f9c0c743c5ff67e2",
+    "FStringFlipTimeStampFastString": "2025-04-09T17:55:55.509Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-09T17:55:55.509Z"
 }
