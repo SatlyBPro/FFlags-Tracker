@@ -11254,7 +11254,6 @@
     "FFlagAXImpressionReporterConditionalHookBacktraceError": true,
     "FFlagAXUseRendererInfoConditionalHookBacktraceError": true,
     "DFIntDescendantOfDataModelThrottleHundredthsPercent": 10,
-    "FFlagDescendantOfDataModel": true,
     "FFlagAsyncVersionCheck": true,
     "FFlagReportOTAPluginVersionToBacktrace2": true,
     "FFlagSelectedObjectCheckRateLimit": true,
@@ -11307,7 +11306,6 @@
     "FFlagIxpCrashTaggingIOS": true,
     "FFlagSetRolloutUpdateTimestamp": true,
     "FFlagFixScriptDiffViewForNewCreatedScript": true,
-    "DFFlagInstanceOutliveDataModelAssert": true,
     "FFlagAddRolloutUpdateTimestamp": true,
     "FFlagShouldShowMusicFtuxTooltip3": true,
     "FFlagShouldShowSimpleMusicFtuxTooltip2": true,
@@ -11371,7 +11369,6 @@
     "FFlagFixCalloutResizeOgreWidget": true,
     "FFlagVMSErrorAnalysisEk": true,
     "FFlagVMSErrorAnalysisEu": true,
-    "DFFlagEditableMeshApiSimplify_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-09T19:15:42",
     "FFlagVMSErrorAnalysisEv": true,
     "FFlagFCFixSmoothSkinning_Staged": "true;SteadyState;10;30;Revert;2025-04-09T19:43:19",
     "FFlagFCEnableSkinningExtraction_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-09T19:43:40",
@@ -12970,8 +12967,8 @@
     "FFlagLuaStartPagePlaceOpenAttributionTelemetry": true,
     "FFlagCacheReadParsePolicy": true,
     "FFlagFontListFetchRetryForMoreTimes": true,
-    "FStringFlagRepoGitHashFastString": "5aa2a073cf8b5bde2799978ee9b579623833302d",
-    "DFStringFlagRepoGitHashDynamicString": "5aa2a073cf8b5bde2799978ee9b579623833302d",
-    "FStringFlipTimeStampFastString": "2025-04-09T20:08:49.732Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-09T20:08:49.732Z"
+    "FStringFlagRepoGitHashFastString": "ef85210bf07569924a758b9afe2ff025f2078d87",
+    "DFStringFlagRepoGitHashDynamicString": "ef85210bf07569924a758b9afe2ff025f2078d87",
+    "FStringFlipTimeStampFastString": "2025-04-09T20:12:33.872Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-09T20:12:33.872Z"
 }
