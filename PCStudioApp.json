@@ -11364,6 +11364,7 @@
     "FFlagEditableMeshDebugDecompFix_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-09T16:15:38",
     "CaptureQTStudioCountersEnabled": true,
     "FFlagCheckForTCSMigration_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-09T16:18:23",
+    "FFlagTutorialsUseLuaRibbon2_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-09T16:23:30",
     "DFFlagLockViolationInstanceCrash": false,
     "DFFlagLockViolationScriptCrash": true,
     "DFFlagOrder66": false,
@@ -12953,8 +12954,8 @@
     "FFlagLuaStartPagePlaceOpenAttributionTelemetry": true,
     "FFlagCacheReadParsePolicy": true,
     "FFlagFontListFetchRetryForMoreTimes": true,
-    "FStringFlagRepoGitHashFastString": "f906079d156cd0e25fbe0c03a96db3504195cf2c",
-    "DFStringFlagRepoGitHashDynamicString": "f906079d156cd0e25fbe0c03a96db3504195cf2c",
-    "FStringFlipTimeStampFastString": "2025-04-09T16:19:33.092Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-09T16:19:33.092Z"
+    "FStringFlagRepoGitHashFastString": "7236ccf187e1df2b2969fbffd437e3519b723088",
+    "DFStringFlagRepoGitHashDynamicString": "7236ccf187e1df2b2969fbffd437e3519b723088",
+    "FStringFlipTimeStampFastString": "2025-04-09T16:24:23.228Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-09T16:24:23.228Z"
 }
