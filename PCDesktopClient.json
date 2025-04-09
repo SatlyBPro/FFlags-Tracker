@@ -11677,7 +11677,7 @@
     "FFlagInAppInterventionEnabledRC1": true,
     "DFFlagRakNetPriorityPings": true,
     "DFFlagRakNetMissingPingAckStats": true,
-    "FFlagDragDetectorSetClickedPartNullInDragEnd_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-09T17:21:27",
+    "FFlagDragDetectorSetClickedPartNullInDragEnd": true,
     "AllowVideoPreRoll": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
@@ -12068,8 +12068,8 @@
     "FFlagTextureManagerRemoveAddExternalRef6": true,
     "FFlagMovePrerenderV2": true,
     "FIntCrash147727ReportPerMyriad": 10000,
-    "FStringFlagRepoGitHashFastString": "55b4b714f26b4f7212464cdf6bed2a2f1f28a856",
-    "DFStringFlagRepoGitHashDynamicString": "55b4b714f26b4f7212464cdf6bed2a2f1f28a856",
-    "FStringFlipTimeStampFastString": "2025-04-09T18:13:09.284Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-09T18:13:09.284Z"
+    "FStringFlagRepoGitHashFastString": "9cbec5aebc5242997c2a6062b4948a3befdac48c",
+    "DFStringFlagRepoGitHashDynamicString": "9cbec5aebc5242997c2a6062b4948a3befdac48c",
+    "FStringFlipTimeStampFastString": "2025-04-09T18:30:15.190Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-09T18:30:15.190Z"
 }

@@ -12732,8 +12732,8 @@
     "FIntAnnotationsPointerMinSize": 24,
     "FFlagDebugLogFragmentsFromAutocomplete": true,
     "DFFlagOptimizeClassDescriptorSearches": true,
-    "FFlagDragDetectorSetClickedPartNullInDragEnd_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-09T17:21:27",
     "DFFlagLuauStringFormatFixC": true,
+    "FFlagDragDetectorSetClickedPartNullInDragEnd": true,
     "FFlagRenderEnableGlobalInstancingD3D11": true,
     "FFlagShorelinesRemoveDialog": true,
     "FFlagTerrainEditorUseTerrainChannels": true,
@@ -12963,8 +12963,8 @@
     "FFlagLuaStartPagePlaceOpenAttributionTelemetry": true,
     "FFlagCacheReadParsePolicy": true,
     "FFlagFontListFetchRetryForMoreTimes": true,
-    "FStringFlagRepoGitHashFastString": "51d414a6d3690bdd1b848e0ecacc44319652398b",
-    "DFStringFlagRepoGitHashDynamicString": "51d414a6d3690bdd1b848e0ecacc44319652398b",
-    "FStringFlipTimeStampFastString": "2025-04-09T18:23:25.711Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-09T18:23:25.711Z"
+    "FStringFlagRepoGitHashFastString": "9cbec5aebc5242997c2a6062b4948a3befdac48c",
+    "DFStringFlagRepoGitHashDynamicString": "9cbec5aebc5242997c2a6062b4948a3befdac48c",
+    "FStringFlipTimeStampFastString": "2025-04-09T18:30:15.190Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-09T18:30:15.190Z"
 }
