@@ -11365,6 +11365,7 @@
     "FFlagCheckForTCSMigration": true,
     "FFlagLuauFragmentNoTypeFunEval": true,
     "FFlagTutorialsUseLuaRibbon2": true,
+    "FFlagEditableMeshNoCacheTangent_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-09T17:28:58",
     "FFlagRenderEnableGlobalInstancingD3D11": true,
     "FFlagFixLooksSecondaryLayerApdativeScrolling": true,
     "FFlagUpdateAvatarGestures_PlaceFilter": "true;16818255141",
@@ -12060,8 +12061,8 @@
     "FFlagTextureManagerRemoveAddExternalRef6": true,
     "FFlagMovePrerenderV2": true,
     "FIntCrash147727ReportPerMyriad": 10000,
-    "FStringFlagRepoGitHashFastString": "655f72f72241d652e4f1fc35de46a910ced4eb2a",
-    "DFStringFlagRepoGitHashDynamicString": "655f72f72241d652e4f1fc35de46a910ced4eb2a",
-    "FStringFlipTimeStampFastString": "2025-04-09T17:27:52.004Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-09T17:27:52.004Z"
+    "FStringFlagRepoGitHashFastString": "244dfd8d3c6da819451590e1c11a82e23dedd03a",
+    "DFStringFlagRepoGitHashDynamicString": "244dfd8d3c6da819451590e1c11a82e23dedd03a",
+    "FStringFlipTimeStampFastString": "2025-04-09T17:29:52.993Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-09T17:29:52.993Z"
 }
