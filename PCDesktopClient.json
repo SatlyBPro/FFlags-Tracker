@@ -11354,9 +11354,6 @@
     "FFlagToastNotificationsLogoutClearQueueEnabled": true,
     "FFlagEnableHeartbeatSkipEventQueue": true,
     "FFlagEnableUploadOSNotificationSettings": true,
-    "FFlagLuauFragmentNoTypeFunEval_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-09T16:15:57",
-    "FFlagCheckForTCSMigration_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-09T16:18:23",
-    "FFlagTutorialsUseLuaRibbon2_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-09T16:23:30",
     "FFlagLuauExtraFollows": true,
     "FFlagLuauGlobalSelfAssignmentCycle": true,
     "FFlagLuauNonStrictFuncDefErrorFix": true,
@@ -11365,6 +11362,9 @@
     "FFlagEditableMeshDebugDecompFix": true,
     "FFlagLuauNormalizedBufferIsNotUnknown": true,
     "FFlagLuauUserTypeFunTypecheck": true,
+    "FFlagCheckForTCSMigration": true,
+    "FFlagLuauFragmentNoTypeFunEval": true,
+    "FFlagTutorialsUseLuaRibbon2": true,
     "FFlagRenderEnableGlobalInstancingD3D11": true,
     "FFlagFixLooksSecondaryLayerApdativeScrolling": true,
     "FFlagUpdateAvatarGestures_PlaceFilter": "true;16818255141",
@@ -12060,8 +12060,8 @@
     "FFlagTextureManagerRemoveAddExternalRef6": true,
     "FFlagMovePrerenderV2": true,
     "FIntCrash147727ReportPerMyriad": 10000,
-    "FStringFlagRepoGitHashFastString": "147b4d2db06ac1c280e5dc78d3a9dfde5c512dbd",
-    "DFStringFlagRepoGitHashDynamicString": "147b4d2db06ac1c280e5dc78d3a9dfde5c512dbd",
-    "FStringFlipTimeStampFastString": "2025-04-09T17:22:56.381Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-09T17:22:56.381Z"
+    "FStringFlagRepoGitHashFastString": "655f72f72241d652e4f1fc35de46a910ced4eb2a",
+    "DFStringFlagRepoGitHashDynamicString": "655f72f72241d652e4f1fc35de46a910ced4eb2a",
+    "FStringFlipTimeStampFastString": "2025-04-09T17:27:52.004Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-09T17:27:52.004Z"
 }
