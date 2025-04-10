@@ -11389,6 +11389,8 @@
     "DFFlagUseMeshScaleInVoxelizer_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-10T17:02:39",
     "FFlagSortInvitesByScoreEnabledForAll_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-10T17:06:39",
     "FFlagChromeCentralizedConfiguration4_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-10T17:11:20",
+    "FFlagAXRefactorCatalogItemCard8_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-10T17:14:26",
+    "FFlagXboxCleanupArchive_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-10T17:16:39",
     "AllowVideoPreRoll": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
@@ -12997,8 +12999,8 @@
     "FFlagCacheReadParsePolicy": true,
     "FFlagFontListFetchRetryForMoreTimes": true,
     "FFlagStudioPreloadBuilderSans": true,
-    "FStringFlagRepoGitHashFastString": "ed3df26cfd58a0c3adee9bfd562914805b5c3cfa",
-    "DFStringFlagRepoGitHashDynamicString": "ed3df26cfd58a0c3adee9bfd562914805b5c3cfa",
-    "FStringFlipTimeStampFastString": "2025-04-10T17:14:03.724Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-10T17:14:03.724Z"
+    "FStringFlagRepoGitHashFastString": "694c7e49a05d2298b3b7c03d420f2c1008c4167d",
+    "DFStringFlagRepoGitHashDynamicString": "694c7e49a05d2298b3b7c03d420f2c1008c4167d",
+    "FStringFlipTimeStampFastString": "2025-04-10T17:18:39.370Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-10T17:18:39.370Z"
 }
