@@ -11315,7 +11315,6 @@
     "FFlagFixPartyVoiceGetPermissions2": true,
     "DFIntUnexpectedEventGlobalCapIntervalSeconds": 7200,
     "FFlagLoadKeysFromDbAsync": true,
-    "DFFlagODAGetAdAvailabilityOrFetchRefactor": true,
     "DFFlagODARetrieveQueryInfoAndFetchAdRefactor": true,
     "FFlagScrollEventOverhaulIncludeAndroid": true,
     "FFlagUIBloxMoveMediaGalleryToLuaApps": true,
@@ -12097,9 +12096,10 @@
     "FFlagTextureManagerRemoveAddExternalRef6": true,
     "FFlagMovePrerenderV2": true,
     "FIntCrash147727ReportPerMyriad": 10000,
-    "FFlagEnableCoreVoiceManagerPassErrorInReject_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-10T20:00:50",
-    "FStringFlagRepoGitHashFastString": "18765ebdaf6f746bfc817123a80ee3c5c062828f",
-    "DFStringFlagRepoGitHashDynamicString": "18765ebdaf6f746bfc817123a80ee3c5c062828f",
-    "FStringFlipTimeStampFastString": "2025-04-10T21:01:45.636Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-10T21:01:45.636Z"
+    "FFlagEnableCoreVoiceManagerPassErrorInReject": true,
+    "FFlagArrayTypingInfo_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-10T21:10:23",
+    "FStringFlagRepoGitHashFastString": "9792749e641981ffa8fbc0fd8af380d27bafaac6",
+    "DFStringFlagRepoGitHashDynamicString": "9792749e641981ffa8fbc0fd8af380d27bafaac6",
+    "FStringFlipTimeStampFastString": "2025-04-10T21:12:05.297Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-10T21:12:05.297Z"
 }

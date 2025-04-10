@@ -11315,7 +11315,6 @@
     "FFlagFixPartyVoiceGetPermissions2": true,
     "DFIntUnexpectedEventGlobalCapIntervalSeconds": 7200,
     "FFlagLoadKeysFromDbAsync": true,
-    "DFFlagODAGetAdAvailabilityOrFetchRefactor": true,
     "DFFlagODARetrieveQueryInfoAndFetchAdRefactor": true,
     "FFlagScrollEventOverhaulIncludeAndroid": true,
     "FFlagUIBloxMoveMediaGalleryToLuaApps": true,
@@ -13015,8 +13014,8 @@
     "FFlagCacheReadParsePolicy": true,
     "FFlagFontListFetchRetryForMoreTimes": true,
     "FFlagStudioPreloadBuilderSans": true,
-    "FStringFlagRepoGitHashFastString": "18765ebdaf6f746bfc817123a80ee3c5c062828f",
-    "DFStringFlagRepoGitHashDynamicString": "18765ebdaf6f746bfc817123a80ee3c5c062828f",
-    "FStringFlipTimeStampFastString": "2025-04-10T21:01:45.636Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-10T21:01:45.636Z"
+    "FStringFlagRepoGitHashFastString": "9792749e641981ffa8fbc0fd8af380d27bafaac6",
+    "DFStringFlagRepoGitHashDynamicString": "9792749e641981ffa8fbc0fd8af380d27bafaac6",
+    "FStringFlipTimeStampFastString": "2025-04-10T21:12:05.297Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-10T21:12:05.297Z"
 }
