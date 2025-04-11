@@ -13001,6 +13001,7 @@
     "FFlagRenderAdjustChunkBudgetForAsyncLightGrid": true,
     "FFlagAXFixFlickerOnColorAdjustmentPageEntry": true,
     "FFlagUpdateAsyncLightGrid6": true,
+    "DFFlagFixUserTurnAuthJoinedVoiceRace_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-11T16:49:09",
     "FFlagDebugLuaAppValidateProps": true,
     "FStringFeature_CookieProtocolEnabled": "524;100",
     "FFlagUseParallelTypecheckInLSP2": true,
@@ -13024,8 +13025,8 @@
     "FFlagCacheReadParsePolicy": true,
     "FFlagFontListFetchRetryForMoreTimes": true,
     "FFlagStudioPreloadBuilderSans": true,
-    "FStringFlagRepoGitHashFastString": "bcaddcf11611670bf70f33469eef68b3b3b1e904",
-    "DFStringFlagRepoGitHashDynamicString": "bcaddcf11611670bf70f33469eef68b3b3b1e904",
-    "FStringFlipTimeStampFastString": "2025-04-11T16:49:25.412Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-11T16:49:25.412Z"
+    "FStringFlagRepoGitHashFastString": "0348e48ae3a08277840c20858b33165509689522",
+    "DFStringFlagRepoGitHashDynamicString": "0348e48ae3a08277840c20858b33165509689522",
+    "FStringFlipTimeStampFastString": "2025-04-11T16:50:24.368Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-11T16:50:24.368Z"
 }
