@@ -11411,6 +11411,7 @@
     "AllowVideoPreRoll": true,
     "FFlagNameCapturesReactRoot_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-11T17:51:27",
     "FFlagDisableCameraOnCoreGuiDisabled_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-11T17:52:29",
+    "DFFlagRepDelayClear_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-11T18:06:18",
     "DFFlagLockViolationScriptCrash": true,
     "DFFlagOrder66": false,
     "DFFlagPreventReturnOfElevatedPhysicsFPS": true,
@@ -13032,8 +13033,8 @@
     "FFlagCacheReadParsePolicy": true,
     "FFlagFontListFetchRetryForMoreTimes": true,
     "FFlagStudioPreloadBuilderSans": true,
-    "FStringFlagRepoGitHashFastString": "53296bfe38db9b1d184e860a391e86fc2fbfdf36",
-    "DFStringFlagRepoGitHashDynamicString": "53296bfe38db9b1d184e860a391e86fc2fbfdf36",
-    "FStringFlipTimeStampFastString": "2025-04-11T18:03:47.448Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-11T18:03:47.448Z"
+    "FStringFlagRepoGitHashFastString": "28737f8e09aa114c243f434886a3cc928952fc9d",
+    "DFStringFlagRepoGitHashDynamicString": "28737f8e09aa114c243f434886a3cc928952fc9d",
+    "FStringFlipTimeStampFastString": "2025-04-11T18:08:48.595Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-11T18:08:48.595Z"
 }
