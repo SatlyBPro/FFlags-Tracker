@@ -11413,6 +11413,7 @@
     "FFlagSplitSquadJoinOriginSources": true,
     "FFlagDisableCameraOnCoreGuiDisabled": true,
     "FFlagNameCapturesReactRoot": true,
+    "FFlagRibbonTabOverflowMenu_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-11T18:59:14",
     "FFlagRenderEnableGlobalInstancingD3D11": true,
     "FFlagFixLooksSecondaryLayerApdativeScrolling": true,
     "FFlagUpdateAvatarGestures_PlaceFilter": "true;16818255141",
@@ -12113,8 +12114,8 @@
     "FFlagEnableCoreVoiceManagerPassErrorInReject": true,
     "FFlagArrayTypingInfo": true,
     "DFFlagLimitEltEndNotifications": true,
-    "FStringFlagRepoGitHashFastString": "f93b4ccecb6e20b343c191149f960e14868c873c",
-    "DFStringFlagRepoGitHashDynamicString": "f93b4ccecb6e20b343c191149f960e14868c873c",
-    "FStringFlipTimeStampFastString": "2025-04-11T18:58:02.105Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-11T18:58:02.105Z"
+    "FStringFlagRepoGitHashFastString": "62374512d1f4d034136630e7028037d41222b289",
+    "DFStringFlagRepoGitHashDynamicString": "62374512d1f4d034136630e7028037d41222b289",
+    "FStringFlipTimeStampFastString": "2025-04-11T19:08:22.676Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-11T19:08:22.676Z"
 }
