@@ -11405,6 +11405,7 @@
     "FFlagLuauSubtypingStopAtNormFail_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-11T17:20:44",
     "FFlagLuauNormalizeNegatedErrorToAnError_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-11T17:21:25",
     "FFlagLuauNormalizeIntersectErrorToAnError_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-11T17:21:27",
+    "FIntReactMicroprofilerLevel4_Staged": "5;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-11T17:26:38",
     "FFlagFixLooksSecondaryLayerApdativeScrolling": true,
     "FFlagUpdateAvatarGestures_PlaceFilter": "true;16818255141",
     "FFlagEnableTempFixCollectibleBundlePurchase": true,
@@ -12107,8 +12108,8 @@
     "FIntCrash147727ReportPerMyriad": 10000,
     "FFlagEnableCoreVoiceManagerPassErrorInReject": true,
     "FFlagArrayTypingInfo": true,
-    "FStringFlagRepoGitHashFastString": "39a62be5a7f94585556968bec9c3aadd50cf327c",
-    "DFStringFlagRepoGitHashDynamicString": "39a62be5a7f94585556968bec9c3aadd50cf327c",
-    "FStringFlipTimeStampFastString": "2025-04-11T17:23:07.673Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-11T17:23:07.673Z"
+    "FStringFlagRepoGitHashFastString": "b291a75fca15b492740647aac3741e8f8cf8a27c",
+    "DFStringFlagRepoGitHashDynamicString": "b291a75fca15b492740647aac3741e8f8cf8a27c",
+    "FStringFlipTimeStampFastString": "2025-04-11T17:28:41.184Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-11T17:28:41.184Z"
 }

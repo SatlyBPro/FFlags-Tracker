@@ -11405,6 +11405,7 @@
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
     "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": false,
+    "FIntReactMicroprofilerLevel4_Staged": "5;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-11T17:26:38",
     "DFFlagGoodbyeChoiceActiveProperty": true,
     "DFFlagLockViolationInstanceCrash": false,
     "DFFlagLockViolationScriptCrash": true,
@@ -12790,9 +12791,9 @@
     "FFlagLuauNormalizationCatchMetatableCycles": true,
     "FFlagStudioUseNewEndpointForPlaceVersion2": true,
     "FFlagExplorerFixGroupActions2": true,
-    "FFlagRibbonTabsMenu2_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-11T16:20:46",
-    "DFFlagLuauRethrowKnownExceptions_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-11T16:21:07",
     "FFlagStudioActionComponentConversionGroupB3_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-11T16:48:28",
+    "FFlagRibbonTabsMenu2": true,
+    "DFFlagLuauRethrowKnownExceptions": true,
     "FFlagShorelinesRemoveDialog": true,
     "FFlagTerrainEditorUseTerrainChannels": true,
     "FFlagEnableAdsMouseUnlock": true,
@@ -13026,8 +13027,8 @@
     "FFlagCacheReadParsePolicy": true,
     "FFlagFontListFetchRetryForMoreTimes": true,
     "FFlagStudioPreloadBuilderSans": true,
-    "FStringFlagRepoGitHashFastString": "39a62be5a7f94585556968bec9c3aadd50cf327c",
-    "DFStringFlagRepoGitHashDynamicString": "39a62be5a7f94585556968bec9c3aadd50cf327c",
-    "FStringFlipTimeStampFastString": "2025-04-11T17:23:07.673Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-11T17:23:07.673Z"
+    "FStringFlagRepoGitHashFastString": "b291a75fca15b492740647aac3741e8f8cf8a27c",
+    "DFStringFlagRepoGitHashDynamicString": "b291a75fca15b492740647aac3741e8f8cf8a27c",
+    "FStringFlipTimeStampFastString": "2025-04-11T17:28:41.184Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-11T17:28:41.184Z"
 }
