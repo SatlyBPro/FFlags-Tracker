@@ -11406,6 +11406,7 @@
     "FFlagLuauNormalizeNegatedErrorToAnError_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-11T17:21:25",
     "FFlagLuauNormalizeIntersectErrorToAnError_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-11T17:21:27",
     "FIntReactMicroprofilerLevel4_Staged": "5;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-11T17:26:38",
+    "FFlagFixVP8143_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-11T17:28:48",
     "FFlagFixLooksSecondaryLayerApdativeScrolling": true,
     "FFlagUpdateAvatarGestures_PlaceFilter": "true;16818255141",
     "FFlagEnableTempFixCollectibleBundlePurchase": true,
@@ -11715,7 +11716,6 @@
     "FFlagMoveCommonFuncToUtil": true,
     "FFlagRenderAdjustChunkBudgetForAsyncLightGrid": true,
     "FFlagAXFixFlickerOnColorAdjustmentPageEntry": true,
-    "FFlagUpdateAsyncLightGrid6": true,
     "DFFlagFixUserTurnAuthJoinedVoiceRace_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-11T16:49:09",
     "AllowVideoPreRoll": true,
     "AxisAdornmentGrabSize": 12,
@@ -12108,8 +12108,9 @@
     "FIntCrash147727ReportPerMyriad": 10000,
     "FFlagEnableCoreVoiceManagerPassErrorInReject": true,
     "FFlagArrayTypingInfo": true,
-    "FStringFlagRepoGitHashFastString": "b291a75fca15b492740647aac3741e8f8cf8a27c",
-    "DFStringFlagRepoGitHashDynamicString": "b291a75fca15b492740647aac3741e8f8cf8a27c",
-    "FStringFlipTimeStampFastString": "2025-04-11T17:28:41.184Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-11T17:28:41.184Z"
+    "DFFlagLimitEltEndNotifications_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-11T17:32:39",
+    "FStringFlagRepoGitHashFastString": "bb0b64f8a239f1804f058ede1e76188baedceba2",
+    "DFStringFlagRepoGitHashDynamicString": "bb0b64f8a239f1804f058ede1e76188baedceba2",
+    "FStringFlipTimeStampFastString": "2025-04-11T17:33:53.809Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-11T17:33:53.809Z"
 }

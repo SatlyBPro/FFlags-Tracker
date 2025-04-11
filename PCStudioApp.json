@@ -11406,6 +11406,7 @@
     "CaptureCountersIntervalInMinutes": 5,
     "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": false,
     "FIntReactMicroprofilerLevel4_Staged": "5;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-11T17:26:38",
+    "FFlagFixVP8143_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-11T17:28:48",
     "DFFlagGoodbyeChoiceActiveProperty": true,
     "DFFlagLockViolationInstanceCrash": false,
     "DFFlagLockViolationScriptCrash": true,
@@ -13002,7 +13003,6 @@
     "FFlagUseUIRenderModifiers2": true,
     "FFlagRenderAdjustChunkBudgetForAsyncLightGrid": true,
     "FFlagAXFixFlickerOnColorAdjustmentPageEntry": true,
-    "FFlagUpdateAsyncLightGrid6": true,
     "DFFlagFixUserTurnAuthJoinedVoiceRace_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-11T16:49:09",
     "FFlagDebugLuaAppValidateProps": true,
     "FStringFeature_CookieProtocolEnabled": "524;100",
@@ -13027,8 +13027,8 @@
     "FFlagCacheReadParsePolicy": true,
     "FFlagFontListFetchRetryForMoreTimes": true,
     "FFlagStudioPreloadBuilderSans": true,
-    "FStringFlagRepoGitHashFastString": "b291a75fca15b492740647aac3741e8f8cf8a27c",
-    "DFStringFlagRepoGitHashDynamicString": "b291a75fca15b492740647aac3741e8f8cf8a27c",
-    "FStringFlipTimeStampFastString": "2025-04-11T17:28:41.184Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-11T17:28:41.184Z"
+    "FStringFlagRepoGitHashFastString": "bb0b64f8a239f1804f058ede1e76188baedceba2",
+    "DFStringFlagRepoGitHashDynamicString": "bb0b64f8a239f1804f058ede1e76188baedceba2",
+    "FStringFlipTimeStampFastString": "2025-04-11T17:33:53.809Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-11T17:33:53.809Z"
 }
