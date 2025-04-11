@@ -12803,7 +12803,7 @@
     "DFFlagSimOptimizeGeometryChangedAssemblies3": true,
     "FFlagRibbonTabCreation2": true,
     "FFlagSelectTabWhenPlusClicked": true,
-    "FFlagContentAsStorageForSurfaceAppearanceMaps_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-11T19:34:06",
+    "FFlagContentAsStorageForSurfaceAppearanceMaps": true,
     "FFlagRenderEnableGlobalInstancingD3D11": true,
     "FFlagShorelinesRemoveDialog": true,
     "FFlagTerrainEditorUseTerrainChannels": true,
@@ -13036,8 +13036,8 @@
     "FFlagCacheReadParsePolicy": true,
     "FFlagFontListFetchRetryForMoreTimes": true,
     "FFlagStudioPreloadBuilderSans": true,
-    "FStringFlagRepoGitHashFastString": "d96c4c726befd7e92755a9d04f1581050f97e4a2",
-    "DFStringFlagRepoGitHashDynamicString": "d96c4c726befd7e92755a9d04f1581050f97e4a2",
-    "FStringFlipTimeStampFastString": "2025-04-11T20:03:26.225Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-11T20:03:26.225Z"
+    "FStringFlagRepoGitHashFastString": "190f6432b621721d6359ca9734c84672dc1656fe",
+    "DFStringFlagRepoGitHashDynamicString": "190f6432b621721d6359ca9734c84672dc1656fe",
+    "FStringFlipTimeStampFastString": "2025-04-11T20:37:19.125Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-11T20:37:19.125Z"
 }
