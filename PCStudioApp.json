@@ -11396,7 +11396,6 @@
     "FFlagUpdateToolbarsInternalEnforceUIThread": true,
     "FFlagFixSkipDeleteEvents": true,
     "FFlagAppChatPerfExposureUpdate": true,
-    "FFlagWrapDeformerUseServiceProviderFind_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-11T18:16:39",
     "FFlagEnableProfilePlatformDualCta_v5_IXP": "1;Social.SelfProfileView.Flags;Social.SelfProfileView.Flags.EnableProfilePlatformDualCta-1;1362395156;flagbank",
     "DFFlagODAGetAdAvailabilityOrFetchRefactor": true,
     "FFlagLuauMetatablesHaveLength": true,
@@ -11414,6 +11413,7 @@
     "FFlagNameCapturesReactRoot": true,
     "FFlagRibbonTabOverflowMenu_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-11T18:59:14",
     "DFFlagRepDelayClear": true,
+    "FFlagWrapDeformerUseServiceProviderFind": true,
     "AllowVideoPreRoll": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
@@ -13035,8 +13035,8 @@
     "FFlagCacheReadParsePolicy": true,
     "FFlagFontListFetchRetryForMoreTimes": true,
     "FFlagStudioPreloadBuilderSans": true,
-    "FStringFlagRepoGitHashFastString": "6458ab488f4aec77d65ffbf0f0e1de7881054ca7",
-    "DFStringFlagRepoGitHashDynamicString": "6458ab488f4aec77d65ffbf0f0e1de7881054ca7",
-    "FStringFlipTimeStampFastString": "2025-04-11T19:14:00.624Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-11T19:14:00.624Z"
+    "FStringFlagRepoGitHashFastString": "3ef0851c94133c154732e81641b2edd86c43e9ab",
+    "DFStringFlagRepoGitHashDynamicString": "3ef0851c94133c154732e81641b2edd86c43e9ab",
+    "FStringFlipTimeStampFastString": "2025-04-11T19:23:08.061Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-11T19:23:08.061Z"
 }
