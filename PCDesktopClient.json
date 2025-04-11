@@ -11395,7 +11395,6 @@
     "DFFlagReplicatorNetworkStatus": true,
     "FFlagUpdateToolbarsInternalEnforceUIThread": true,
     "FFlagFixSkipDeleteEvents": true,
-    "DFFlagRepDelayClear_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-11T18:06:18",
     "FFlagAppChatPerfExposureUpdate": true,
     "FFlagWrapDeformerUseServiceProviderFind_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-11T18:16:39",
     "FFlagEnableProfilePlatformDualCta_v5_IXP": "1;Social.SelfProfileView.Flags;Social.SelfProfileView.Flags.EnableProfilePlatformDualCta-1;1362395156;flagbank",
@@ -11414,6 +11413,7 @@
     "FFlagDisableCameraOnCoreGuiDisabled": true,
     "FFlagNameCapturesReactRoot": true,
     "FFlagRibbonTabOverflowMenu_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-11T18:59:14",
+    "DFFlagRepDelayClear": true,
     "FFlagRenderEnableGlobalInstancingD3D11": true,
     "FFlagFixLooksSecondaryLayerApdativeScrolling": true,
     "FFlagUpdateAvatarGestures_PlaceFilter": "true;16818255141",
@@ -12114,8 +12114,8 @@
     "FFlagEnableCoreVoiceManagerPassErrorInReject": true,
     "FFlagArrayTypingInfo": true,
     "DFFlagLimitEltEndNotifications": true,
-    "FStringFlagRepoGitHashFastString": "62374512d1f4d034136630e7028037d41222b289",
-    "DFStringFlagRepoGitHashDynamicString": "62374512d1f4d034136630e7028037d41222b289",
-    "FStringFlipTimeStampFastString": "2025-04-11T19:08:22.676Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-11T19:08:22.676Z"
+    "FStringFlagRepoGitHashFastString": "6458ab488f4aec77d65ffbf0f0e1de7881054ca7",
+    "DFStringFlagRepoGitHashDynamicString": "6458ab488f4aec77d65ffbf0f0e1de7881054ca7",
+    "FStringFlipTimeStampFastString": "2025-04-11T19:14:00.624Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-11T19:14:00.624Z"
 }
