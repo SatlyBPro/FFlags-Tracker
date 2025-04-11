@@ -11396,8 +11396,6 @@
     "DFFlagReplicatorNetworkStatus": true,
     "FFlagUpdateToolbarsInternalEnforceUIThread": true,
     "FFlagFixSkipDeleteEvents": true,
-    "FIntReactMicroprofilerLevel4_Staged": "5;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-11T17:26:38",
-    "FFlagFixVP8143_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-11T17:28:48",
     "AxisAdornmentGrabSize": 12,
     "AllowVideoPreRoll": true,
     "FFlagNameCapturesReactRoot_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-11T17:51:27",
@@ -11415,6 +11413,8 @@
     "FFlagLuauNormalizeIntersectErrorToAnError": true,
     "FFlagLuauNormalizeNegatedErrorToAnError": true,
     "FFlagLuauSubtypingStopAtNormFail": true,
+    "FFlagFixVP8143": true,
+    "FIntReactMicroprofilerLevel4": 5,
     "CaptureCountersIntervalInMinutes": 5,
     "CaptureQTStudioCountersEnabled": true,
     "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": false,
@@ -13036,8 +13036,8 @@
     "FFlagCacheReadParsePolicy": true,
     "FFlagFontListFetchRetryForMoreTimes": true,
     "FFlagStudioPreloadBuilderSans": true,
-    "FStringFlagRepoGitHashFastString": "7db822af0002812963d4cd5a1164568e5b1dbc7d",
-    "DFStringFlagRepoGitHashDynamicString": "7db822af0002812963d4cd5a1164568e5b1dbc7d",
-    "FStringFlipTimeStampFastString": "2025-04-11T18:28:40.418Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-11T18:28:40.418Z"
+    "FStringFlagRepoGitHashFastString": "d60bffa3eae10d3ad02e00edb6166bc6e65374ca",
+    "DFStringFlagRepoGitHashDynamicString": "d60bffa3eae10d3ad02e00edb6166bc6e65374ca",
+    "FStringFlipTimeStampFastString": "2025-04-11T18:33:29.952Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-11T18:33:29.952Z"
 }
