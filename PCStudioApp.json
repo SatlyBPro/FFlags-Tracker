@@ -11424,7 +11424,6 @@
     "FFlagUpdateAsyncLightGrid6": true,
     "FFlagSimEditableSessionEventContext": true,
     "FFlagDisableCloudsOnSelectAndroidDevices2": true,
-    "FFlagFixRigidSubskinnedToIc_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-14T19:33:11",
     "DFFlagRecordD3D11Error2": true,
     "FFlagCrashReportDX11WindowsHResult3": true,
     "FFlagCrashUploadDX11WindowsHResultANR3": true,
@@ -11444,6 +11443,7 @@
     "FFlagSongbirdCachedAssetFavoriting": true,
     "FFlagSkipImmediateInvalidationLightGrid2": true,
     "AllowVideoPreRoll": true,
+    "FFlagFixRigidSubskinnedToIc": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
     "CaptureQTStudioCountersEnabled": true,
@@ -13064,8 +13064,8 @@
     "FFlagCacheReadParsePolicy": true,
     "FFlagFontListFetchRetryForMoreTimes": true,
     "FFlagStudioPreloadBuilderSans": true,
-    "FStringFlagRepoGitHashFastString": "00e613950ab089bfb064bc09b18d05990c5fb35b",
-    "DFStringFlagRepoGitHashDynamicString": "00e613950ab089bfb064bc09b18d05990c5fb35b",
-    "FStringFlipTimeStampFastString": "2025-04-14T20:23:10.956Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-14T20:23:10.956Z"
+    "FStringFlagRepoGitHashFastString": "0cdd8176cf3642592539922950f07ecf1f2b066a",
+    "DFStringFlagRepoGitHashDynamicString": "0cdd8176cf3642592539922950f07ecf1f2b066a",
+    "FStringFlipTimeStampFastString": "2025-04-14T20:39:06.725Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-14T20:39:06.725Z"
 }
