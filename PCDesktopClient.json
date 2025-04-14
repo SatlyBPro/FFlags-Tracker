@@ -11724,6 +11724,8 @@
     "FFlagRenderAdjustChunkBudgetForAsyncLightGrid": true,
     "FFlagAXFixFlickerOnColorAdjustmentPageEntry": true,
     "DFFlagFixUserTurnAuthJoinedVoiceRace": true,
+    "DFFlagDeferredCallbackErrorReport_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-14T16:11:58",
+    "DFFlagWaitResumeHandleArgumentErrors_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-14T16:13:02",
     "AllowVideoPreRoll": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
@@ -12115,8 +12117,8 @@
     "FIntCrash147727ReportPerMyriad": 10000,
     "FFlagEnableCoreVoiceManagerPassErrorInReject": true,
     "FFlagArrayTypingInfo": true,
-    "FStringFlagRepoGitHashFastString": "922590796c8b65014069fd617409f58c9e2d09ad",
-    "DFStringFlagRepoGitHashDynamicString": "922590796c8b65014069fd617409f58c9e2d09ad",
-    "FStringFlipTimeStampFastString": "2025-04-14T16:08:23.850Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-14T16:08:23.850Z"
+    "FStringFlagRepoGitHashFastString": "b019c6b591c365bc029cfdc43b099000bbc802aa",
+    "DFStringFlagRepoGitHashDynamicString": "b019c6b591c365bc029cfdc43b099000bbc802aa",
+    "FStringFlipTimeStampFastString": "2025-04-14T16:13:57.379Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-14T16:13:57.379Z"
 }
