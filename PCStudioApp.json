@@ -11414,7 +11414,6 @@
     "FFlagLuauFixFunctionWithAttributesStartLocation": true,
     "FFlagLuauParseOptionalAsNode2": true,
     "FIntReactSchedulingTrackerStartUpDelayMs": 30000,
-    "DFFlagLCLimitImportOriginOffsetBeforeDeformation": true,
     "DFFlagSimOptimizeGeometryChangedAssemblies3": true,
     "FFlagRenderTestWaitForPendingUpdates9": true,
     "DFFlagFixNaluParsingAssert": true,
@@ -11424,7 +11423,6 @@
     "FFlagAddPerformanceToolsBridge": true,
     "FFlagUpdateAsyncLightGrid6": true,
     "FFlagSimEditableSessionEventContext": true,
-    "FFlagSkipImmediateInvalidationLightGrid2_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-14T19:17:48",
     "FFlagDisableCloudsOnSelectAndroidDevices2": true,
     "FFlagFixRigidSubskinnedToIc_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-14T19:33:11",
     "DFFlagRecordD3D11Error2": true,
@@ -11444,6 +11442,7 @@
     "FIntReactMicroprofilerLevel4_Rollout": "1;60;2025-04-14T20:12:50",
     "FFlagWebBrowserNewCallbacksEnabled4": true,
     "FFlagSongbirdCachedAssetFavoriting": true,
+    "FFlagSkipImmediateInvalidationLightGrid2": true,
     "AllowVideoPreRoll": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
@@ -13065,8 +13064,8 @@
     "FFlagCacheReadParsePolicy": true,
     "FFlagFontListFetchRetryForMoreTimes": true,
     "FFlagStudioPreloadBuilderSans": true,
-    "FStringFlagRepoGitHashFastString": "9fb89e9c9d5d568f21ca1e51f944ff787786c603",
-    "DFStringFlagRepoGitHashDynamicString": "9fb89e9c9d5d568f21ca1e51f944ff787786c603",
-    "FStringFlipTimeStampFastString": "2025-04-14T20:17:07.618Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-14T20:17:07.618Z"
+    "FStringFlagRepoGitHashFastString": "00e613950ab089bfb064bc09b18d05990c5fb35b",
+    "DFStringFlagRepoGitHashDynamicString": "00e613950ab089bfb064bc09b18d05990c5fb35b",
+    "FStringFlipTimeStampFastString": "2025-04-14T20:23:10.956Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-14T20:23:10.956Z"
 }
