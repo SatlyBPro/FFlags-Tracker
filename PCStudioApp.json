@@ -11420,6 +11420,8 @@
     "FIntReactSchedulingTrackerStartUpDelayMs_Staged": "30000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-14T16:17:55",
     "DFFlagLCLimitImportOriginOffsetBeforeDeformation_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-14T16:23:01",
     "AllowVideoPreRoll": true,
+    "FFlagRenderTestWaitForPendingUpdates9_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-14T16:28:27",
+    "DFFlagFixNaluParsingAssert_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-14T16:32:17",
     "CaptureQTStudioCountersEnabled": true,
     "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": false,
     "DFFlagEnableRemoteProfiling": true,
@@ -13042,8 +13044,8 @@
     "FFlagCacheReadParsePolicy": true,
     "FFlagFontListFetchRetryForMoreTimes": true,
     "FFlagStudioPreloadBuilderSans": true,
-    "FStringFlagRepoGitHashFastString": "ec7ce4eba0908cda0bb53a8ae021c82d333903c6",
-    "DFStringFlagRepoGitHashDynamicString": "ec7ce4eba0908cda0bb53a8ae021c82d333903c6",
-    "FStringFlipTimeStampFastString": "2025-04-14T16:28:20.842Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-14T16:28:20.842Z"
+    "FStringFlagRepoGitHashFastString": "5cefb40f89433db51ea99f7c035edb190e88a9a8",
+    "DFStringFlagRepoGitHashDynamicString": "5cefb40f89433db51ea99f7c035edb190e88a9a8",
+    "FStringFlipTimeStampFastString": "2025-04-14T16:33:31.626Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-14T16:33:31.626Z"
 }
