@@ -11478,6 +11478,8 @@
     "FFlagFixSkinningLifetimeAndBugs4_IXP": "1;Portal.FFlagFixSkinningLifetimeAndBugs4-002;FFlagFixSkinningLifetimeAndBugs4-002;858765142;flagbank",
     "FFlagLuauStoreCSTData2_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-15T19:25:52",
     "FFlagRenderEnableGlobalInstancingD3D11": true,
+    "SFFlagEliminateLSCHashStorage2_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-15T19:43:44",
+    "DFFlagSimRemoveWorldDependencyonParent_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-15T19:45:07",
     "FFlagFixLooksSecondaryLayerApdativeScrolling": true,
     "FFlagUpdateAvatarGestures_PlaceFilter": "true;16818255141",
     "FFlagEnableTempFixCollectibleBundlePurchase": true,
@@ -12172,8 +12174,8 @@
     "FFlagArrayTypingInfo": true,
     "FFlagLogPartyVoiceReconnect": true,
     "FFlagPartyVoiceReportJoinFailed": true,
-    "FStringFlagRepoGitHashFastString": "140aa2df88c94134a71e127da14b974dd4e64324",
-    "DFStringFlagRepoGitHashDynamicString": "140aa2df88c94134a71e127da14b974dd4e64324",
-    "FStringFlipTimeStampFastString": "2025-04-15T19:26:40.991Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-15T19:26:40.991Z"
+    "FStringFlagRepoGitHashFastString": "c3bf0002868f24aa87fb807862dfdf4687db4c52",
+    "DFStringFlagRepoGitHashDynamicString": "c3bf0002868f24aa87fb807862dfdf4687db4c52",
+    "FStringFlipTimeStampFastString": "2025-04-15T19:46:56.542Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-15T19:46:56.542Z"
 }
