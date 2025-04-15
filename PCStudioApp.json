@@ -12867,6 +12867,7 @@
     "FFlagEnableHapticOnGUI": true,
     "FFlagHapticEffectsBetaFeature": true,
     "FFlagDAPClientReplaceRecursiveMutexWithMutex_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-15T19:16:35",
+    "FFlagLuaAppIncreaseImpressionsDelay_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-15T19:57:05",
     "FFlagRenderEnableGlobalInstancingD3D11": true,
     "FFlagShorelinesRemoveDialog": true,
     "FFlagTerrainEditorUseTerrainChannels": true,
@@ -13099,8 +13100,8 @@
     "FFlagCacheReadParsePolicy": true,
     "FFlagFontListFetchRetryForMoreTimes": true,
     "FFlagStudioPreloadBuilderSans": true,
-    "FStringFlagRepoGitHashFastString": "2cd0f07eb55f069d546d90a233d0b8dcd4af9a1b",
-    "DFStringFlagRepoGitHashDynamicString": "2cd0f07eb55f069d546d90a233d0b8dcd4af9a1b",
-    "FStringFlipTimeStampFastString": "2025-04-15T19:52:20.154Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-15T19:52:20.154Z"
+    "FStringFlagRepoGitHashFastString": "433f378a25263ca4f832bb285012ea53e644a8f0",
+    "DFStringFlagRepoGitHashDynamicString": "433f378a25263ca4f832bb285012ea53e644a8f0",
+    "FStringFlipTimeStampFastString": "2025-04-15T19:58:18.085Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-15T19:58:18.085Z"
 }
