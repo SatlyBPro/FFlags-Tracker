@@ -11479,6 +11479,7 @@
     "SFFlagEliminateLSCHashStorage2_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-15T19:43:44",
     "DFFlagSimRemoveWorldDependencyonParent_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-15T19:45:07",
     "FFlagRenderEnableGlobalInstancingD3D11": true,
+    "DFFlagSimModelLodUseMeshWithLessTriangles_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-15T20:21:40",
     "FFlagUpdateAvatarGestures_PlaceFilter": "true;16818255141",
     "FFlagEnableTempFixCollectibleBundlePurchase": true,
     "FFlagFixAvatarUtilCharacter_PlaceFilter": "true;16818255141;6295939019",
@@ -12173,8 +12174,8 @@
     "FFlagArrayTypingInfo": true,
     "FFlagLogPartyVoiceReconnect": true,
     "FFlagPartyVoiceReportJoinFailed": true,
-    "FStringFlagRepoGitHashFastString": "9aa1b4d18aea92fe7a94e4c9250cc5561de22586",
-    "DFStringFlagRepoGitHashDynamicString": "9aa1b4d18aea92fe7a94e4c9250cc5561de22586",
-    "FStringFlipTimeStampFastString": "2025-04-15T20:18:37.830Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-15T20:18:37.830Z"
+    "FStringFlagRepoGitHashFastString": "003702613b4680d2b7dbeab73f5f43963acd8790",
+    "DFStringFlagRepoGitHashDynamicString": "003702613b4680d2b7dbeab73f5f43963acd8790",
+    "FStringFlipTimeStampFastString": "2025-04-15T20:24:03.332Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-15T20:24:03.332Z"
 }
