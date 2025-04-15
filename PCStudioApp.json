@@ -13075,6 +13075,7 @@
     "FFlagGetWorldRootIfInWorldRootSupportJointInstance_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-15T19:16:38",
     "DFFlagFastClearMidphase_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-15T19:18:20",
     "FFlagNewOptimizeNoCollisionPrimitiveInMidphase668_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-15T19:18:23",
+    "FFlagFFlagEnableAdDataReferralEventIngest_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-15T19:51:28",
     "FFlagDebugLuaAppValidateProps": true,
     "FStringFeature_CookieProtocolEnabled": "524;100",
     "FFlagUseParallelTypecheckInLSP2": true,
@@ -13098,8 +13099,8 @@
     "FFlagCacheReadParsePolicy": true,
     "FFlagFontListFetchRetryForMoreTimes": true,
     "FFlagStudioPreloadBuilderSans": true,
-    "FStringFlagRepoGitHashFastString": "c3bf0002868f24aa87fb807862dfdf4687db4c52",
-    "DFStringFlagRepoGitHashDynamicString": "c3bf0002868f24aa87fb807862dfdf4687db4c52",
-    "FStringFlipTimeStampFastString": "2025-04-15T19:46:56.542Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-15T19:46:56.542Z"
+    "FStringFlagRepoGitHashFastString": "2cd0f07eb55f069d546d90a233d0b8dcd4af9a1b",
+    "DFStringFlagRepoGitHashDynamicString": "2cd0f07eb55f069d546d90a233d0b8dcd4af9a1b",
+    "FStringFlipTimeStampFastString": "2025-04-15T19:52:20.154Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-15T19:52:20.154Z"
 }
