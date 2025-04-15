@@ -11440,7 +11440,6 @@
     "FFlagFixRigidSubskinnedToIc": true,
     "FFlagRenderHighlightManagerPrepare3": false,
     "FFlagLuaAppHeroUnitImageOffset": true,
-    "DFStringTranslationVariantInGameContentTableIXP_IXP": "1;CST.TranslationVariant;CreatorServices.InGameTranslation.LLMModelABTest-1744236007328-1744239156780;2084066199;flagbank",
     "FFlagLuauIncrementalAutocompleteDemandBasedCloning": true,
     "FFlagCevAdditionalStatusLogging": true,
     "FFlagProfilePlatformDisableEventReceiverForNonUserProfiles": true,
@@ -13072,6 +13071,8 @@
     "FFlagRenderDX11FixWaitForGpu": true,
     "DFFlagSkipPlaceFilterUpdateForPartyVoice": true,
     "FFlagGetWorldRootIfInWorldRootSupportJointInstance_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-15T19:16:38",
+    "DFFlagFastClearMidphase_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-15T19:18:20",
+    "FFlagNewOptimizeNoCollisionPrimitiveInMidphase668_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-15T19:18:23",
     "FFlagDebugLuaAppValidateProps": true,
     "FStringFeature_CookieProtocolEnabled": "524;100",
     "FFlagUseParallelTypecheckInLSP2": true,
@@ -13095,8 +13096,8 @@
     "FFlagCacheReadParsePolicy": true,
     "FFlagFontListFetchRetryForMoreTimes": true,
     "FFlagStudioPreloadBuilderSans": true,
-    "FStringFlagRepoGitHashFastString": "624eb4f205c9071ed74b1f5182c6462ed76690aa",
-    "DFStringFlagRepoGitHashDynamicString": "624eb4f205c9071ed74b1f5182c6462ed76690aa",
-    "FStringFlipTimeStampFastString": "2025-04-15T19:18:47.768Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-15T19:18:47.768Z"
+    "FStringFlagRepoGitHashFastString": "c6cb4aaae184f5ada495884dd1213fbbaaae84ec",
+    "DFStringFlagRepoGitHashDynamicString": "c6cb4aaae184f5ada495884dd1213fbbaaae84ec",
+    "FStringFlipTimeStampFastString": "2025-04-15T19:21:31.748Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-15T19:21:31.748Z"
 }
