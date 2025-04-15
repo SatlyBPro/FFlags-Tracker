@@ -11473,12 +11473,12 @@
     "FFlagSduiRefactorBuilder": true,
     "FFlagDebugLogFragmentsFromAutocomplete": false,
     "FFlagFixSkinningLifetimeAndBugs4_IXP": "1;Portal.FFlagFixSkinningLifetimeAndBugs4-002;FFlagFixSkinningLifetimeAndBugs4-002;858765142;flagbank",
-    "FFlagLuauStoreCSTData2_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-15T19:25:52",
     "FFlagFixLooksSecondaryLayerApdativeScrolling": true,
     "SFFlagEliminateLSCHashStorage2_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-15T19:43:44",
     "DFFlagSimRemoveWorldDependencyonParent_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-15T19:45:07",
     "FFlagRenderEnableGlobalInstancingD3D11": true,
     "DFFlagSimModelLodUseMeshWithLessTriangles_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-15T20:21:40",
+    "FFlagLuauStoreCSTData2": true,
     "FFlagUpdateAvatarGestures_PlaceFilter": "true;16818255141",
     "FFlagEnableTempFixCollectibleBundlePurchase": true,
     "FFlagFixAvatarUtilCharacter_PlaceFilter": "true;16818255141;6295939019",
@@ -12172,8 +12172,8 @@
     "FFlagEnableCoreVoiceManagerPassErrorInReject": true,
     "FFlagLogPartyVoiceReconnect": true,
     "FFlagPartyVoiceReportJoinFailed": true,
-    "FStringFlagRepoGitHashFastString": "52e83bf1c16de23f077518793789aff55ec65ca3",
-    "DFStringFlagRepoGitHashDynamicString": "52e83bf1c16de23f077518793789aff55ec65ca3",
-    "FStringFlipTimeStampFastString": "2025-04-15T20:29:01.393Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-15T20:29:01.393Z"
+    "FStringFlagRepoGitHashFastString": "759935a1854c1fe22038a80196754d8dbd7e803e",
+    "DFStringFlagRepoGitHashDynamicString": "759935a1854c1fe22038a80196754d8dbd7e803e",
+    "FStringFlipTimeStampFastString": "2025-04-15T20:37:57.866Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-15T20:37:57.866Z"
 }
