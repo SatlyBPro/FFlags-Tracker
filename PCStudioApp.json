@@ -11464,9 +11464,6 @@
     "DFFlagRequireByStringImplicitInitEventTelemetryEnabled": true,
     "DFIntRequireByStringImplicitInitEventHundredthsPercent": 10000,
     "FFlagSmoothClusterFlushApplyEagerUpdates": true,
-    "FFlagSduiInstrumentation_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-15T17:22:29",
-    "FIntRenderWarningWaitForGpuD3D11TimeMsec_Staged": "500;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-15T17:22:40",
-    "FIntRenderMaxWaitForGpuD3D11TimeMsec_Staged": "2500;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-15T17:22:59",
     "FFlagAttenuationCurveEditorLargeXFix": true,
     "FFlagSduiRefactorBuilder_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-15T17:36:03",
     "FFlagAnimationManifestFixNumberCastIssue": true,
@@ -11474,6 +11471,9 @@
     "AllowVideoPreRoll": true,
     "DFFlagPerformanceControlAddMemoryPressureLevelThreshold": true,
     "FFlagEnableTextureManagerIXPMappingForPerformanceControl": true,
+    "FIntRenderMaxWaitForGpuD3D11TimeMsec": 2500,
+    "FIntRenderWarningWaitForGpuD3D11TimeMsec": 500,
+    "FFlagSduiInstrumentation": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
     "CaptureQTStudioCountersEnabled": true,
@@ -13091,8 +13091,8 @@
     "FFlagCacheReadParsePolicy": true,
     "FFlagFontListFetchRetryForMoreTimes": true,
     "FFlagStudioPreloadBuilderSans": true,
-    "FStringFlagRepoGitHashFastString": "b70961ceafdc70188b368c3882e143e5305b225e",
-    "DFStringFlagRepoGitHashDynamicString": "b70961ceafdc70188b368c3882e143e5305b225e",
-    "FStringFlipTimeStampFastString": "2025-04-15T18:18:12.310Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-15T18:18:12.310Z"
+    "FStringFlagRepoGitHashFastString": "fe47be61ea33b8a44571412e82da091e18bf97d4",
+    "DFStringFlagRepoGitHashDynamicString": "fe47be61ea33b8a44571412e82da091e18bf97d4",
+    "FStringFlipTimeStampFastString": "2025-04-15T18:33:38.906Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-15T18:33:38.906Z"
 }
