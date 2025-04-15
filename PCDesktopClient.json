@@ -11776,7 +11776,6 @@
     "FFlagRenderDX11FixWaitForGpu": true,
     "DFFlagSkipPlaceFilterUpdateForPartyVoice": true,
     "FFlagLuaAppFixHeroUnitDepArray": true,
-    "FFlagLuaAppIncreaseImpressionsDelay_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-15T16:44:40",
     "AllowVideoPreRoll": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
@@ -12166,8 +12165,8 @@
     "FFlagArrayTypingInfo": true,
     "FFlagLogPartyVoiceReconnect": true,
     "FFlagPartyVoiceReportJoinFailed": true,
-    "FStringFlagRepoGitHashFastString": "ac637e464a9dc3951454f63a2a024134ed9f1564",
-    "DFStringFlagRepoGitHashDynamicString": "ac637e464a9dc3951454f63a2a024134ed9f1564",
-    "FStringFlipTimeStampFastString": "2025-04-15T17:38:33.976Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-15T17:38:33.976Z"
+    "FStringFlagRepoGitHashFastString": "c77c62ee1bb252c09f69050397eae8ca1efcea4a",
+    "DFStringFlagRepoGitHashDynamicString": "c77c62ee1bb252c09f69050397eae8ca1efcea4a",
+    "FStringFlipTimeStampFastString": "2025-04-15T17:42:00.354Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-15T17:42:00.354Z"
 }
