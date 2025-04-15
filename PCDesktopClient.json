@@ -11476,6 +11476,7 @@
     "FFlagDebugLogFragmentsFromAutocomplete": false,
     "FFlagFixSkinningLifetimeAndBugs4_Staged": "true;SteadyState;10;60;Revert;2025-04-15T19:17:54",
     "FFlagFixSkinningLifetimeAndBugs4_IXP": "1;Portal.FFlagFixSkinningLifetimeAndBugs4-002;FFlagFixSkinningLifetimeAndBugs4-002;858765142;flagbank",
+    "FFlagLuauStoreCSTData2_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-15T19:25:52",
     "FFlagRenderEnableGlobalInstancingD3D11": true,
     "FFlagFixLooksSecondaryLayerApdativeScrolling": true,
     "FFlagUpdateAvatarGestures_PlaceFilter": "true;16818255141",
@@ -12171,8 +12172,8 @@
     "FFlagArrayTypingInfo": true,
     "FFlagLogPartyVoiceReconnect": true,
     "FFlagPartyVoiceReportJoinFailed": true,
-    "FStringFlagRepoGitHashFastString": "c6cb4aaae184f5ada495884dd1213fbbaaae84ec",
-    "DFStringFlagRepoGitHashDynamicString": "c6cb4aaae184f5ada495884dd1213fbbaaae84ec",
-    "FStringFlipTimeStampFastString": "2025-04-15T19:21:31.748Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-15T19:21:31.748Z"
+    "FStringFlagRepoGitHashFastString": "140aa2df88c94134a71e127da14b974dd4e64324",
+    "DFStringFlagRepoGitHashDynamicString": "140aa2df88c94134a71e127da14b974dd4e64324",
+    "FStringFlipTimeStampFastString": "2025-04-15T19:26:40.991Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-15T19:26:40.991Z"
 }
