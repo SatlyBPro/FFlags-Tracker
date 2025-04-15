@@ -11463,10 +11463,11 @@
     "FFlagPerformanceControlAllowExperimentNameForFlagIXP": true,
     "DFFlagRequireByStringImplicitInitEventTelemetryEnabled": true,
     "DFIntRequireByStringImplicitInitEventHundredthsPercent": 10000,
-    "FFlagSmoothClusterFlushApplyEagerUpdates_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-15T16:08:05",
     "FFlagAttenuationCurveEditorLargeXFix_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-15T16:20:46",
     "FFlagAnimationManifestFixNumberCastIssue_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-15T16:31:47",
     "AllowVideoPreRoll": true,
+    "FFlagSmoothClusterFlushApplyEagerUpdates": true,
+    "FFlagEnableTextureManagerIXPMappingForPerformanceControl_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-15T17:12:44",
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
     "CaptureQTStudioCountersEnabled": true,
@@ -13086,8 +13087,8 @@
     "FFlagCacheReadParsePolicy": true,
     "FFlagFontListFetchRetryForMoreTimes": true,
     "FFlagStudioPreloadBuilderSans": true,
-    "FStringFlagRepoGitHashFastString": "c4ac7a9a48cd168133f2dea3d567337f6cfde0be",
-    "DFStringFlagRepoGitHashDynamicString": "c4ac7a9a48cd168133f2dea3d567337f6cfde0be",
-    "FStringFlipTimeStampFastString": "2025-04-15T16:47:49.060Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-15T16:47:49.060Z"
+    "FStringFlagRepoGitHashFastString": "8a2642dd25bd8b9fc7dd881dcad8dae756f0a0e3",
+    "DFStringFlagRepoGitHashDynamicString": "8a2642dd25bd8b9fc7dd881dcad8dae756f0a0e3",
+    "FStringFlipTimeStampFastString": "2025-04-15T17:13:58.675Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-15T17:13:58.675Z"
 }
