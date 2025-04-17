@@ -11522,6 +11522,7 @@
     "DFFlagNewAndroidCpuSpeedMethod": true,
     "FFlagUseUiBloxDividerForActivationFrameworkFooter": true,
     "FFlagStudioReworkPluginUnloading4_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-17T18:07:49",
+    "DFFlagFrequencyOverflowFix_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-17T18:11:08",
     "FFlagFixLooksSecondaryLayerApdativeScrolling": true,
     "FFlagUpdateAvatarGestures_PlaceFilter": "true;16818255141",
     "FFlagEnableTempFixCollectibleBundlePurchase": true,
@@ -12216,8 +12217,8 @@
     "FFlagPartyVoiceReportJoinFailed": true,
     "FFlagLuaAppSignUpColorExperiment2": true,
     "FFlagPartyVoiceControlsAnalytics": true,
-    "FStringFlagRepoGitHashFastString": "57bf3ab875c3e45af662b5793e850e96c041cad4",
-    "DFStringFlagRepoGitHashDynamicString": "57bf3ab875c3e45af662b5793e850e96c041cad4",
-    "FStringFlipTimeStampFastString": "2025-04-17T18:10:59.105Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-17T18:10:59.105Z"
+    "FStringFlagRepoGitHashFastString": "d941ac7f2ea6fd6a281929516f963a6fbd11965c",
+    "DFStringFlagRepoGitHashDynamicString": "d941ac7f2ea6fd6a281929516f963a6fbd11965c",
+    "FStringFlipTimeStampFastString": "2025-04-17T18:15:49.465Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-17T18:15:49.465Z"
 }
