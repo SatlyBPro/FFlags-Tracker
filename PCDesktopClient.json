@@ -12217,9 +12217,9 @@
     "FFlagPartyVoiceReportJoinFailed": true,
     "FFlagLuaAppSignUpColorExperiment2": true,
     "FFlagPartyVoiceControlsAnalytics": true,
-    "FFlagFixIntervalStatStartSamplingThisUse_Staged": "true;SteadyState;10;30;Revert;2025-04-17T18:14:14",
-    "FStringFlagRepoGitHashFastString": "10f7177f0c0d779855075e4309dbc35a4f8daad7",
-    "DFStringFlagRepoGitHashDynamicString": "10f7177f0c0d779855075e4309dbc35a4f8daad7",
-    "FStringFlipTimeStampFastString": "2025-04-17T18:40:10.915Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-17T18:40:10.915Z"
+    "FFlagFixIntervalStatStartSamplingThisUse_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-17T18:46:02",
+    "FStringFlagRepoGitHashFastString": "bb2b8d2fd400f5ed7fe76bdf167e34e389d8c24a",
+    "DFStringFlagRepoGitHashDynamicString": "bb2b8d2fd400f5ed7fe76bdf167e34e389d8c24a",
+    "FStringFlipTimeStampFastString": "2025-04-17T18:48:07.304Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-17T18:48:07.304Z"
 }
