@@ -12209,10 +12209,9 @@
     "FFlagLogPartyVoiceReconnect": true,
     "FFlagPartyVoiceReportJoinFailed": true,
     "FFlagLuaAppSignUpColorExperiment2": true,
-    "FFlagInExperienceLocaleHeaderEnabled_IXP": "1;AvatarMarketplace.InExperience;FFlagInExperienceLocaleHeaderEnabled;1885385504;flagbank",
     "FFlagPartyVoiceControlsAnalytics": true,
-    "FStringFlagRepoGitHashFastString": "39465acdb5f26c87de18b43a500cadd26e206e8c",
-    "DFStringFlagRepoGitHashDynamicString": "39465acdb5f26c87de18b43a500cadd26e206e8c",
-    "FStringFlipTimeStampFastString": "2025-04-17T00:58:53.875Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-17T00:58:53.875Z"
+    "FStringFlagRepoGitHashFastString": "36e193b85fee65c8a9c2e032d3926a5107698aaa",
+    "DFStringFlagRepoGitHashDynamicString": "36e193b85fee65c8a9c2e032d3926a5107698aaa",
+    "FStringFlipTimeStampFastString": "2025-04-17T15:35:46.500Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-17T15:35:46.500Z"
 }
