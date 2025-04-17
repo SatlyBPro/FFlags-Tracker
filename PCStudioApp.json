@@ -11516,11 +11516,11 @@
     "FFlagSessionTrackingReportDX11HResult4": true,
     "DFFlagInExpAvatarCreationDisableEphemeralCounters2": true,
     "FFlagGeometryBuffersTelemetry": true,
-    "DFFlagNewAndroidCpuSpeedMethod_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-17T16:51:59",
     "FFlagUseUiBloxDividerForActivationFrameworkFooter_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-17T17:00:22",
     "DFFlagStrictStringConvertReport2": true,
     "DFFlagPlayerReflectThirdPartyTextChatRestrictionStatus": true,
     "FFlagRenderEnableGlobalInstancingD3D11": true,
+    "DFFlagNewAndroidCpuSpeedMethod": true,
     "AllowVideoPreRoll": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
@@ -13158,8 +13158,8 @@
     "FFlagFontListFetchRetryForMoreTimes": true,
     "FFlagStudioPreloadBuilderSans": true,
     "FFlagWebBrowserWinFixInitScriptReload": true,
-    "FStringFlagRepoGitHashFastString": "b975ee2ba097d844dbc84913725e7372584a9ce9",
-    "DFStringFlagRepoGitHashDynamicString": "b975ee2ba097d844dbc84913725e7372584a9ce9",
-    "FStringFlipTimeStampFastString": "2025-04-17T17:52:15.344Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-17T17:52:15.344Z"
+    "FStringFlagRepoGitHashFastString": "bfe663e362d9186d8c4dcf5e4e8da463ead8ecb2",
+    "DFStringFlagRepoGitHashDynamicString": "bfe663e362d9186d8c4dcf5e4e8da463ead8ecb2",
+    "FStringFlipTimeStampFastString": "2025-04-17T18:01:40.750Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-17T18:01:40.750Z"
 }
