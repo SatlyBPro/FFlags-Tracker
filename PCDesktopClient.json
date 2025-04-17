@@ -11524,6 +11524,7 @@
     "FFlagStudioReworkPluginUnloading4": true,
     "DFFlagFrequencyOverflowFix": true,
     "DFFlagFileCacheFixRemoveAll_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-17T19:33:30",
+    "FFlagMicroprofilerPerFrameCpuSpeed_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-17T20:10:47",
     "FFlagRenderEnableGlobalInstancingD3D11": true,
     "FFlagFixLooksSecondaryLayerApdativeScrolling": true,
     "FFlagUpdateAvatarGestures_PlaceFilter": "true;16818255141",
@@ -12221,8 +12222,8 @@
     "FFlagPartyVoiceControlsAnalytics": true,
     "FFlagFixIntervalStatStartSamplingThisUse": true,
     "FFlagFixIntervalStatsSynchronization_Staged": "true;SteadyState;10;30;Revert;2025-04-17T20:05:54",
-    "FStringFlagRepoGitHashFastString": "88f298ad6bcd74b71f2461c5dbe4bc66f6b99fef",
-    "DFStringFlagRepoGitHashDynamicString": "88f298ad6bcd74b71f2461c5dbe4bc66f6b99fef",
-    "FStringFlipTimeStampFastString": "2025-04-17T20:08:30.506Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-17T20:08:30.506Z"
+    "FStringFlagRepoGitHashFastString": "dd823081ddd4e998c522c609b290fcd29bf2d5d0",
+    "DFStringFlagRepoGitHashDynamicString": "dd823081ddd4e998c522c609b290fcd29bf2d5d0",
+    "FStringFlipTimeStampFastString": "2025-04-17T20:11:44.516Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-17T20:11:44.516Z"
 }
