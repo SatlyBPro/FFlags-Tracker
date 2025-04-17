@@ -12220,8 +12220,9 @@
     "FFlagLuaAppSignUpColorExperiment2": true,
     "FFlagPartyVoiceControlsAnalytics": true,
     "FFlagFixIntervalStatStartSamplingThisUse": true,
-    "FStringFlagRepoGitHashFastString": "c4663e3aa73943c77ef969a0ee7986ca5b2c3e78",
-    "DFStringFlagRepoGitHashDynamicString": "c4663e3aa73943c77ef969a0ee7986ca5b2c3e78",
-    "FStringFlipTimeStampFastString": "2025-04-17T19:53:31.829Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-17T19:53:31.829Z"
+    "FFlagFixIntervalStatsSynchronization_Staged": "true;SteadyState;10;30;Revert;2025-04-17T20:05:54",
+    "FStringFlagRepoGitHashFastString": "88f298ad6bcd74b71f2461c5dbe4bc66f6b99fef",
+    "DFStringFlagRepoGitHashDynamicString": "88f298ad6bcd74b71f2461c5dbe4bc66f6b99fef",
+    "FStringFlipTimeStampFastString": "2025-04-17T20:08:30.506Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-17T20:08:30.506Z"
 }
