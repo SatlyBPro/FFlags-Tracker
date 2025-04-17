@@ -11516,6 +11516,8 @@
     "FFlagSessionTrackingReportDX11HResult4": true,
     "DFFlagInExpAvatarCreationDisableEphemeralCounters2": true,
     "FFlagGeometryBuffersTelemetry": true,
+    "AllowVideoPreRoll": true,
+    "DFFlagTaskLibReportNonSuspended_Staged": "false;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-17T16:01:36",
     "FFlagRenderEnableGlobalInstancingD3D11": true,
     "FFlagFixLooksSecondaryLayerApdativeScrolling": true,
     "FFlagUpdateAvatarGestures_PlaceFilter": "true;16818255141",
@@ -11820,7 +11822,6 @@
     "DFFlagStopAssembleWorldDuringDMTearDown": true,
     "DFFlagStopIntersectWithOthersDuringDMTearDown": true,
     "FFlagAXColorAdjustmentButtonShouldAccountForTryOns": true,
-    "AllowVideoPreRoll": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
     "CaptureQTStudioCountersEnabled": true,
@@ -12210,8 +12211,8 @@
     "FFlagPartyVoiceReportJoinFailed": true,
     "FFlagLuaAppSignUpColorExperiment2": true,
     "FFlagPartyVoiceControlsAnalytics": true,
-    "FStringFlagRepoGitHashFastString": "36e193b85fee65c8a9c2e032d3926a5107698aaa",
-    "DFStringFlagRepoGitHashDynamicString": "36e193b85fee65c8a9c2e032d3926a5107698aaa",
-    "FStringFlipTimeStampFastString": "2025-04-17T15:35:46.500Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-17T15:35:46.500Z"
+    "FStringFlagRepoGitHashFastString": "c3ad7f0344b2cd4d9a68f4dcb19bf7b9c261f7d5",
+    "DFStringFlagRepoGitHashDynamicString": "c3ad7f0344b2cd4d9a68f4dcb19bf7b9c261f7d5",
+    "FStringFlipTimeStampFastString": "2025-04-17T16:04:12.190Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-17T16:04:12.190Z"
 }
