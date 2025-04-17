@@ -13132,6 +13132,7 @@
     "DFFlagCoalescedCreatables": true,
     "DFFlagSessionTrackingHealthSendEvents": true,
     "DFLogRupp_Staged": "6;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-17T17:10:58",
+    "DFFlagGuiLayerCollectorCombined_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-17T17:29:14",
     "FFlagDebugLuaAppValidateProps": true,
     "FStringFeature_CookieProtocolEnabled": "524;100",
     "FFlagUseParallelTypecheckInLSP2": true,
@@ -13156,8 +13157,8 @@
     "FFlagFontListFetchRetryForMoreTimes": true,
     "FFlagStudioPreloadBuilderSans": true,
     "FFlagWebBrowserWinFixInitScriptReload": true,
-    "FStringFlagRepoGitHashFastString": "7119dd0cc5853be951fcd87eff275d03feeb7047",
-    "DFStringFlagRepoGitHashDynamicString": "7119dd0cc5853be951fcd87eff275d03feeb7047",
-    "FStringFlipTimeStampFastString": "2025-04-17T17:29:41.548Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-17T17:29:41.548Z"
+    "FStringFlagRepoGitHashFastString": "b741b7ba56a47d38c8bc03488efa1669b8ff3034",
+    "DFStringFlagRepoGitHashDynamicString": "b741b7ba56a47d38c8bc03488efa1669b8ff3034",
+    "FStringFlipTimeStampFastString": "2025-04-17T17:32:00.828Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-17T17:32:00.828Z"
 }
