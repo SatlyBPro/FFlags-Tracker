@@ -11826,8 +11826,8 @@
     "DFFlagStopAssembleWorldDuringDMTearDown": true,
     "DFFlagStopIntersectWithOthersDuringDMTearDown": true,
     "FFlagAXColorAdjustmentButtonShouldAccountForTryOns": true,
-    "DFLogRupp_Staged": "6;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-17T17:10:58",
     "DFFlagGuiLayerCollectorCombined_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-17T17:29:14",
+    "DFLogRupp": 6,
     "AllowVideoPreRoll": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
@@ -12217,8 +12217,9 @@
     "FFlagPartyVoiceReportJoinFailed": true,
     "FFlagLuaAppSignUpColorExperiment2": true,
     "FFlagPartyVoiceControlsAnalytics": true,
-    "FStringFlagRepoGitHashFastString": "d941ac7f2ea6fd6a281929516f963a6fbd11965c",
-    "DFStringFlagRepoGitHashDynamicString": "d941ac7f2ea6fd6a281929516f963a6fbd11965c",
-    "FStringFlipTimeStampFastString": "2025-04-17T18:15:49.465Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-17T18:15:49.465Z"
+    "FFlagFixIntervalStatStartSamplingThisUse_Staged": "true;SteadyState;10;30;Revert;2025-04-17T18:14:14",
+    "FStringFlagRepoGitHashFastString": "13816bcabebdf83e4d395ae3c394a201aee98467",
+    "DFStringFlagRepoGitHashDynamicString": "13816bcabebdf83e4d395ae3c394a201aee98467",
+    "FStringFlipTimeStampFastString": "2025-04-17T18:20:17.215Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-17T18:20:17.215Z"
 }
