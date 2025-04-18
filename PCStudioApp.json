@@ -11246,7 +11246,7 @@
     "DFFlagSimPrimalSolverConstraintPerp2AxesMakeJacobianConsistentWithFormula": true,
     "FFlagCapturesPromptsSupportVideo2": true,
     "FFlagEditUsernameBuyRobuxPageFix": true,
-    "DFFlagPhysicsParallelFor": true,
+    "DFFlagPhysicsParallelFor": false,
     "FFlagWindowsStudioUseRvVideoRecorder": true,
     "FFlagGamepadEmulatorBetaFeature": false,
     "FFlagEnableControlsEmulator2": true,
@@ -13174,8 +13174,8 @@
     "FFlagFontListFetchRetryForMoreTimes": true,
     "FFlagStudioPreloadBuilderSans": true,
     "FFlagWebBrowserWinFixInitScriptReload": true,
-    "FStringFlagRepoGitHashFastString": "42149c63a10ad560fc26edfc2a0d859ed679083c",
-    "DFStringFlagRepoGitHashDynamicString": "42149c63a10ad560fc26edfc2a0d859ed679083c",
-    "FStringFlipTimeStampFastString": "2025-04-18T18:27:52.722Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-18T18:27:52.722Z"
+    "FStringFlagRepoGitHashFastString": "ccce54e7e8504b47b26093aa5f086b9473e20d8a",
+    "DFStringFlagRepoGitHashDynamicString": "ccce54e7e8504b47b26093aa5f086b9473e20d8a",
+    "FStringFlipTimeStampFastString": "2025-04-18T20:43:04.747Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-18T20:43:04.747Z"
 }
