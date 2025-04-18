@@ -11839,6 +11839,7 @@
     "FFlagAXFixColorAdjustmentGamepadSupport": true,
     "DFFlagPhantomFreezeCountDecryptFailures": true,
     "FFlagAXFixColorAdjustmentQuickButtonSize_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-18T17:21:20",
+    "FFlagAXColorAdjustmentPageShouldHaveCurrentColorSelected_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-18T17:24:24",
     "AllowVideoPreRoll": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
@@ -12229,8 +12230,8 @@
     "FFlagPartyVoiceControlsAnalytics": true,
     "FFlagFixIntervalStatStartSamplingThisUse": true,
     "FFlagFixIntervalStatsSynchronization": true,
-    "FStringFlagRepoGitHashFastString": "5fc1040db3acf5849e89b3e351c8fda7b38a1226",
-    "DFStringFlagRepoGitHashDynamicString": "5fc1040db3acf5849e89b3e351c8fda7b38a1226",
-    "FStringFlipTimeStampFastString": "2025-04-18T17:22:44.107Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-18T17:22:44.107Z"
+    "FStringFlagRepoGitHashFastString": "a1d17e15ce9d7f7b5ba64e54f8a80772ac538cfb",
+    "DFStringFlagRepoGitHashDynamicString": "a1d17e15ce9d7f7b5ba64e54f8a80772ac538cfb",
+    "FStringFlipTimeStampFastString": "2025-04-18T17:25:31.242Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-18T17:25:31.242Z"
 }
