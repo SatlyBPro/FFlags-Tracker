@@ -11528,7 +11528,6 @@
     "FFlagFixPaddingWithChannelTabs": true,
     "FFlagAXPreserveAvatarYDuringRotationTween": true,
     "DFFlagSimSolverUpdateImprovedSleepEnabled_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-21T16:27:38",
-    "DFFlagAppConfigurationAddTimeIntervalInTelemetry_Staged": "true;SteadyState;10;30;Revert;2025-04-21T16:41:36",
     "FFlagSimEditableAddOOBTelemetry_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-21T16:50:29",
     "FFlagRenderEnableGlobalInstancingD3D11": true,
     "FFlagUnreduxLastInputTypeChanged_Staged": "true;SteadyState;10;30;Revert;2025-04-21T17:05:19",
@@ -13184,8 +13183,8 @@
     "FFlagFontListFetchRetryForMoreTimes": true,
     "FFlagStudioPreloadBuilderSans": true,
     "FFlagWebBrowserWinFixInitScriptReload": true,
-    "FStringFlagRepoGitHashFastString": "385e0625313df2729641ff993e5d6b4fbe49226a",
-    "DFStringFlagRepoGitHashDynamicString": "385e0625313df2729641ff993e5d6b4fbe49226a",
-    "FStringFlipTimeStampFastString": "2025-04-21T17:13:39.512Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-21T17:13:39.512Z"
+    "FStringFlagRepoGitHashFastString": "605a86e315c60cc1343c7b848d9097618d11f396",
+    "DFStringFlagRepoGitHashDynamicString": "605a86e315c60cc1343c7b848d9097618d11f396",
+    "FStringFlipTimeStampFastString": "2025-04-21T17:19:26.228Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-21T17:19:26.228Z"
 }
