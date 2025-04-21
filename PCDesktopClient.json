@@ -11529,6 +11529,7 @@
     "FFlagAXPreserveAvatarYDuringRotationTween": true,
     "FFlagRenderDeferShaderLoading_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-21T16:06:36",
     "AllowVideoPreRoll": true,
+    "DFFlagSimSolverUpdateImprovedSleepEnabled_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-21T16:27:38",
     "FFlagRenderEnableGlobalInstancingD3D11": true,
     "FFlagFixLooksSecondaryLayerApdativeScrolling": true,
     "FFlagUpdateAvatarGestures_PlaceFilter": "true;16818255141",
@@ -12232,8 +12233,8 @@
     "FFlagPartyVoiceControlsAnalytics": true,
     "FFlagFixIntervalStatStartSamplingThisUse": true,
     "FFlagFixIntervalStatsSynchronization": true,
-    "FStringFlagRepoGitHashFastString": "0eebec1de103f9acba583433dc9fb062f26db35b",
-    "DFStringFlagRepoGitHashDynamicString": "0eebec1de103f9acba583433dc9fb062f26db35b",
-    "FStringFlipTimeStampFastString": "2025-04-21T16:08:14.014Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-21T16:08:14.014Z"
+    "FStringFlagRepoGitHashFastString": "0ec32014a8b1d86a1c7f69b4efe9aacbdfc18568",
+    "DFStringFlagRepoGitHashDynamicString": "0ec32014a8b1d86a1c7f69b4efe9aacbdfc18568",
+    "FStringFlipTimeStampFastString": "2025-04-21T16:28:58.544Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-21T16:28:58.544Z"
 }
