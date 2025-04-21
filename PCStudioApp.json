@@ -11527,6 +11527,8 @@
     "DFFlagPerformanceControlTrackFreeOsMemLowWatermark": true,
     "FFlagFixPaddingWithChannelTabs": true,
     "FFlagAXPreserveAvatarYDuringRotationTween": true,
+    "FFlagRenderDeferShaderLoading_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-21T16:06:36",
+    "DFFlagPerformanceControlAddMemoryPerRegionSecondary_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-21T16:06:40",
     "AllowVideoPreRoll": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
@@ -13150,6 +13152,7 @@
     "FFlagAXFixColorAdjustmentGamepadSupport": true,
     "DFFlagPhantomFreezeCountDecryptFailures": true,
     "FFlagAXFixColorAdjustmentQuickButtonSize": true,
+    "FStringGraphicsDX11TurnOffFutureLighting3_Staged": "8086:64a0;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-21T16:07:18",
     "FFlagDebugLuaAppValidateProps": true,
     "FStringFeature_CookieProtocolEnabled": "524;100",
     "FFlagUseParallelTypecheckInLSP2": true,
@@ -13174,8 +13177,8 @@
     "FFlagFontListFetchRetryForMoreTimes": true,
     "FFlagStudioPreloadBuilderSans": true,
     "FFlagWebBrowserWinFixInitScriptReload": true,
-    "FStringFlagRepoGitHashFastString": "ccce54e7e8504b47b26093aa5f086b9473e20d8a",
-    "DFStringFlagRepoGitHashDynamicString": "ccce54e7e8504b47b26093aa5f086b9473e20d8a",
-    "FStringFlipTimeStampFastString": "2025-04-18T20:43:04.747Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-18T20:43:04.747Z"
+    "FStringFlagRepoGitHashFastString": "0eebec1de103f9acba583433dc9fb062f26db35b",
+    "DFStringFlagRepoGitHashDynamicString": "0eebec1de103f9acba583433dc9fb062f26db35b",
+    "FStringFlipTimeStampFastString": "2025-04-21T16:08:14.014Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-21T16:08:14.014Z"
 }
