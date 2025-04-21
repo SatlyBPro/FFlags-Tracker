@@ -11536,6 +11536,8 @@
     "DFFlagPerformanceControlAddMemoryPerRegionSecondary": true,
     "FFlagUpdateAvatarGestures_PlaceFilter": "true;16818255141",
     "FFlagFixLooksSecondaryLayerApdativeScrolling": true,
+    "DFFlagLuauRethrowKnownExceptions_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-21T17:22:45",
+    "DFFlagTypecheckItemProcessSplit_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-21T17:22:48",
     "FFlagEnableTempFixCollectibleBundlePurchase": true,
     "FFlagFixAvatarUtilCharacter_PlaceFilter": "true;16818255141;6295939019",
     "FFlagShorelinesRemoveDialog": true,
@@ -12236,8 +12238,8 @@
     "FFlagPartyVoiceControlsAnalytics": true,
     "FFlagFixIntervalStatStartSamplingThisUse": true,
     "FFlagFixIntervalStatsSynchronization": true,
-    "FStringFlagRepoGitHashFastString": "2345566399b0254171ec431e380665df85ae41aa",
-    "DFStringFlagRepoGitHashDynamicString": "2345566399b0254171ec431e380665df85ae41aa",
-    "FStringFlipTimeStampFastString": "2025-04-21T17:24:04.629Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-21T17:24:04.629Z"
+    "FStringFlagRepoGitHashFastString": "fbd5cc80aef33f3d0f4caffc9679bfa0261f4285",
+    "DFStringFlagRepoGitHashDynamicString": "fbd5cc80aef33f3d0f4caffc9679bfa0261f4285",
+    "FStringFlipTimeStampFastString": "2025-04-21T17:24:41.304Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-21T17:24:41.304Z"
 }
