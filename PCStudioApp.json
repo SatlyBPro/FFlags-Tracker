@@ -11531,6 +11531,7 @@
     "DFFlagPerformanceControlAddMemoryPerRegionSecondary_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-21T16:06:40",
     "DFFlagSimSolverUpdateImprovedSleepEnabled_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-21T16:27:38",
     "DFFlagAppConfigurationAddTimeIntervalInTelemetry_Staged": "true;SteadyState;10;30;Revert;2025-04-21T16:41:36",
+    "FFlagSimEditableAddOOBTelemetry_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-21T16:50:29",
     "AllowVideoPreRoll": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
@@ -13179,8 +13180,8 @@
     "FFlagFontListFetchRetryForMoreTimes": true,
     "FFlagStudioPreloadBuilderSans": true,
     "FFlagWebBrowserWinFixInitScriptReload": true,
-    "FStringFlagRepoGitHashFastString": "b394027ec1d913755d0a8372f1a466f47b055ce1",
-    "DFStringFlagRepoGitHashDynamicString": "b394027ec1d913755d0a8372f1a466f47b055ce1",
-    "FStringFlipTimeStampFastString": "2025-04-21T16:42:24.411Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-21T16:42:24.411Z"
+    "FStringFlagRepoGitHashFastString": "82737b8b1c402fd1c24093e22c93358a42a92a8f",
+    "DFStringFlagRepoGitHashDynamicString": "82737b8b1c402fd1c24093e22c93358a42a92a8f",
+    "FStringFlipTimeStampFastString": "2025-04-21T16:51:18.466Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-21T16:51:18.466Z"
 }
