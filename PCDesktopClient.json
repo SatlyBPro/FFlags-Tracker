@@ -11817,7 +11817,7 @@
     "FFlagLuaAppFixHeroUnitDepArray": true,
     "DFFlagFastClearMidphase": true,
     "FFlagGetWorldRootIfInWorldRootSupportJointInstance": true,
-    "FFlagNewOptimizeNoCollisionPrimitiveInMidphase668": true,
+    "FFlagNewOptimizeNoCollisionPrimitiveInMidphase668": false,
     "FFlagFFlagEnableAdDataReferralEventIngest": true,
     "FFlagLuaAppIncreaseImpressionsDelay": true,
     "DFIntSessionTrackingHealthStartEventThrottleHundredthsPercent": 10000,
@@ -12230,9 +12230,8 @@
     "FFlagPartyVoiceControlsAnalytics": true,
     "FFlagFixIntervalStatStartSamplingThisUse": true,
     "FFlagFixIntervalStatsSynchronization": true,
-    "FFlagNewOptimizeNoCollisionPrimitiveInMidphase668_Staged": "false;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-21T06:15:12",
-    "FStringFlagRepoGitHashFastString": "07ff91e887fc28003d4a723707c7200f90b111d5",
-    "DFStringFlagRepoGitHashDynamicString": "07ff91e887fc28003d4a723707c7200f90b111d5",
-    "FStringFlipTimeStampFastString": "2025-04-21T06:16:07.115Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-21T06:16:07.115Z"
+    "FStringFlagRepoGitHashFastString": "1069b6d802c7efd9bf8fe1f112cfdf80b18b1ccb",
+    "DFStringFlagRepoGitHashDynamicString": "1069b6d802c7efd9bf8fe1f112cfdf80b18b1ccb",
+    "FStringFlipTimeStampFastString": "2025-04-21T07:22:20.917Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-21T07:22:20.917Z"
 }
