@@ -11533,6 +11533,8 @@
     "DFFlagAppConfigurationAddTimeIntervalInTelemetry_Staged": "true;SteadyState;10;30;Revert;2025-04-21T16:41:36",
     "FFlagSimEditableAddOOBTelemetry_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-21T16:50:29",
     "FFlagRenderEnableGlobalInstancingD3D11": true,
+    "FFlagUnreduxLastInputTypeChanged_Staged": "true;SteadyState;10;30;Revert;2025-04-21T17:05:19",
+    "FFlagUnreduxLastInputTypeChanged_IXP": "1;ExperienceChat.Performance;FFlagUnreduxLastInputTypeChangedV3;510908202;flagbank",
     "FFlagFixLooksSecondaryLayerApdativeScrolling": true,
     "FFlagUpdateAvatarGestures_PlaceFilter": "true;16818255141",
     "FFlagEnableTempFixCollectibleBundlePurchase": true,
@@ -12235,8 +12237,8 @@
     "FFlagPartyVoiceControlsAnalytics": true,
     "FFlagFixIntervalStatStartSamplingThisUse": true,
     "FFlagFixIntervalStatsSynchronization": true,
-    "FStringFlagRepoGitHashFastString": "82737b8b1c402fd1c24093e22c93358a42a92a8f",
-    "DFStringFlagRepoGitHashDynamicString": "82737b8b1c402fd1c24093e22c93358a42a92a8f",
-    "FStringFlipTimeStampFastString": "2025-04-21T16:51:18.466Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-21T16:51:18.466Z"
+    "FStringFlagRepoGitHashFastString": "b1d66ea8750fb138ffd43bd65f7de297986aa93b",
+    "DFStringFlagRepoGitHashDynamicString": "b1d66ea8750fb138ffd43bd65f7de297986aa93b",
+    "FStringFlipTimeStampFastString": "2025-04-21T17:07:14.473Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-21T17:07:14.473Z"
 }
