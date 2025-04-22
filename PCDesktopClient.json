@@ -11591,6 +11591,8 @@
     "FFlagEnableOSAIllegalContentReporting_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-22T16:33:21",
     "FFlagAvatarJointUpgradeCreateCharacter_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-22T16:46:05",
     "FFlagRenderEnableGlobalInstancingD3D11": true,
+    "FIntTaskSchedulerMaxTempArenaSizeBytes_Staged": "1048576;SteadyState;10;60;Revert;2025-04-22T16:52:32",
+    "FIntTaskSchedulerMaxTempArenaSizeBytes_IXP": "1;Portal.FIntTaskSchedulerMaxTempArenaSizeBytes;FIntTaskSchedulerMaxTempArenaSizeBytes;560578391;flagbank",
     "FFlagFixLooksSecondaryLayerApdativeScrolling": true,
     "FFlagUpdateAvatarGestures_PlaceFilter": "true;16818255141",
     "FFlagEnableTempFixCollectibleBundlePurchase": true,
@@ -11901,6 +11903,7 @@
     "FStringGraphicsDX11TurnOffFutureLighting3": "8086:64a0",
     "DFFlagPhantomFreezeDecryptionDisconnect": true,
     "FFlagDeprecateGoogleAnalytics": true,
+    "FFlagTimeoutErrorDiag148259_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-22T16:51:13",
     "AllowVideoPreRoll": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
@@ -12296,8 +12299,8 @@
     "FFlagTouchInputServiceTouchRotate": true,
     "FFlagTouchInputServiceTouchTap": true,
     "FFlagUseRobloxTouchGesture2": true,
-    "FStringFlagRepoGitHashFastString": "415bff5a8f41110fdd42fa75d6c1c0bf7061d824",
-    "DFStringFlagRepoGitHashDynamicString": "415bff5a8f41110fdd42fa75d6c1c0bf7061d824",
-    "FStringFlipTimeStampFastString": "2025-04-22T16:48:30.985Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-22T16:48:30.985Z"
+    "FStringFlagRepoGitHashFastString": "9d0d867578e3ea1d1f2af65b18e4a1f110262095",
+    "DFStringFlagRepoGitHashDynamicString": "9d0d867578e3ea1d1f2af65b18e4a1f110262095",
+    "FStringFlipTimeStampFastString": "2025-04-22T16:54:01.888Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-22T16:54:01.888Z"
 }
