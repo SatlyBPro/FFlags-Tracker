@@ -11597,7 +11597,7 @@
     "FFlagFilterOutDeletedAccountsGameInvites": true,
     "FFlagProfilePlatformSetContextualMenuPositionBasedOnScale": true,
     "DFFlagFixUserTurnAuthJoinedVoiceRace": true,
-    "FFlagAXRemoveBackButtonDesktopClientsEnabled_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-22T18:45:55",
+    "FFlagAssetImportFixTelemetryAfterCleanup_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-22T18:42:02",
     "FFlagGlobalSettingsEngineModule2": false,
     "FFlagXboxRemovePmp_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-22T19:18:52",
     "DFIntRewardedVideoAdServiceShowAdErrorEventThrottleHundrethsPercent_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-22T19:18:57",
@@ -11606,6 +11606,7 @@
     "EnableAndroidAssertDialog": "true",
     "FFlagShareTargetGameCleanup": true,
     "FFlagAssetImportFixTelemetryAfterCleanup": true,
+    "FFlagAXRemoveBackButtonDesktopClientsEnabled": true,
     "FFlagFixLooksSecondaryLayerApdativeScrolling": true,
     "FFlagUpdateAvatarGestures_PlaceFilter": "true;16818255141",
     "FFlagEnableTempFixCollectibleBundlePurchase": true,
@@ -12308,8 +12309,8 @@
     "FFlagTouchInputServiceTouchRotate": true,
     "FFlagTouchInputServiceTouchTap": true,
     "FFlagUseRobloxTouchGesture2": true,
-    "FStringFlagRepoGitHashFastString": "522d672e0769b05706fae571996120cc160d9ed3",
-    "DFStringFlagRepoGitHashDynamicString": "522d672e0769b05706fae571996120cc160d9ed3",
-    "FStringFlipTimeStampFastString": "2025-04-22T19:48:46.948Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-22T19:48:46.948Z"
+    "FStringFlagRepoGitHashFastString": "487cbe9f9e679f93edc0eea6b5a43138ccbf8432",
+    "DFStringFlagRepoGitHashDynamicString": "487cbe9f9e679f93edc0eea6b5a43138ccbf8432",
+    "FStringFlipTimeStampFastString": "2025-04-22T19:54:33.255Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-22T19:54:33.255Z"
 }
