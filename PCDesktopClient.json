@@ -11592,7 +11592,6 @@
     "FFlagEnableOSAIllegalContentReporting": true,
     "FFlagRenderEnableGlobalInstancingD3D11": true,
     "FFlagSimSkeletonNestedAttachments": true,
-    "FFlagGlobalSettingsEngineModule2_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-22T17:53:58",
     "FFlagLuauBlockDiffFragmentSelection": true,
     "DFFlagIsFriendsWithUseFriendStatusCacheBeforeApi": true,
     "FFlagFilterOutDeletedAccountsGameInvites": true,
@@ -11601,6 +11600,7 @@
     "DFFlagFixUserTurnAuthJoinedVoiceRace": true,
     "FFlagAssetImportFixTelemetryAfterCleanup_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-22T18:42:02",
     "FFlagAXRemoveBackButtonDesktopClientsEnabled_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-22T18:45:55",
+    "FFlagGlobalSettingsEngineModule2": true,
     "FFlagFixLooksSecondaryLayerApdativeScrolling": true,
     "FFlagUpdateAvatarGestures_PlaceFilter": "true;16818255141",
     "FFlagEnableTempFixCollectibleBundlePurchase": true,
@@ -12303,8 +12303,8 @@
     "FFlagTouchInputServiceTouchRotate": true,
     "FFlagTouchInputServiceTouchTap": true,
     "FFlagUseRobloxTouchGesture2": true,
-    "FStringFlagRepoGitHashFastString": "53e3f44630b85105c30ae8ad8a8cf2c8cd52b95f",
-    "DFStringFlagRepoGitHashDynamicString": "53e3f44630b85105c30ae8ad8a8cf2c8cd52b95f",
-    "FStringFlipTimeStampFastString": "2025-04-22T18:54:52.025Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-22T18:54:52.025Z"
+    "FStringFlagRepoGitHashFastString": "b5bae78085225b0eaac314835347efc9cdca3690",
+    "DFStringFlagRepoGitHashDynamicString": "b5bae78085225b0eaac314835347efc9cdca3690",
+    "FStringFlipTimeStampFastString": "2025-04-22T18:57:46.743Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-22T18:57:46.743Z"
 }
