@@ -13203,7 +13203,6 @@
     "FStringGraphicsDX11TurnOffFutureLighting3": "8086:64a0",
     "DFFlagPhantomFreezeDecryptionDisconnect": true,
     "FFlagDeprecateGoogleAnalytics": true,
-    "FStringGraphicsDeferShaderLoadingPatternList": ".*D3D_FEATURE_LEVEL_10_.*",
     "FFlagDebugLuaAppValidateProps": true,
     "FStringFeature_CookieProtocolEnabled": "524;100",
     "FFlagPathEditorControlPointVisualImprovements2": true,
@@ -13227,8 +13226,8 @@
     "FFlagFontListFetchRetryForMoreTimes": true,
     "FFlagStudioPreloadBuilderSans": true,
     "FFlagWebBrowserWinFixInitScriptReload": true,
-    "FStringFlagRepoGitHashFastString": "4738f08a2f718a9dae5ae18399be93858ffaffad",
-    "DFStringFlagRepoGitHashDynamicString": "4738f08a2f718a9dae5ae18399be93858ffaffad",
-    "FStringFlipTimeStampFastString": "2025-04-22T15:57:50.458Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-22T15:57:50.458Z"
+    "FStringFlagRepoGitHashFastString": "5985bfb7bda6df6310354650719c1205a2006ab6",
+    "DFStringFlagRepoGitHashDynamicString": "5985bfb7bda6df6310354650719c1205a2006ab6",
+    "FStringFlipTimeStampFastString": "2025-04-22T16:20:33.592Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-22T16:20:33.592Z"
 }
