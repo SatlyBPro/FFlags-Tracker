@@ -12316,8 +12316,9 @@
     "FFlagTouchInputServiceTouchTap": true,
     "FFlagUseRobloxTouchGesture2": true,
     "FFlagLogCullingAdditionalTelemetry": true,
-    "FStringFlagRepoGitHashFastString": "1f26ac0d6de3ce05ac6e86d8c4d86908bbe9de80",
-    "DFStringFlagRepoGitHashDynamicString": "1f26ac0d6de3ce05ac6e86d8c4d86908bbe9de80",
-    "FStringFlipTimeStampFastString": "2025-04-23T17:36:29.836Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-23T17:36:29.836Z"
+    "FFlagDebugDisableCodegen_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-23T17:40:49",
+    "FStringFlagRepoGitHashFastString": "1d86fd04a5c634f1aca6dd7729960504f3318ec6",
+    "DFStringFlagRepoGitHashDynamicString": "1d86fd04a5c634f1aca6dd7729960504f3318ec6",
+    "FStringFlipTimeStampFastString": "2025-04-23T17:43:27.943Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-23T17:43:27.943Z"
 }
