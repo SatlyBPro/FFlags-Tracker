@@ -11617,6 +11617,7 @@
     "AllowVideoPreRoll": true,
     "FFlagRemoveBulletCollisionObject2_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-23T18:20:02",
     "FFlagUpdateAvatarGestures_PlaceFilter": "true;16818255141",
+    "FIntRenderMaxWaitForGpuD3D11TimeMsec_Staged": "5000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-23T18:36:00",
     "FFlagEnableTempFixCollectibleBundlePurchase": true,
     "FFlagFixAvatarUtilCharacter_PlaceFilter": "true;16818255141;6295939019",
     "FFlagShorelinesRemoveDialog": true,
@@ -11922,6 +11923,7 @@
     "FFlagTimeoutErrorDiag148259": true,
     "FStringGraphicsDeferShaderLoadingPatternList": ".*:D3D10.*:d3d10.*:.*",
     "FFlagNewOptimizeNoCollisionPrimitiveInMidphase668_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-23T16:37:24",
+    "DFFlagManagedJointEnabled_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-23T18:32:32",
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
     "CaptureQTStudioCountersEnabled": true,
@@ -12318,8 +12320,8 @@
     "FFlagUseRobloxTouchGesture2": true,
     "FFlagLogCullingAdditionalTelemetry": true,
     "FFlagDebugDisableCodegen_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-23T17:40:49",
-    "FStringFlagRepoGitHashFastString": "34a071b000303616d0f42a2add40aa6a76d5b4a0",
-    "DFStringFlagRepoGitHashDynamicString": "34a071b000303616d0f42a2add40aa6a76d5b4a0",
-    "FStringFlipTimeStampFastString": "2025-04-23T18:32:20.718Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-23T18:32:20.718Z"
+    "FStringFlagRepoGitHashFastString": "ac397b41882dd3e29bf909cf7ce705c152480a33",
+    "DFStringFlagRepoGitHashDynamicString": "ac397b41882dd3e29bf909cf7ce705c152480a33",
+    "FStringFlipTimeStampFastString": "2025-04-23T18:38:19.210Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-23T18:38:19.210Z"
 }
