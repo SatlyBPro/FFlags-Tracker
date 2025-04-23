@@ -11584,7 +11584,6 @@
     "FFlagRefactorLoadAsync": true,
     "FFlagUnifySoundAndTextToSpeechLoading": true,
     "FIntTaskSchedulerMaxTempArenaSizeBytes_IXP": "1;Portal.FIntTaskSchedulerMaxTempArenaSizeBytes;FIntTaskSchedulerMaxTempArenaSizeBytes;560578391;flagbank",
-    "DFFlagSim240hzWithConstraintLimitsEnabled2": true,
     "FFlagEnableOSAIllegalContentReporting": true,
     "FFlagSimSkeletonNestedAttachments": true,
     "FFlagLuauBlockDiffFragmentSelection": true,
@@ -13255,8 +13254,8 @@
     "FFlagFontListFetchRetryForMoreTimes": true,
     "FFlagStudioPreloadBuilderSans": true,
     "FFlagWebBrowserWinFixInitScriptReload": true,
-    "FStringFlagRepoGitHashFastString": "f1ec9e21a59a3e57851a2fcabce09a3514d9c79a",
-    "DFStringFlagRepoGitHashDynamicString": "f1ec9e21a59a3e57851a2fcabce09a3514d9c79a",
-    "FStringFlipTimeStampFastString": "2025-04-23T17:25:05.448Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-23T17:25:05.448Z"
+    "FStringFlagRepoGitHashFastString": "1f26ac0d6de3ce05ac6e86d8c4d86908bbe9de80",
+    "DFStringFlagRepoGitHashDynamicString": "1f26ac0d6de3ce05ac6e86d8c4d86908bbe9de80",
+    "FStringFlipTimeStampFastString": "2025-04-23T17:36:29.836Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-23T17:36:29.836Z"
 }
