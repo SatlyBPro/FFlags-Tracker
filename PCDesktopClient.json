@@ -11614,6 +11614,7 @@
     "DFFlagMatrixFromEulerPerf_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-23T16:34:40",
     "FFlagForceTextChatEnabledForTenFootInterfaces_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-23T16:41:12",
     "FFlagChatInputBarOptimizeTyping_IXP": "1;ExperienceChat.Performance;ChatInputBarOptimizeTyping;768331262;flagbank",
+    "DFFlagFixValidateRewardDMLock_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-23T17:53:25",
     "FFlagUpdateAvatarGestures_PlaceFilter": "true;16818255141",
     "FFlagEnableTempFixCollectibleBundlePurchase": true,
     "FFlagFixAvatarUtilCharacter_PlaceFilter": "true;16818255141;6295939019",
@@ -12317,8 +12318,8 @@
     "FFlagUseRobloxTouchGesture2": true,
     "FFlagLogCullingAdditionalTelemetry": true,
     "FFlagDebugDisableCodegen_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-23T17:40:49",
-    "FStringFlagRepoGitHashFastString": "1d86fd04a5c634f1aca6dd7729960504f3318ec6",
-    "DFStringFlagRepoGitHashDynamicString": "1d86fd04a5c634f1aca6dd7729960504f3318ec6",
-    "FStringFlipTimeStampFastString": "2025-04-23T17:43:27.943Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-23T17:43:27.943Z"
+    "FStringFlagRepoGitHashFastString": "e5dc677a772d7f67f667fcc93c205c4189e69d15",
+    "DFStringFlagRepoGitHashDynamicString": "e5dc677a772d7f67f667fcc93c205c4189e69d15",
+    "FStringFlipTimeStampFastString": "2025-04-23T17:54:55.453Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-23T17:54:55.453Z"
 }

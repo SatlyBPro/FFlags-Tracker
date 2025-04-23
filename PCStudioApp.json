@@ -11614,6 +11614,7 @@
     "DFFlagMatrixFromEulerPerf_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-23T16:34:40",
     "FFlagForceTextChatEnabledForTenFootInterfaces_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-23T16:41:12",
     "FFlagChatInputBarOptimizeTyping_IXP": "1;ExperienceChat.Performance;ChatInputBarOptimizeTyping;768331262;flagbank",
+    "DFFlagFixValidateRewardDMLock_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-23T17:53:25",
     "AllowVideoPreRoll": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
@@ -13255,8 +13256,8 @@
     "FFlagFontListFetchRetryForMoreTimes": true,
     "FFlagStudioPreloadBuilderSans": true,
     "FFlagWebBrowserWinFixInitScriptReload": true,
-    "FStringFlagRepoGitHashFastString": "5f61acc9059039d4fe4fbcbc8fd801b5d13a8b05",
-    "DFStringFlagRepoGitHashDynamicString": "5f61acc9059039d4fe4fbcbc8fd801b5d13a8b05",
-    "FStringFlipTimeStampFastString": "2025-04-23T17:46:14.503Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-23T17:46:14.503Z"
+    "FStringFlagRepoGitHashFastString": "e5dc677a772d7f67f667fcc93c205c4189e69d15",
+    "DFStringFlagRepoGitHashDynamicString": "e5dc677a772d7f67f667fcc93c205c4189e69d15",
+    "FStringFlipTimeStampFastString": "2025-04-23T17:54:55.453Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-23T17:54:55.453Z"
 }
