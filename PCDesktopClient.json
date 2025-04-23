@@ -11464,7 +11464,6 @@
     "DFFlagPerformanceControlAddMemoryPressureLevelThreshold": true,
     "FFlagEnableTextureManagerIXPMappingForPerformanceControl": true,
     "FIntRenderMaxWaitForGpuD3D11TimeMsec": 2500,
-    "FIntRenderWarningWaitForGpuD3D11TimeMsec": 500,
     "FFlagSduiRefactorBuilder": true,
     "FFlagDebugLogFragmentsFromAutocomplete": false,
     "FFlagFixSkinningLifetimeAndBugs4_IXP": "1;Portal.FFlagFixSkinningLifetimeAndBugs4-002;FFlagFixSkinningLifetimeAndBugs4-002;858765142;flagbank",
@@ -12319,8 +12318,8 @@
     "FFlagUseRobloxTouchGesture2": true,
     "FFlagLogCullingAdditionalTelemetry": true,
     "FFlagDebugDisableCodegen_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-23T17:40:49",
-    "FStringFlagRepoGitHashFastString": "0a72c2eee60ba0648e3612e5a5aaa741ea280259",
-    "DFStringFlagRepoGitHashDynamicString": "0a72c2eee60ba0648e3612e5a5aaa741ea280259",
-    "FStringFlipTimeStampFastString": "2025-04-23T18:21:48.300Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-23T18:21:48.300Z"
+    "FStringFlagRepoGitHashFastString": "34a071b000303616d0f42a2add40aa6a76d5b4a0",
+    "DFStringFlagRepoGitHashDynamicString": "34a071b000303616d0f42a2add40aa6a76d5b4a0",
+    "FStringFlipTimeStampFastString": "2025-04-23T18:32:20.718Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-23T18:32:20.718Z"
 }
