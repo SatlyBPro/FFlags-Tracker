@@ -11608,8 +11608,8 @@
     "FFlagAXDisableCatalogFetchOnDeepLinkForConsole": true,
     "FFlagAXLookAndFeelWidgetList5": true,
     "FFlagChatInputBarOptimizeTyping_IXP": "1;ExperienceChat.Performance;ChatInputBarOptimizeTyping;768331262;flagbank",
-    "FFlagLuauCompilerAlignmentFix_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-23T18:07:14",
-    "FFlagSlotHandlerThreadCheckRemoval_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-23T19:11:57",
+    "FFlagLuauCompilerAlignmentFix_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-24T16:31:19",
+    "FFlagSlotHandlerThreadCheckRemoval_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-24T16:31:19",
     "FFlagAppChatConversationTelemetry": true,
     "FFlagAppChatTelemetryRefactor": true,
     "EnableDeferredIntentReset": true,
@@ -11627,7 +11627,7 @@
     "FFlagAXRemoveDividers": true,
     "DFFlagSimOptimizeGeometryChangedAssemblies3": true,
     "FFlagAnnotationsAddTagging9": true,
-    "FFlagAddTextWrapToCellLabel_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-23T23:56:56",
+    "FFlagAddTextWrapToCellLabel_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-24T16:31:19",
     "FFlagUseHTTPFileStream2": true,
     "DFFlagRccReportBatchJobProfiling": true,
     "AllowVideoPreRoll": true,
@@ -13282,8 +13282,8 @@
     "FFlagFontListFetchRetryForMoreTimes": true,
     "FFlagStudioPreloadBuilderSans": true,
     "FFlagWebBrowserWinFixInitScriptReload": true,
-    "FStringFlagRepoGitHashFastString": "8ce2cadceec2c76585a095f8963aba519d152860",
-    "DFStringFlagRepoGitHashDynamicString": "8ce2cadceec2c76585a095f8963aba519d152860",
-    "FStringFlipTimeStampFastString": "2025-04-24T15:35:19.596Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-24T15:35:19.596Z"
+    "FStringFlagRepoGitHashFastString": "cb381984d7edab9ab05a7c8a3aad1cd34ebc3fd4",
+    "DFStringFlagRepoGitHashDynamicString": "cb381984d7edab9ab05a7c8a3aad1cd34ebc3fd4",
+    "FStringFlipTimeStampFastString": "2025-04-24T16:33:32.539Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-24T16:33:32.539Z"
 }
