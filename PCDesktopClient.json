@@ -11627,9 +11627,9 @@
     "FFlagAXRemoveDividers": true,
     "DFFlagSimOptimizeGeometryChangedAssemblies3": false,
     "FFlagAnnotationsAddTagging9": true,
-    "FFlagAddTextWrapToCellLabel_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-23T23:56:56",
     "FFlagUseHTTPFileStream2": true,
     "DFFlagRccReportBatchJobProfiling": true,
+    "FFlagAddTextWrapToCellLabel": true,
     "FFlagRenderEnableGlobalInstancingD3D11": true,
     "FFlagFixLooksSecondaryLayerApdativeScrolling": true,
     "FFlagUpdateAvatarGestures_PlaceFilter": "true;16818255141",
@@ -12330,9 +12330,9 @@
     "FFlagUseRobloxTouchGesture2": true,
     "FFlagLogCullingAdditionalTelemetry": true,
     "FFlagDebugDisableCodegen": true,
-    "FFlagSTUDIOPLAT_38487_ReplaceDeprecatedQTAPIs3_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-23T23:56:47",
-    "FStringFlagRepoGitHashFastString": "5e9cdaac13dcd4f4aca52aec9602533de38ae8b7",
-    "DFStringFlagRepoGitHashDynamicString": "5e9cdaac13dcd4f4aca52aec9602533de38ae8b7",
-    "FStringFlipTimeStampFastString": "2025-04-24T06:47:26.520Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-24T06:47:26.520Z"
+    "FFlagSTUDIOPLAT_38487_ReplaceDeprecatedQTAPIs3": true,
+    "FStringFlagRepoGitHashFastString": "5db3b241c789095bf1e4864f423ca74377856900",
+    "DFStringFlagRepoGitHashDynamicString": "5db3b241c789095bf1e4864f423ca74377856900",
+    "FStringFlipTimeStampFastString": "2025-04-24T09:52:07.246Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-24T09:52:07.246Z"
 }
