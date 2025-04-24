@@ -11627,9 +11627,9 @@
     "FFlagAXRemoveDividers": true,
     "DFFlagSimOptimizeGeometryChangedAssemblies3": true,
     "FFlagAnnotationsAddTagging9": true,
-    "FFlagAddTextWrapToCellLabel_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-23T23:56:56",
     "FFlagUseHTTPFileStream2": true,
     "DFFlagRccReportBatchJobProfiling": true,
+    "FFlagAddTextWrapToCellLabel": true,
     "AllowVideoPreRoll": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
@@ -13282,8 +13282,8 @@
     "FFlagFontListFetchRetryForMoreTimes": true,
     "FFlagStudioPreloadBuilderSans": true,
     "FFlagWebBrowserWinFixInitScriptReload": true,
-    "FStringFlagRepoGitHashFastString": "2ab276ab642b359768ce61f0aea49c1f65a3ec35",
-    "DFStringFlagRepoGitHashDynamicString": "2ab276ab642b359768ce61f0aea49c1f65a3ec35",
-    "FStringFlipTimeStampFastString": "2025-04-24T06:27:36.742Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-24T06:27:36.742Z"
+    "FStringFlagRepoGitHashFastString": "caeac10e78d64b832263dea4bfe2a4644673d99e",
+    "DFStringFlagRepoGitHashDynamicString": "caeac10e78d64b832263dea4bfe2a4644673d99e",
+    "FStringFlipTimeStampFastString": "2025-04-24T13:42:01.438Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-24T13:42:01.438Z"
 }
