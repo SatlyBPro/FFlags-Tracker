@@ -11629,6 +11629,7 @@
     "DFFlagRccReportBatchJobProfiling": true,
     "FFlagAddTextWrapToCellLabel": true,
     "FFlagSlotHandlerThreadCheckRemoval": true,
+    "DFIntBcsReportingPerMyriad": 10,
     "FFlagRenderEnableGlobalInstancingD3D11": true,
     "FFlagFixLooksSecondaryLayerApdativeScrolling": true,
     "FFlagUpdateAvatarGestures_PlaceFilter": "true;16818255141",
@@ -12331,8 +12332,8 @@
     "FFlagLogCullingAdditionalTelemetry": true,
     "FFlagDebugDisableCodegen": true,
     "FFlagSTUDIOPLAT_38487_ReplaceDeprecatedQTAPIs3": true,
-    "FStringFlagRepoGitHashFastString": "76858df69a856f97e524d709bf1ec839543d969f",
-    "DFStringFlagRepoGitHashDynamicString": "76858df69a856f97e524d709bf1ec839543d969f",
-    "FStringFlipTimeStampFastString": "2025-04-27T19:48:50.674Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-27T19:48:50.674Z"
+    "FStringFlagRepoGitHashFastString": "c1affcdb2a7c9f7018384cdeb0d287727e627bf4",
+    "DFStringFlagRepoGitHashDynamicString": "c1affcdb2a7c9f7018384cdeb0d287727e627bf4",
+    "FStringFlipTimeStampFastString": "2025-04-27T19:51:48.860Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-27T19:51:48.860Z"
 }
