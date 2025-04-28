@@ -11617,7 +11617,7 @@
     "FFlagDataModelPatcherRecordCachedUserId": true,
     "DFFlagMatrixFromEulerPerf": true,
     "FFlagRemoveBulletCollisionObject2": true,
-    "FFlagForceTextChatEnabledForTenFootInterfaces": true,
+    "FFlagForceTextChatEnabledForTenFootInterfaces": false,
     "FFlagLuauCompilerAlignmentFix": true,
     "FFlagAXOpenAppItemDetailsOnTryOnPage": true,
     "DFFlagLocalizationParseSourceLocaleValueFromManifest": true,
@@ -13328,8 +13328,8 @@
     "FFlagFontListFetchRetryForMoreTimes": true,
     "FFlagStudioPreloadBuilderSans": true,
     "FFlagWebBrowserWinFixInitScriptReload": true,
-    "FStringFlagRepoGitHashFastString": "de9c8f592cb1d6b08ad5fc41f1655970852d0536",
-    "DFStringFlagRepoGitHashDynamicString": "de9c8f592cb1d6b08ad5fc41f1655970852d0536",
-    "FStringFlipTimeStampFastString": "2025-04-28T19:00:31.858Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-28T19:00:31.858Z"
+    "FStringFlagRepoGitHashFastString": "0bb371940cdd5745778b3f2f0b7fad49c38eb354",
+    "DFStringFlagRepoGitHashDynamicString": "0bb371940cdd5745778b3f2f0b7fad49c38eb354",
+    "FStringFlipTimeStampFastString": "2025-04-28T19:05:55.811Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-28T19:05:55.811Z"
 }
