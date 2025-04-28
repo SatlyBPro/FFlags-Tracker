@@ -11649,7 +11649,6 @@
     "FFlagDisableQTWatcher3": true,
     "FFlagEnableNativeFileWatcher3": true,
     "FFlagUseNativeWatcherAsSOT": true,
-    "FIntNativeWatcherRolloutPercentage_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-28T18:39:28",
     "FFlagAnnotationsReleaseCallout_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-28T18:48:29",
     "FIntAnnotationsPointerMinSize_Staged": "24;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-28T18:53:01",
     "DFFlagGcInParallelWithRenderPrepareSignalExecutionViolation": true,
@@ -11662,6 +11661,7 @@
     "FFlagAnnotationsSyncTagging2": true,
     "FFlagLuaAppFixHeroUnitDepArray": true,
     "FFlagSduiInstrumentation": true,
+    "FIntNativeWatcherRolloutPercentage": 100,
     "FFlagRenderEnableGlobalInstancingD3D11": true,
     "FFlagFixLooksSecondaryLayerApdativeScrolling": true,
     "FFlagUpdateAvatarGestures_PlaceFilter": "true;16818255141",
@@ -12379,8 +12379,9 @@
     "DFIntGcInParallelWithRenderPrepareEventHundredthsPercent": 1000,
     "FFlagStreamingSolverV2Release663_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-28T19:09:39",
     "FFlagAbuseReportMenuOpenCloseSignal": true,
-    "FStringFlagRepoGitHashFastString": "f4622521a163b65fcaec460b9ffdbf82723987e6",
-    "DFStringFlagRepoGitHashDynamicString": "f4622521a163b65fcaec460b9ffdbf82723987e6",
-    "FStringFlipTimeStampFastString": "2025-04-28T19:38:28.519Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-28T19:38:28.519Z"
+    "FFlagWHAM17072_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-28T19:39:59",
+    "FStringFlagRepoGitHashFastString": "3714feeb03b0398f1e2e82eb0a60c94c4ef6cfe9",
+    "DFStringFlagRepoGitHashDynamicString": "3714feeb03b0398f1e2e82eb0a60c94c4ef6cfe9",
+    "FStringFlipTimeStampFastString": "2025-04-28T19:42:00.613Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-28T19:42:00.613Z"
 }
