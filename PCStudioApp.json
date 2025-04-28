@@ -11648,7 +11648,6 @@
     "FFlagStudioDebugAssistMapToOriginalDataModel": true,
     "FFlagDisableQTWatcher3": true,
     "FFlagEnableNativeFileWatcher3": true,
-    "DFFlagEnableKFSFindOrAddLookupTable_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-28T18:16:51",
     "FFlagUseNativeWatcherAsSOT": true,
     "FFlagAnnotationsSyncTagging2_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-28T18:30:09",
     "AllowVideoPreRoll": true,
@@ -11662,6 +11661,7 @@
     "DFFlagConfigServiceValueUpdatedHashComparison_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-28T18:54:24",
     "FFlagEnableCodeAssistExperiment_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-28T19:09:25",
     "FFlagEnableReferredPlayerJoinRemoteEvent_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-28T19:16:18",
+    "DFFlagEnableKFSFindOrAddLookupTable": true,
     "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": false,
     "DFFlagEnableRemoteProfiling": true,
     "DFFlagGenerateMeshLOD_Fix1": true,
@@ -13328,8 +13328,8 @@
     "FFlagFontListFetchRetryForMoreTimes": true,
     "FFlagStudioPreloadBuilderSans": true,
     "FFlagWebBrowserWinFixInitScriptReload": true,
-    "FStringFlagRepoGitHashFastString": "d3e1d949a8340463b81cae71927ec30b18051719",
-    "DFStringFlagRepoGitHashDynamicString": "d3e1d949a8340463b81cae71927ec30b18051719",
-    "FStringFlipTimeStampFastString": "2025-04-28T19:18:47.221Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-28T19:18:47.221Z"
+    "FStringFlagRepoGitHashFastString": "8d5a9aebd715ff60324ddb282a6786692246d42b",
+    "DFStringFlagRepoGitHashDynamicString": "8d5a9aebd715ff60324ddb282a6786692246d42b",
+    "FStringFlipTimeStampFastString": "2025-04-28T19:23:14.056Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-28T19:23:14.056Z"
 }
