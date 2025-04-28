@@ -11663,6 +11663,7 @@
     "AxisAdornmentGrabSize": 12,
     "DFFlagGcInParallelWithRenderPrepareSignalExecutionViolation": true,
     "FFlagAXFixLoadingIssueOnTryOnBarHeader": true,
+    "DFFlagConfigServiceValueUpdatedHashComparison_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-28T18:54:24",
     "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": false,
     "DFFlagEnableRemoteProfiling": true,
     "DFFlagGenerateMeshLOD_Fix1": true,
@@ -13105,6 +13106,7 @@
     "FFlagExplorerFixZoomExtentsAction_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-28T18:42:02",
     "FFlagLuauNoTypeFunctionsNamedTypeOf": true,
     "DFFlagFixSurfaceAppearanceFilterTextureId": true,
+    "FFlagLuauNarrowIntersectionNevers_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-28T18:58:10",
     "FFlagRenderEnableGlobalInstancingD3D11": true,
     "FFlagShorelinesRemoveDialog": true,
     "FFlagTerrainEditorUseTerrainChannels": true,
@@ -13326,8 +13328,8 @@
     "FFlagFontListFetchRetryForMoreTimes": true,
     "FFlagStudioPreloadBuilderSans": true,
     "FFlagWebBrowserWinFixInitScriptReload": true,
-    "FStringFlagRepoGitHashFastString": "0376b51fe2da9b66f9527c182cd0ec40635195c5",
-    "DFStringFlagRepoGitHashDynamicString": "0376b51fe2da9b66f9527c182cd0ec40635195c5",
-    "FStringFlipTimeStampFastString": "2025-04-28T18:54:27.313Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-28T18:54:27.313Z"
+    "FStringFlagRepoGitHashFastString": "de9c8f592cb1d6b08ad5fc41f1655970852d0536",
+    "DFStringFlagRepoGitHashDynamicString": "de9c8f592cb1d6b08ad5fc41f1655970852d0536",
+    "FStringFlipTimeStampFastString": "2025-04-28T19:00:31.858Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-28T19:00:31.858Z"
 }

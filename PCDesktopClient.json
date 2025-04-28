@@ -11663,6 +11663,7 @@
     "FIntAnnotationsPointerMinSize_Staged": "24;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-28T18:53:01",
     "DFFlagGcInParallelWithRenderPrepareSignalExecutionViolation": true,
     "FFlagAXFixLoadingIssueOnTryOnBarHeader": true,
+    "DFFlagConfigServiceValueUpdatedHashComparison_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-28T18:54:24",
     "FFlagFixLooksSecondaryLayerApdativeScrolling": true,
     "FFlagUpdateAvatarGestures_PlaceFilter": "true;16818255141",
     "FFlagEnableTempFixCollectibleBundlePurchase": true,
@@ -12368,9 +12369,6 @@
     "FFlagCEVLowMemoryWarningCounter": true,
     "FFlagPCSCEVFeasibilityCounter": true,
     "FFlagPartyVoiceCatchError": true,
-    "FFlagFixWrongLoggedOutSessionSwitch_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-28T17:51:26",
-    "DFFlagGcInParallelWithRenderPrepareEventExecutionViolationScriptCrash_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-28T17:54:18",
-    "FFlagRenderUIConditionallyForCaptures_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-28T17:54:22",
     "DFFlagGcInParallelWithRenderPrepareTelemetry_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-28T17:56:27",
     "DFFlagSolverV2LetGcJobCollectRemoteNonRepInstances": true,
     "DFFlagSolverV2UpdateGcLogicAndDescendantCollection": true,
@@ -12378,8 +12376,11 @@
     "DFFlagSolverV2ApplyGcToCertainSets": true,
     "FFlagAbuseReportMenuOpenCloseSignal_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-28T18:35:11",
     "FFlagPartyVoiceExecuteVoiceActionsPostAsyncInit": true,
-    "FStringFlagRepoGitHashFastString": "0376b51fe2da9b66f9527c182cd0ec40635195c5",
-    "DFStringFlagRepoGitHashDynamicString": "0376b51fe2da9b66f9527c182cd0ec40635195c5",
-    "FStringFlipTimeStampFastString": "2025-04-28T18:54:27.313Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-28T18:54:27.313Z"
+    "DFFlagGcInParallelWithRenderPrepareEventExecutionViolationScriptCrash": true,
+    "FFlagFixWrongLoggedOutSessionSwitch": true,
+    "FFlagRenderUIConditionallyForCaptures": true,
+    "FStringFlagRepoGitHashFastString": "de9c8f592cb1d6b08ad5fc41f1655970852d0536",
+    "DFStringFlagRepoGitHashDynamicString": "de9c8f592cb1d6b08ad5fc41f1655970852d0536",
+    "FStringFlipTimeStampFastString": "2025-04-28T19:00:31.858Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-28T19:00:31.858Z"
 }
