@@ -13086,7 +13086,6 @@
     "FFlagExplorerFixDuplicateAction": true,
     "FFlagStudioPerfToolsQActionButton2": true,
     "FFlagBacktraceReporterSourceCodeFieldAndEndpoint2": true,
-    "FFlagLuauNoTypeFunctionsNamedTypeOf_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-28T17:42:17",
     "DFFlagFixSurfaceAppearanceFilterTextureId_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-28T17:50:24",
     "FFlagExplorerTrackMouseHoverEnabled_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-28T18:00:54",
     "FFlagUnbrickPluginMenuRelayThreading_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-28T18:02:41",
@@ -13105,6 +13104,7 @@
     "DFFlagCppErrorReporterReportDirectly": true,
     "DFIntCppErrorReporterReportDirectlyHundredthPercent": 1000,
     "FFlagExplorerFixZoomExtentsAction_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-28T18:42:02",
+    "FFlagLuauNoTypeFunctionsNamedTypeOf": true,
     "FFlagRenderEnableGlobalInstancingD3D11": true,
     "FFlagShorelinesRemoveDialog": true,
     "FFlagTerrainEditorUseTerrainChannels": true,
@@ -13327,8 +13327,8 @@
     "FFlagFontListFetchRetryForMoreTimes": true,
     "FFlagStudioPreloadBuilderSans": true,
     "FFlagWebBrowserWinFixInitScriptReload": true,
-    "FStringFlagRepoGitHashFastString": "cc1648977400d55cc9fdf6ec9d2c16518332690b",
-    "DFStringFlagRepoGitHashDynamicString": "cc1648977400d55cc9fdf6ec9d2c16518332690b",
-    "FStringFlipTimeStampFastString": "2025-04-28T18:44:54.874Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-28T18:44:54.874Z"
+    "FStringFlagRepoGitHashFastString": "f1778aae90172d62fcb47c840f6a181645d094e1",
+    "DFStringFlagRepoGitHashDynamicString": "f1778aae90172d62fcb47c840f6a181645d094e1",
+    "FStringFlipTimeStampFastString": "2025-04-28T18:48:24.132Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-28T18:48:24.132Z"
 }
