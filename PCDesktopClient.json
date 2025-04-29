@@ -11732,6 +11732,7 @@
     "FFlagStudioFixPluginLoadingTestFixtures2": true,
     "FFlagReportScrollingPercentageOverTheMovingAvg2_Staged": "true;SteadyState;10;30;Revert;2025-04-29T20:22:05",
     "FFlagRenderEnableGlobalInstancingD3D11": true,
+    "DFFlagCLI147300_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-29T20:37:52",
     "FFlagUpdateAvatarGestures_PlaceFilter": "true;16818255141",
     "FFlagEnableTempFixCollectibleBundlePurchase": true,
     "FFlagFixAvatarUtilCharacter_PlaceFilter": "true;16818255141;6295939019",
@@ -12459,8 +12460,8 @@
     "FFlagResetDescendantDirtyFlagAfterChildrenViewportLayout": true,
     "FFlagGcInParallelWithRenderPrepare3": true,
     "DFIntGcInParallelWithRenderPrepareTelemetryCooldownSec_Staged": "2400;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-29T19:48:15",
-    "FStringFlagRepoGitHashFastString": "35d7e5aa12d04cdc3320835923dae21a346aab7d",
-    "DFStringFlagRepoGitHashDynamicString": "35d7e5aa12d04cdc3320835923dae21a346aab7d",
-    "FStringFlipTimeStampFastString": "2025-04-29T20:26:08.360Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-29T20:26:08.360Z"
+    "FStringFlagRepoGitHashFastString": "0148c6c7c0a93c8ec63beeef4d36ab596b9c9906",
+    "DFStringFlagRepoGitHashDynamicString": "0148c6c7c0a93c8ec63beeef4d36ab596b9c9906",
+    "FStringFlipTimeStampFastString": "2025-04-29T20:41:24.827Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-29T20:41:24.827Z"
 }
