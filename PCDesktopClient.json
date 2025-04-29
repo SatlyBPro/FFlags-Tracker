@@ -11724,12 +11724,12 @@
     "FFlagAddReasonToEveryLogout": true,
     "FFlagImportQueueReplaceWithAsync": true,
     "FFlagLuaAppUnifiedCarouselScrollButtons": true,
-    "FFlagStudioFixPluginLoadingTestFixtures2_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-29T19:11:50",
     "FFlagRbxStorageMigrateCacheDir_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-29T19:38:04",
     "FFlagRenderEnableGlobalInstancingD3D11": true,
     "DFFlagEphemeralFuzzyExtents_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-29T19:50:57",
     "DFFlagAlwaysSkipDiskCache": true,
     "FFlagEnableCodeAssistStreaming_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-29T20:03:38",
+    "FFlagStudioFixPluginLoadingTestFixtures2": true,
     "FFlagFixLooksSecondaryLayerApdativeScrolling": true,
     "FFlagUpdateAvatarGestures_PlaceFilter": "true;16818255141",
     "FFlagEnableTempFixCollectibleBundlePurchase": true,
@@ -12458,8 +12458,8 @@
     "FFlagResetDescendantDirtyFlagAfterChildrenViewportLayout": true,
     "FFlagGcInParallelWithRenderPrepare3": true,
     "DFIntGcInParallelWithRenderPrepareTelemetryCooldownSec_Staged": "2400;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-29T19:48:15",
-    "FStringFlagRepoGitHashFastString": "5d70faf39b210ca6793bb5b4b4606f87c56be653",
-    "DFStringFlagRepoGitHashDynamicString": "5d70faf39b210ca6793bb5b4b4606f87c56be653",
-    "FStringFlipTimeStampFastString": "2025-04-29T20:05:29.828Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-29T20:05:29.828Z"
+    "FStringFlagRepoGitHashFastString": "59eb5587f2884cd7166aac8f9e357b716cb47b10",
+    "DFStringFlagRepoGitHashDynamicString": "59eb5587f2884cd7166aac8f9e357b716cb47b10",
+    "FStringFlipTimeStampFastString": "2025-04-29T20:21:55.761Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-29T20:21:55.761Z"
 }
