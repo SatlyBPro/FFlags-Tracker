@@ -11702,7 +11702,6 @@
     "FFlagGraphicsGLES3AllPowerVR3": true,
     "FFlagReportBinaryProgramSupport": true,
     "FFlagDeprecateGoogleAnalytics": true,
-    "FFlagAddReasonToEveryLogout_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-29T17:56:26",
     "FFlagGraphicsGLES3_2AllPowerVR3": true,
     "FFlagSurfaceAppearanceUseLowestRoughnessMipAtLowLOD3": true,
     "FFlagImportQueueReplaceWithAsync_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-29T18:01:21",
@@ -11725,6 +11724,7 @@
     "FFlagPCGDKSplitCrashRate": true,
     "DFFlagAlwaysSkipDiskCache_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-29T18:46:12",
     "FFlagSendImmediatelyOnLandingPage": true,
+    "FFlagAddReasonToEveryLogout": true,
     "FFlagRenderEnableGlobalInstancingD3D11": true,
     "FFlagFixLooksSecondaryLayerApdativeScrolling": true,
     "FFlagUpdateAvatarGestures_PlaceFilter": "true;16818255141",
@@ -12036,8 +12036,8 @@
     "FIntOuterCageResOver100_IXP": "1;Engine.Avatar.LayeredClothing;Engine.Avatar.LayeredClothing.LinearDeformerExp-Windows-2;1498570592;flagbank",
     "FIntRigidityOuterLayerWeightPct_IXP": "1;Engine.Avatar.LayeredClothing;Engine.Avatar.LayeredClothing.LinearDeformerExp-Windows-2;1498570592;flagbank",
     "DFFlagShorelinesUpgradedDefaultTrue": true,
-    "FFlagProfileResolutionForExperienceAffiliateLinksWithoutUniverseEnabled_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-29T17:56:58",
     "FFlagEnableRewardsWebViewOverlay_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-29T18:25:02",
+    "FFlagProfileResolutionForExperienceAffiliateLinksWithoutUniverseEnabled": true,
     "AllowVideoPreRoll": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
@@ -12453,8 +12453,8 @@
     "DFIntWHAM1707StateMachineHistoryLoggingPerMyriad": 1000,
     "FFlagResetDescendantDirtyFlagAfterChildrenViewportLayout": true,
     "FFlagGcInParallelWithRenderPrepare3_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-29T18:37:01",
-    "FStringFlagRepoGitHashFastString": "76caf0affdb657f5f7f6c15914a311a5fad31c3f",
-    "DFStringFlagRepoGitHashDynamicString": "76caf0affdb657f5f7f6c15914a311a5fad31c3f",
-    "FStringFlipTimeStampFastString": "2025-04-29T18:51:55.832Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-29T18:51:55.832Z"
+    "FStringFlagRepoGitHashFastString": "94dfa40ec96196211e411dba074d6f340886c40c",
+    "DFStringFlagRepoGitHashDynamicString": "94dfa40ec96196211e411dba074d6f340886c40c",
+    "FStringFlipTimeStampFastString": "2025-04-29T19:05:44.124Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-29T19:05:44.124Z"
 }

@@ -241,8 +241,8 @@
     "FIntOuterCageResOver100_IXP": "1;Engine.Avatar.LayeredClothing;Engine.Avatar.LayeredClothing.LinearDeformerExp-NoWindows-2;103719495;flagbank",
     "FIntRigidityOuterLayerWeightPct_IXP": "1;Engine.Avatar.LayeredClothing;Engine.Avatar.LayeredClothing.LinearDeformerExp-NoWindows-2;103719495;flagbank",
     "FFlagRbfLLT_IXP": "1;Engine.Avatar.LayeredClothing;Engine.Avatar.LayeredClothing.LinearDeformerExp-NoWindows-2;103719495;flagbank",
-    "FFlagProfileResolutionForExperienceAffiliateLinksWithoutUniverseEnabled_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-29T17:56:58",
     "FFlagEnableInstallerAsProtocolHandler2_Staged": "false;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-29T18:56:25",
+    "FFlagProfileResolutionForExperienceAffiliateLinksWithoutUniverseEnabled": true,
     "FFlagWindowsBootstrapperAdditionalCdnDiagnostics2": true,
     "FFlagBootstrapperEnableOptOutDUAR": true,
     "FStringWindowsProgressiveDownloadExperimentBucketSettings": "v4-61-65",
@@ -261,8 +261,8 @@
     "ShowInstallSuccessPrompt": true,
     "FFlagAXUnifiedItemFooterPriceFix": true,
     "FFlagWinInstallerDoNotKillRunningClient": true,
-    "FStringFlagRepoGitHashFastString": "51bc14a7f22f2e70a2a79b31c9072540fd5bacd9",
-    "DFStringFlagRepoGitHashDynamicString": "51bc14a7f22f2e70a2a79b31c9072540fd5bacd9",
-    "FStringFlipTimeStampFastString": "2025-04-29T18:59:24.247Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-29T18:59:24.247Z"
+    "FStringFlagRepoGitHashFastString": "94dfa40ec96196211e411dba074d6f340886c40c",
+    "DFStringFlagRepoGitHashDynamicString": "94dfa40ec96196211e411dba074d6f340886c40c",
+    "FStringFlipTimeStampFastString": "2025-04-29T19:05:44.124Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-29T19:05:44.124Z"
 }
