@@ -11693,7 +11693,6 @@
     "IdentityProtocolConstructLauncherInternally": true,
     "DFFlagSimStepPhysicsImprovedSubStepping": true,
     "FFlagUGCValidateIndividualPartBBoxes2": true,
-    "FFlagPCGDKSplitCrashRate_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-29T17:30:10",
     "FFlagSendImmediatelyOnLandingPage_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-29T17:41:31",
     "FFlagWheelEventUsageTelemetry": false,
     "FFlagSduiValidateProps": true,
@@ -11724,6 +11723,7 @@
     "FFlagHideTopBarConsole3": true,
     "FFlagIgnoreDevGamepadBindingsMenuOpen2": true,
     "FFlagTiltIconUnibarFocusNav2": true,
+    "FFlagPCGDKSplitCrashRate": true,
     "AllowVideoPreRoll": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
@@ -13400,8 +13400,8 @@
     "FFlagFontListFetchRetryForMoreTimes": true,
     "FFlagStudioPreloadBuilderSans": true,
     "FFlagWebBrowserWinFixInitScriptReload": true,
-    "FStringFlagRepoGitHashFastString": "c390f9477bd18b30d5b692e5fcc405954c41a822",
-    "DFStringFlagRepoGitHashDynamicString": "c390f9477bd18b30d5b692e5fcc405954c41a822",
-    "FStringFlipTimeStampFastString": "2025-04-29T18:30:11.021Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-29T18:30:11.021Z"
+    "FStringFlagRepoGitHashFastString": "a89a6ed067164ef1361b5e8d57d2658f70cd14ab",
+    "DFStringFlagRepoGitHashDynamicString": "a89a6ed067164ef1361b5e8d57d2658f70cd14ab",
+    "FStringFlipTimeStampFastString": "2025-04-29T18:36:32.442Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-29T18:36:32.442Z"
 }
