@@ -11721,6 +11721,8 @@
     "FFlagGraphicsGLES3_2AllPowerVR3": true,
     "FFlagSurfaceAppearanceUseLowestRoughnessMipAtLowLOD3": true,
     "FFlagImportQueueReplaceWithAsync_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-29T18:01:21",
+    "FFlagAppChatInterventionFocusFix": true,
+    "FFlagReturnExperienceServiceConnections": true,
     "CaptureCountersIntervalInMinutes": 5,
     "CaptureQTStudioCountersEnabled": true,
     "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": false,
@@ -13396,8 +13398,8 @@
     "FFlagFontListFetchRetryForMoreTimes": true,
     "FFlagStudioPreloadBuilderSans": true,
     "FFlagWebBrowserWinFixInitScriptReload": true,
-    "FStringFlagRepoGitHashFastString": "5edab70661e2f7a7f05a3c57da0e275994f5e8c5",
-    "DFStringFlagRepoGitHashDynamicString": "5edab70661e2f7a7f05a3c57da0e275994f5e8c5",
-    "FStringFlipTimeStampFastString": "2025-04-29T18:03:51.456Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-29T18:03:51.456Z"
+    "FStringFlagRepoGitHashFastString": "4b0b3bbc54d0f8880a66b754da1550043bfc275e",
+    "DFStringFlagRepoGitHashDynamicString": "4b0b3bbc54d0f8880a66b754da1550043bfc275e",
+    "FStringFlipTimeStampFastString": "2025-04-29T18:10:20.603Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-29T18:10:20.603Z"
 }
