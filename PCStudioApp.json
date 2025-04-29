@@ -11718,6 +11718,7 @@
     "FFlagConsoleChatOnExpControls4_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-29T17:24:19",
     "FFlagUGCValidateIndividualPartBBoxes2": true,
     "FFlagPCGDKSplitCrashRate_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-29T17:30:10",
+    "FFlagSendImmediatelyOnLandingPage_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-29T17:41:31",
     "DFFlagEnableRemoteProfiling": true,
     "DFFlagGenerateMeshLOD_Fix1": true,
     "DFFlagGoodbyeChoiceActiveProperty": true,
@@ -13392,8 +13393,8 @@
     "FFlagFontListFetchRetryForMoreTimes": true,
     "FFlagStudioPreloadBuilderSans": true,
     "FFlagWebBrowserWinFixInitScriptReload": true,
-    "FStringFlagRepoGitHashFastString": "7c9b2a0ad451453f52163dab84a7a44d7088d871",
-    "DFStringFlagRepoGitHashDynamicString": "7c9b2a0ad451453f52163dab84a7a44d7088d871",
-    "FStringFlipTimeStampFastString": "2025-04-29T17:33:02.683Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-29T17:33:02.683Z"
+    "FStringFlagRepoGitHashFastString": "d88b0526225d81667327cdc1430d8ca8fd4c356c",
+    "DFStringFlagRepoGitHashDynamicString": "d88b0526225d81667327cdc1430d8ca8fd4c356c",
+    "FStringFlipTimeStampFastString": "2025-04-29T17:44:06.223Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-29T17:44:06.223Z"
 }
