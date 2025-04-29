@@ -11720,7 +11720,6 @@
     "FFlagIgnoreDevGamepadBindingsMenuOpen2": true,
     "FFlagTiltIconUnibarFocusNav2": true,
     "FFlagPCGDKSplitCrashRate": true,
-    "DFFlagAlwaysSkipDiskCache_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-29T18:46:12",
     "FFlagSendImmediatelyOnLandingPage": true,
     "FFlagAddReasonToEveryLogout": true,
     "FFlagImportQueueReplaceWithAsync": true,
@@ -11729,6 +11728,7 @@
     "FFlagRbxStorageMigrateCacheDir_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-29T19:38:04",
     "AllowVideoPreRoll": true,
     "AxisAdornmentGrabSize": 12,
+    "DFFlagAlwaysSkipDiskCache": true,
     "CaptureCountersIntervalInMinutes": 5,
     "CaptureQTStudioCountersEnabled": true,
     "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": false,
@@ -13403,8 +13403,8 @@
     "FFlagFontListFetchRetryForMoreTimes": true,
     "FFlagStudioPreloadBuilderSans": true,
     "FFlagWebBrowserWinFixInitScriptReload": true,
-    "FStringFlagRepoGitHashFastString": "78a9755d93ed74fd3a210adc4e8b1c6aa1e0c616",
-    "DFStringFlagRepoGitHashDynamicString": "78a9755d93ed74fd3a210adc4e8b1c6aa1e0c616",
-    "FStringFlipTimeStampFastString": "2025-04-29T19:39:13.937Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-29T19:39:13.937Z"
+    "FStringFlagRepoGitHashFastString": "549739c716d13d0ab71f298cd12d2a55111f2659",
+    "DFStringFlagRepoGitHashDynamicString": "549739c716d13d0ab71f298cd12d2a55111f2659",
+    "FStringFlipTimeStampFastString": "2025-04-29T19:56:56.803Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-29T19:56:56.803Z"
 }
