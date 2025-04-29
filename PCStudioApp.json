@@ -13345,6 +13345,7 @@
     "FFlagWrappedGridFixCLI148409_IXP": "1;Engine.Avatar.LayeredClothing;Engine.Avatar.LayeredClothing.LinearDeformerExp-Windows-2;1498570592;flagbank",
     "FIntOuterCageResOver100_IXP": "1;Engine.Avatar.LayeredClothing;Engine.Avatar.LayeredClothing.LinearDeformerExp-Windows-2;1498570592;flagbank",
     "FIntRigidityOuterLayerWeightPct_IXP": "1;Engine.Avatar.LayeredClothing;Engine.Avatar.LayeredClothing.LinearDeformerExp-Windows-2;1498570592;flagbank",
+    "DFFlagShorelinesUpgradedDefaultTrue_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-29T16:09:18",
     "FFlagDebugLuaAppValidateProps": true,
     "FStringFeature_CookieProtocolEnabled": "524;100",
     "FFlagPathEditorControlPointVisualImprovements2": true,
@@ -13368,8 +13369,8 @@
     "FFlagFontListFetchRetryForMoreTimes": true,
     "FFlagStudioPreloadBuilderSans": true,
     "FFlagWebBrowserWinFixInitScriptReload": true,
-    "FStringFlagRepoGitHashFastString": "1e3492f564fe52d35d313475089479e6800ef402",
-    "DFStringFlagRepoGitHashDynamicString": "1e3492f564fe52d35d313475089479e6800ef402",
-    "FStringFlipTimeStampFastString": "2025-04-29T16:05:13.629Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-29T16:05:13.629Z"
+    "FStringFlagRepoGitHashFastString": "cac897e78c55d8ce0f40bc6b946e073ac577c27e",
+    "DFStringFlagRepoGitHashDynamicString": "cac897e78c55d8ce0f40bc6b946e073ac577c27e",
+    "FStringFlipTimeStampFastString": "2025-04-29T16:11:23.920Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-29T16:11:23.920Z"
 }
