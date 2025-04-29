@@ -11724,7 +11724,6 @@
     "FFlagAddReasonToEveryLogout": true,
     "FFlagImportQueueReplaceWithAsync": true,
     "FFlagLuaAppUnifiedCarouselScrollButtons": true,
-    "FFlagRbxStorageMigrateCacheDir_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-29T19:38:04",
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
     "DFFlagAlwaysSkipDiskCache": true,
@@ -11733,6 +11732,8 @@
     "FFlagReportScrollingPercentageOverTheMovingAvg2_Staged": "true;SteadyState;10;30;Revert;2025-04-29T20:22:05",
     "AllowVideoPreRoll": true,
     "DFFlagCLI147300_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-29T20:37:52",
+    "FFlagRbxStorageMigrateCacheDir": true,
+    "FFlagLuaAppRemoveRootWrappingFrames_Staged": "false;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-29T20:48:53",
     "CaptureQTStudioCountersEnabled": true,
     "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": false,
     "DFFlagEnableRemoteProfiling": true,
@@ -13169,7 +13170,7 @@
     "FFlagCodeAssistSilentAutoTrigger2": true,
     "FFlagUpdateMaterialListHangFix": true,
     "FFlagAssistantTooltipInScriptEditor3": true,
-    "FFlagGrantImageAndMeshPermissions3": true,
+    "FFlagGrantImageAndMeshPermissions3": false,
     "FFlagStudioImproveDMLockHangDetection": true,
     "FFlagStudioEnableLuaHSRInAllDataModels": true,
     "DFFlagUseFromRegion3Checking": true,
@@ -13407,8 +13408,8 @@
     "FFlagFontListFetchRetryForMoreTimes": true,
     "FFlagStudioPreloadBuilderSans": true,
     "FFlagWebBrowserWinFixInitScriptReload": true,
-    "FStringFlagRepoGitHashFastString": "0148c6c7c0a93c8ec63beeef4d36ab596b9c9906",
-    "DFStringFlagRepoGitHashDynamicString": "0148c6c7c0a93c8ec63beeef4d36ab596b9c9906",
-    "FStringFlipTimeStampFastString": "2025-04-29T20:41:24.827Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-29T20:41:24.827Z"
+    "FStringFlagRepoGitHashFastString": "5081ce917a1d9e3d5ab7eb96cabab33f54d6e2d5",
+    "DFStringFlagRepoGitHashDynamicString": "5081ce917a1d9e3d5ab7eb96cabab33f54d6e2d5",
+    "FStringFlipTimeStampFastString": "2025-04-29T20:52:07.952Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-29T20:52:07.952Z"
 }
