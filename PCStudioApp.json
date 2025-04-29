@@ -11691,6 +11691,7 @@
     "DFFlagFixShapecastPrimitiveCrash2": true,
     "FFlagAnnotationCreationLocksCamera": true,
     "AllowVideoPreRoll": true,
+    "FFlagUGCValidateIndividualPartBBoxes2_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-29T16:24:15",
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
     "CaptureQTStudioCountersEnabled": true,
@@ -13369,8 +13370,8 @@
     "FFlagFontListFetchRetryForMoreTimes": true,
     "FFlagStudioPreloadBuilderSans": true,
     "FFlagWebBrowserWinFixInitScriptReload": true,
-    "FStringFlagRepoGitHashFastString": "cac897e78c55d8ce0f40bc6b946e073ac577c27e",
-    "DFStringFlagRepoGitHashDynamicString": "cac897e78c55d8ce0f40bc6b946e073ac577c27e",
-    "FStringFlipTimeStampFastString": "2025-04-29T16:11:23.920Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-29T16:11:23.920Z"
+    "FStringFlagRepoGitHashFastString": "acbfdf038c21cdb9e7e55f217362bf0733ce99c2",
+    "DFStringFlagRepoGitHashDynamicString": "acbfdf038c21cdb9e7e55f217362bf0733ce99c2",
+    "FStringFlipTimeStampFastString": "2025-04-29T16:25:54.617Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-29T16:25:54.617Z"
 }
