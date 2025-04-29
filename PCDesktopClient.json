@@ -11690,6 +11690,7 @@
     "FFlagAssetReaderAdvancedLogicForIOS": true,
     "DFFlagFixShapecastPrimitiveCrash2": true,
     "FFlagAnnotationCreationLocksCamera": true,
+    "DFFlagSimStepPhysicsImprovedSubStepping_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-29T16:18:57",
     "FFlagRenderEnableGlobalInstancingD3D11": true,
     "FFlagFixLooksSecondaryLayerApdativeScrolling": true,
     "FFlagUpdateAvatarGestures_PlaceFilter": "true;16818255141",
@@ -12417,8 +12418,8 @@
     "FFlagStreamingSolverV2Release663": true,
     "FFlagWHAM17072": true,
     "DFIntWHAM1707StateMachineHistoryLoggingPerMyriad": 1000,
-    "FStringFlagRepoGitHashFastString": "cac897e78c55d8ce0f40bc6b946e073ac577c27e",
-    "DFStringFlagRepoGitHashDynamicString": "cac897e78c55d8ce0f40bc6b946e073ac577c27e",
-    "FStringFlipTimeStampFastString": "2025-04-29T16:11:23.920Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-29T16:11:23.920Z"
+    "FStringFlagRepoGitHashFastString": "8d793ef045bb94688ba4de30808aa2786ac21398",
+    "DFStringFlagRepoGitHashDynamicString": "8d793ef045bb94688ba4de30808aa2786ac21398",
+    "FStringFlipTimeStampFastString": "2025-04-29T16:21:56.412Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-29T16:21:56.412Z"
 }
