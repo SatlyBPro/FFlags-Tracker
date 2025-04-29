@@ -12455,8 +12455,9 @@
     "DFIntWHAM1707StateMachineHistoryLoggingPerMyriad": 1000,
     "FFlagResetDescendantDirtyFlagAfterChildrenViewportLayout": true,
     "FFlagGcInParallelWithRenderPrepare3": true,
-    "FStringFlagRepoGitHashFastString": "844cd71147b0dc35ff8f62f71959714067937dee",
-    "DFStringFlagRepoGitHashDynamicString": "844cd71147b0dc35ff8f62f71959714067937dee",
-    "FStringFlipTimeStampFastString": "2025-04-29T19:42:46.848Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-29T19:42:46.848Z"
+    "DFIntGcInParallelWithRenderPrepareTelemetryCooldownSec_Staged": "2400;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-29T19:48:15",
+    "FStringFlagRepoGitHashFastString": "de95f4aa2fb60676322910ff73f9108afcd9dbad",
+    "DFStringFlagRepoGitHashDynamicString": "de95f4aa2fb60676322910ff73f9108afcd9dbad",
+    "FStringFlipTimeStampFastString": "2025-04-29T19:51:33.482Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-29T19:51:33.482Z"
 }
