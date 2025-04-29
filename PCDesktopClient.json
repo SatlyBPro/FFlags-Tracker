@@ -11725,12 +11725,13 @@
     "FFlagImportQueueReplaceWithAsync": true,
     "FFlagLuaAppUnifiedCarouselScrollButtons": true,
     "FFlagRbxStorageMigrateCacheDir_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-29T19:38:04",
-    "FFlagRenderEnableGlobalInstancingD3D11": true,
+    "FFlagFixLooksSecondaryLayerApdativeScrolling": true,
     "DFFlagEphemeralFuzzyExtents_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-29T19:50:57",
     "DFFlagAlwaysSkipDiskCache": true,
     "FFlagEnableCodeAssistStreaming_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-29T20:03:38",
     "FFlagStudioFixPluginLoadingTestFixtures2": true,
-    "FFlagFixLooksSecondaryLayerApdativeScrolling": true,
+    "FFlagReportScrollingPercentageOverTheMovingAvg2_Staged": "true;SteadyState;10;30;Revert;2025-04-29T20:22:05",
+    "FFlagRenderEnableGlobalInstancingD3D11": true,
     "FFlagUpdateAvatarGestures_PlaceFilter": "true;16818255141",
     "FFlagEnableTempFixCollectibleBundlePurchase": true,
     "FFlagFixAvatarUtilCharacter_PlaceFilter": "true;16818255141;6295939019",
@@ -12458,8 +12459,8 @@
     "FFlagResetDescendantDirtyFlagAfterChildrenViewportLayout": true,
     "FFlagGcInParallelWithRenderPrepare3": true,
     "DFIntGcInParallelWithRenderPrepareTelemetryCooldownSec_Staged": "2400;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-29T19:48:15",
-    "FStringFlagRepoGitHashFastString": "59eb5587f2884cd7166aac8f9e357b716cb47b10",
-    "DFStringFlagRepoGitHashDynamicString": "59eb5587f2884cd7166aac8f9e357b716cb47b10",
-    "FStringFlipTimeStampFastString": "2025-04-29T20:21:55.761Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-29T20:21:55.761Z"
+    "FStringFlagRepoGitHashFastString": "35d7e5aa12d04cdc3320835923dae21a346aab7d",
+    "DFStringFlagRepoGitHashDynamicString": "35d7e5aa12d04cdc3320835923dae21a346aab7d",
+    "FStringFlipTimeStampFastString": "2025-04-29T20:26:08.360Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-29T20:26:08.360Z"
 }
