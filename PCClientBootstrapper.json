@@ -212,7 +212,7 @@
     "FFlagAXCombineGetOutfitDispatchesIXP2": false,
     "FFlagRenderDynamicResolutionScale12": true,
     "FStringWindowsInstallerAsLauncherExperimentBucketSettings": "v4-30-49",
-    "FFlagEnableInstallerAsProtocolHandler2": true,
+    "FFlagEnableInstallerAsProtocolHandler2": false,
     "FFlagFreeTypeAllocOrCrash": true,
     "FFlagSignalSlotsHolderIterator": true,
     "FFlagRaknetAllocOrCrash": true,
@@ -241,7 +241,6 @@
     "FIntOuterCageResOver100_IXP": "1;Engine.Avatar.LayeredClothing;Engine.Avatar.LayeredClothing.LinearDeformerExp-NoWindows-2;103719495;flagbank",
     "FIntRigidityOuterLayerWeightPct_IXP": "1;Engine.Avatar.LayeredClothing;Engine.Avatar.LayeredClothing.LinearDeformerExp-NoWindows-2;103719495;flagbank",
     "FFlagRbfLLT_IXP": "1;Engine.Avatar.LayeredClothing;Engine.Avatar.LayeredClothing.LinearDeformerExp-NoWindows-2;103719495;flagbank",
-    "FFlagEnableInstallerAsProtocolHandler2_Staged": "false;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-29T18:56:25",
     "FFlagProfileResolutionForExperienceAffiliateLinksWithoutUniverseEnabled": true,
     "FFlagWindowsBootstrapperAdditionalCdnDiagnostics2": true,
     "FFlagBootstrapperEnableOptOutDUAR": true,
@@ -261,8 +260,8 @@
     "ShowInstallSuccessPrompt": true,
     "FFlagAXUnifiedItemFooterPriceFix": true,
     "FFlagWinInstallerDoNotKillRunningClient": true,
-    "FStringFlagRepoGitHashFastString": "94dfa40ec96196211e411dba074d6f340886c40c",
-    "DFStringFlagRepoGitHashDynamicString": "94dfa40ec96196211e411dba074d6f340886c40c",
-    "FStringFlipTimeStampFastString": "2025-04-29T19:05:44.124Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-29T19:05:44.124Z"
+    "FStringFlagRepoGitHashFastString": "5d70faf39b210ca6793bb5b4b4606f87c56be653",
+    "DFStringFlagRepoGitHashDynamicString": "5d70faf39b210ca6793bb5b4b4606f87c56be653",
+    "FStringFlipTimeStampFastString": "2025-04-29T20:05:29.828Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-29T20:05:29.828Z"
 }
