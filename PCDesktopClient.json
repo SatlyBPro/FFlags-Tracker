@@ -12037,8 +12037,8 @@
     "FIntOuterCageResOver100_IXP": "1;Engine.Avatar.LayeredClothing;Engine.Avatar.LayeredClothing.LinearDeformerExp-Windows-2;1498570592;flagbank",
     "FIntRigidityOuterLayerWeightPct_IXP": "1;Engine.Avatar.LayeredClothing;Engine.Avatar.LayeredClothing.LinearDeformerExp-Windows-2;1498570592;flagbank",
     "DFFlagShorelinesUpgradedDefaultTrue": true,
-    "FFlagEnableRewardsWebViewOverlay_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-29T18:25:02",
     "FFlagProfileResolutionForExperienceAffiliateLinksWithoutUniverseEnabled": true,
+    "FFlagEnableRewardsWebViewOverlay": true,
     "AllowVideoPreRoll": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
@@ -12454,8 +12454,8 @@
     "DFIntWHAM1707StateMachineHistoryLoggingPerMyriad": 1000,
     "FFlagResetDescendantDirtyFlagAfterChildrenViewportLayout": true,
     "FFlagGcInParallelWithRenderPrepare3_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-29T18:37:01",
-    "FStringFlagRepoGitHashFastString": "df0ef9f93119a538f740f9ad0362c609226cabb8",
-    "DFStringFlagRepoGitHashDynamicString": "df0ef9f93119a538f740f9ad0362c609226cabb8",
-    "FStringFlipTimeStampFastString": "2025-04-29T19:13:02.884Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-29T19:13:02.884Z"
+    "FStringFlagRepoGitHashFastString": "b028e416273b3aff31f7eb5c3dc6bbe1a144c400",
+    "DFStringFlagRepoGitHashDynamicString": "b028e416273b3aff31f7eb5c3dc6bbe1a144c400",
+    "FStringFlipTimeStampFastString": "2025-04-29T19:30:45.049Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-29T19:30:45.049Z"
 }
