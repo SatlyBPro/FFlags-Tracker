@@ -11705,7 +11705,9 @@
     "FFlagSurfaceAppearanceUseLowestRoughnessMipAtLowLOD3_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-29T16:52:10",
     "FFlagEditableMeshDataToFmdDoNotStripSkinning_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-29T17:04:08",
     "FFlagEnableReferredPlayerJoinRemoteEventForAll_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-29T17:04:14",
+    "FFlagCrash147727ReportOverride_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-29T17:06:30",
     "FFlagFixLooksSecondaryLayerApdativeScrolling": true,
+    "FFlagLuauRetainDefinitionAliasLocations_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-29T17:09:42",
     "FFlagUpdateAvatarGestures_PlaceFilter": "true;16818255141",
     "FFlagEnableTempFixCollectibleBundlePurchase": true,
     "FFlagFixAvatarUtilCharacter_PlaceFilter": "true;16818255141;6295939019",
@@ -12430,8 +12432,9 @@
     "FFlagStreamingSolverV2Release663": true,
     "FFlagWHAM17072": true,
     "DFIntWHAM1707StateMachineHistoryLoggingPerMyriad": 1000,
-    "FStringFlagRepoGitHashFastString": "1187375b0fd4f432d20cc758c0de8edd60459d4b",
-    "DFStringFlagRepoGitHashDynamicString": "1187375b0fd4f432d20cc758c0de8edd60459d4b",
-    "FStringFlipTimeStampFastString": "2025-04-29T17:07:07.108Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-29T17:07:07.108Z"
+    "FFlagResetDescendantDirtyFlagAfterChildrenViewportLayout_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-29T17:08:01",
+    "FStringFlagRepoGitHashFastString": "e71b66ad58b08fc3d3553c1206f55d06e52ff8fd",
+    "DFStringFlagRepoGitHashDynamicString": "e71b66ad58b08fc3d3553c1206f55d06e52ff8fd",
+    "FStringFlipTimeStampFastString": "2025-04-29T17:11:30.780Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-29T17:11:30.780Z"
 }
