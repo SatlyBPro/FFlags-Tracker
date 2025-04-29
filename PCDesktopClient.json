@@ -11706,7 +11706,6 @@
     "FFlagSurfaceAppearanceUseLowestRoughnessMipAtLowLOD3": true,
     "FFlagAppChatInterventionFocusFix": true,
     "FFlagReturnExperienceServiceConnections": true,
-    "FFlagLuaAppUnifiedCarouselScrollButtons_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-29T18:10:14",
     "FFlagEditableMeshDataToFmdDoNotStripSkinning": true,
     "FFlagEnableReferredPlayerJoinRemoteEventForAll": true,
     "DFFlagSimOptimizeSetSizeNoComputeGeneration": true,
@@ -11725,6 +11724,8 @@
     "FFlagSendImmediatelyOnLandingPage": true,
     "FFlagAddReasonToEveryLogout": true,
     "FFlagImportQueueReplaceWithAsync": true,
+    "FFlagLuaAppUnifiedCarouselScrollButtons": true,
+    "FFlagStudioFixPluginLoadingTestFixtures2_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-29T19:11:50",
     "FFlagRenderEnableGlobalInstancingD3D11": true,
     "FFlagFixLooksSecondaryLayerApdativeScrolling": true,
     "FFlagUpdateAvatarGestures_PlaceFilter": "true;16818255141",
@@ -12453,8 +12454,8 @@
     "DFIntWHAM1707StateMachineHistoryLoggingPerMyriad": 1000,
     "FFlagResetDescendantDirtyFlagAfterChildrenViewportLayout": true,
     "FFlagGcInParallelWithRenderPrepare3_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-29T18:37:01",
-    "FStringFlagRepoGitHashFastString": "4250989d1e3bf5b9ff2ec0323b7f2f112895e234",
-    "DFStringFlagRepoGitHashDynamicString": "4250989d1e3bf5b9ff2ec0323b7f2f112895e234",
-    "FStringFlipTimeStampFastString": "2025-04-29T19:10:35.638Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-29T19:10:35.638Z"
+    "FStringFlagRepoGitHashFastString": "df0ef9f93119a538f740f9ad0362c609226cabb8",
+    "DFStringFlagRepoGitHashDynamicString": "df0ef9f93119a538f740f9ad0362c609226cabb8",
+    "FStringFlipTimeStampFastString": "2025-04-29T19:13:02.884Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-29T19:13:02.884Z"
 }
