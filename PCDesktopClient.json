@@ -11709,6 +11709,9 @@
     "FFlagFixLooksSecondaryLayerApdativeScrolling": true,
     "FFlagLuauRetainDefinitionAliasLocations_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-29T17:09:42",
     "FFlagRenderFixReflectionTryCastUsage_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-29T17:12:46",
+    "IdentityProtocolConstructLauncherInternally": true,
+    "DFFlagCleanOOMGrid_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-29T17:14:21",
+    "FFlagRuntimeCrashInFilter_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-29T17:17:26",
     "FFlagUpdateAvatarGestures_PlaceFilter": "true;16818255141",
     "FFlagEnableTempFixCollectibleBundlePurchase": true,
     "FFlagFixAvatarUtilCharacter_PlaceFilter": "true;16818255141;6295939019",
@@ -12019,7 +12022,7 @@
     "FFlagWrappedGridFixCLI148409_IXP": "1;Engine.Avatar.LayeredClothing;Engine.Avatar.LayeredClothing.LinearDeformerExp-Windows-2;1498570592;flagbank",
     "FIntOuterCageResOver100_IXP": "1;Engine.Avatar.LayeredClothing;Engine.Avatar.LayeredClothing.LinearDeformerExp-Windows-2;1498570592;flagbank",
     "FIntRigidityOuterLayerWeightPct_IXP": "1;Engine.Avatar.LayeredClothing;Engine.Avatar.LayeredClothing.LinearDeformerExp-Windows-2;1498570592;flagbank",
-    "DFFlagShorelinesUpgradedDefaultTrue_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-29T16:09:18",
+    "DFFlagShorelinesUpgradedDefaultTrue": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
     "CaptureQTStudioCountersEnabled": true,
@@ -12434,8 +12437,8 @@
     "FFlagWHAM17072": true,
     "DFIntWHAM1707StateMachineHistoryLoggingPerMyriad": 1000,
     "FFlagResetDescendantDirtyFlagAfterChildrenViewportLayout_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-29T17:08:01",
-    "FStringFlagRepoGitHashFastString": "14a623f77e6f3c0361b54d81104906b014b0fb3f",
-    "DFStringFlagRepoGitHashDynamicString": "14a623f77e6f3c0361b54d81104906b014b0fb3f",
-    "FStringFlipTimeStampFastString": "2025-04-29T17:14:13.921Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-29T17:14:13.921Z"
+    "FStringFlagRepoGitHashFastString": "cec9c0ba375efd15b444a78204f719916d5b8213",
+    "DFStringFlagRepoGitHashDynamicString": "cec9c0ba375efd15b444a78204f719916d5b8213",
+    "FStringFlipTimeStampFastString": "2025-04-29T17:19:14.006Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-29T17:19:14.006Z"
 }
