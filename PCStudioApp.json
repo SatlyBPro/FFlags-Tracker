@@ -11747,7 +11747,6 @@
     "DFFlagRakNetSetUserIdInReliabilityLayer": true,
     "DFFlagHttpReportResponseContentLength": true,
     "FFlagNewOptimizeNoCollisionPrimitiveInMidphase668": true,
-    "FFlagInitializeGDKSessionManager_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-30T18:11:56",
     "FFlagControllerManagerManagedJoint": true,
     "FFlagLuaAppScrollableDesktopCarouselsIXP2": true,
     "FFlagCheckBodyForOtpErrors_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-30T18:18:48",
@@ -11764,6 +11763,8 @@
     "FFlagAHAddPackageAndScriptEvents": true,
     "FFlagDeleteLogCleanup_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-30T19:03:05",
     "DFFlagLuauStringFormatFixC": true,
+    "DFFlagHttpTrackBandwidthBasedOnMsgSize_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-30T19:15:27",
+    "FFlagInitializeGDKSessionManager": true,
     "AllowVideoPreRoll": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
@@ -13439,8 +13440,8 @@
     "FFlagWebBrowserWinFixInitScriptReload": true,
     "FFlagManagedJointJointInstance670": true,
     "FFlagManagedJointJointInstance670_Staged": "false;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-30T18:49:28",
-    "FStringFlagRepoGitHashFastString": "22ef2bac5eb323c44d48b6e0fe211add2b766270",
-    "DFStringFlagRepoGitHashDynamicString": "22ef2bac5eb323c44d48b6e0fe211add2b766270",
-    "FStringFlipTimeStampFastString": "2025-04-30T19:13:14.886Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-30T19:13:14.886Z"
+    "FStringFlagRepoGitHashFastString": "ce5a31066e8a2dc2a773dcad9a3fd245675af2c8",
+    "DFStringFlagRepoGitHashDynamicString": "ce5a31066e8a2dc2a773dcad9a3fd245675af2c8",
+    "FStringFlipTimeStampFastString": "2025-04-30T19:18:26.946Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-30T19:18:26.946Z"
 }
