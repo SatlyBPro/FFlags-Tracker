@@ -11690,7 +11690,6 @@
     "FFlagAssetReaderAdvancedLogicForIOS": true,
     "DFFlagFixShapecastPrimitiveCrash2": true,
     "FFlagAnnotationCreationLocksCamera": true,
-    "IdentityProtocolConstructLauncherInternally": true,
     "DFFlagSimStepPhysicsImprovedSubStepping": true,
     "FFlagUGCValidateIndividualPartBBoxes2": true,
     "FFlagWheelEventUsageTelemetry": false,
@@ -13411,8 +13410,8 @@
     "FFlagFontListFetchRetryForMoreTimes": true,
     "FFlagStudioPreloadBuilderSans": true,
     "FFlagWebBrowserWinFixInitScriptReload": true,
-    "FStringFlagRepoGitHashFastString": "6eaa0091558545f87f53d22207453af2ec998d8e",
-    "DFStringFlagRepoGitHashDynamicString": "6eaa0091558545f87f53d22207453af2ec998d8e",
-    "FStringFlipTimeStampFastString": "2025-04-30T01:38:07.299Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-30T01:38:07.299Z"
+    "FStringFlagRepoGitHashFastString": "c0fe3764ab743d2faba77dcdd33addf853a1fc2e",
+    "DFStringFlagRepoGitHashDynamicString": "c0fe3764ab743d2faba77dcdd33addf853a1fc2e",
+    "FStringFlipTimeStampFastString": "2025-04-30T06:37:05.005Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-30T06:37:05.005Z"
 }
