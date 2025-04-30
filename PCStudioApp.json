@@ -11754,6 +11754,7 @@
     "FFlagAHAddPackageAndScriptEvents_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-30T17:46:38",
     "FFlagNewOptimizeNoCollisionPrimitiveInMidphase668": true,
     "AllowVideoPreRoll": true,
+    "FFlagInitializeGDKSessionManager_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-30T18:11:56",
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
     "CaptureQTStudioCountersEnabled": true,
@@ -13426,8 +13427,8 @@
     "FFlagStudioPreloadBuilderSans": true,
     "FFlagWebBrowserWinFixInitScriptReload": true,
     "FFlagManagedJointJointInstance670_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-30T17:11:38",
-    "FStringFlagRepoGitHashFastString": "f329c8c11158197a9c89059a542d8b237182626b",
-    "DFStringFlagRepoGitHashDynamicString": "f329c8c11158197a9c89059a542d8b237182626b",
-    "FStringFlipTimeStampFastString": "2025-04-30T17:59:28.299Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-30T17:59:28.299Z"
+    "FStringFlagRepoGitHashFastString": "471e776f7c29f46ae89f66353e3d2a97b302f0a0",
+    "DFStringFlagRepoGitHashDynamicString": "471e776f7c29f46ae89f66353e3d2a97b302f0a0",
+    "FStringFlipTimeStampFastString": "2025-04-30T18:13:16.348Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-30T18:13:16.348Z"
 }
