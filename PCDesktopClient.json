@@ -11758,6 +11758,7 @@
     "FFlagCheckBodyForOtpErrors_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-30T18:18:48",
     "FFlagUseAlertColorForOtpErrorText_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-30T18:18:48",
     "FFlagUseRedAlertTextColorQuickLoginError_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-30T18:18:48",
+    "DFFlagLimitEltEndNotifications_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-30T18:22:19",
     "FFlagRenderEnableGlobalInstancingD3D11": true,
     "FFlagFixLooksSecondaryLayerApdativeScrolling": true,
     "FFlagUpdateAvatarGestures_PlaceFilter": "true;16818255141",
@@ -12479,11 +12480,11 @@
     "FFlagGcInParallelWithRenderPrepare3": true,
     "DFIntGcInParallelWithRenderPrepareTelemetryCooldownSec": 3600,
     "FFlagStreamingSolverV2Release663_PlaceFilter": "false;17485826750",
-    "DFFlagSimAdaptiveUseNewVelocityCriteria_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-30T17:16:02",
     "DFIntGcInParallelWithRenderPrepareTelemetryCooldownSec_Staged": "18000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-30T17:34:15",
     "DFIntWHAM1707StateMachineHistoryLoggingPerMyriad_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-30T18:12:46",
-    "FStringFlagRepoGitHashFastString": "4962acbe78955afd2c07d3740167f658f51bf5db",
-    "DFStringFlagRepoGitHashDynamicString": "4962acbe78955afd2c07d3740167f658f51bf5db",
-    "FStringFlipTimeStampFastString": "2025-04-30T18:23:12.318Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-30T18:23:12.318Z"
+    "DFFlagSimAdaptiveUseNewVelocityCriteria": true,
+    "FStringFlagRepoGitHashFastString": "5bb0b0b631db2665cd7d2b5e7cd07509bb283855",
+    "DFStringFlagRepoGitHashDynamicString": "5bb0b0b631db2665cd7d2b5e7cd07509bb283855",
+    "FStringFlipTimeStampFastString": "2025-04-30T18:27:37.573Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-30T18:27:37.573Z"
 }

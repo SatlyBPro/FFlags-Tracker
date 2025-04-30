@@ -11758,6 +11758,7 @@
     "FFlagCheckBodyForOtpErrors_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-30T18:18:48",
     "FFlagUseAlertColorForOtpErrorText_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-30T18:18:48",
     "FFlagUseRedAlertTextColorQuickLoginError_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-30T18:18:48",
+    "DFFlagLimitEltEndNotifications_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-30T18:22:19",
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
     "CaptureQTStudioCountersEnabled": true,
@@ -13431,8 +13432,8 @@
     "FFlagStudioPreloadBuilderSans": true,
     "FFlagWebBrowserWinFixInitScriptReload": true,
     "FFlagManagedJointJointInstance670": true,
-    "FStringFlagRepoGitHashFastString": "b89d98c510dc6ca24db9f915eccff8b31120c245",
-    "DFStringFlagRepoGitHashDynamicString": "b89d98c510dc6ca24db9f915eccff8b31120c245",
-    "FStringFlipTimeStampFastString": "2025-04-30T18:23:34.990Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-30T18:23:34.990Z"
+    "FStringFlagRepoGitHashFastString": "5bb0b0b631db2665cd7d2b5e7cd07509bb283855",
+    "DFStringFlagRepoGitHashDynamicString": "5bb0b0b631db2665cd7d2b5e7cd07509bb283855",
+    "FStringFlipTimeStampFastString": "2025-04-30T18:27:37.573Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-30T18:27:37.573Z"
 }
