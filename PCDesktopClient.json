@@ -11749,7 +11749,6 @@
     "FFlagNewOptimizeNoCollisionPrimitiveInMidphase668": true,
     "FFlagControllerManagerManagedJoint": true,
     "FFlagLuaAppScrollableDesktopCarouselsIXP2": true,
-    "DFFlagLimitEltEndNotifications_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-30T18:22:19",
     "FFlagEnableAffiliateLinksAuthenticatedVisitTracking": true,
     "DFFlagEditableMeshFaceDeleter": true,
     "FStringIxpNewLayersForRegistration_Staged": "App.AppPerf.Regression,AvatarMarketplace.SearchPageWidgetPlatform,AvatarMarketplace.Sorts,Consoles.App,DesignSystem.Font,ExperienceDetailPage.EnableSubscriptionPurchase,Growth.Notifications.GameInviteMenu,Notification.Toast,PlayerApp.GameJoin.UX,PlayerApp.HomepageUpsell.PhoneVerificationEntry,PlayerApp.HomePageUpsell.VNGApp,PlayerApp.Logout,PlayerApp.OmniSearchResultsPage.UX.Exposure,PlayerApp.PhoneVerification.Android,PlayerApp.PhoneVerification.iOS,Revenue.UA.Gamepass.RobuxUpsell,Universality.AppNav,Social.ProfileViewSocialLinks,HomePage.UpsellCard,AvatarMarketplace.WidgetPlatformSorts,Universality.FoundationColors,Universality.AppNav.2,AvatarExperience.UA.ActionBarView,Universality.MorePage.Exposure,UniversalApp.MoreLayout.Exposure,Experience.Menu.Settings.Exposure,PlayerApp.HomePage.UX.TileLayer,Social.FriendsCarouselAddFriendsEntry,Social.PartyRollout,PlayerApp.HomePage.UX.WholePageRanking,Social.PartyVoice,PlatformExcellence.Consoles.Features,ProfileQRCodeScannerLayer,AvatarExperience.UA.SearchView,Social.ViewFriendSortInGameFriends,Social.AppChat,Social.CommunityProfileView,UIEcosystem.User,InExperience.Performance,CreatorSuccess.VirtualEvents,ContactImporter.DevicePermissionNeededModal.Exposure,PlayerApp.ConsoleAndVR.HomePage.UX.TileLayer;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-30T18:45:52",
@@ -11765,6 +11764,7 @@
     "FFlagCheckBodyForOtpErrors": true,
     "FFlagUseAlertColorForOtpErrorText": true,
     "FFlagUseRedAlertTextColorQuickLoginError": true,
+    "DFFlagLimitEltEndNotifications": true,
     "FFlagRenderEnableGlobalInstancingD3D11": true,
     "FFlagFixLooksSecondaryLayerApdativeScrolling": true,
     "FFlagUpdateAvatarGestures_PlaceFilter": "true;16818255141",
@@ -12486,8 +12486,8 @@
     "DFIntGcInParallelWithRenderPrepareTelemetryCooldownSec": 18000,
     "FFlagStreamingSolverV2Release663_PlaceFilter": "false;17485826750;132953425174912",
     "DFFlagSimAdaptiveUseNewVelocityCriteria": true,
-    "FStringFlagRepoGitHashFastString": "89013c6c420a774d6daa733b10fd7dcbed3510a1",
-    "DFStringFlagRepoGitHashDynamicString": "89013c6c420a774d6daa733b10fd7dcbed3510a1",
-    "FStringFlipTimeStampFastString": "2025-04-30T19:22:49.657Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-30T19:22:49.657Z"
+    "FStringFlagRepoGitHashFastString": "e98a857459f187b4f00ad677f507005c70c93340",
+    "DFStringFlagRepoGitHashDynamicString": "e98a857459f187b4f00ad677f507005c70c93340",
+    "FStringFlipTimeStampFastString": "2025-04-30T19:32:30.605Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-30T19:32:30.605Z"
 }
