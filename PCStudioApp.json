@@ -11740,6 +11740,7 @@
     "FFlagPerformanceControlEnableExposureBasedIXPTesting": true,
     "FFlagCliAssignStudioUriToRunnerPlugin": true,
     "DFFlagOptimizeClassDescriptorSearches": true,
+    "FFlagStudioSettingDefaultEnabledAndVisible_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-30T16:10:09",
     "AllowVideoPreRoll": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
@@ -13410,8 +13411,8 @@
     "FFlagFontListFetchRetryForMoreTimes": true,
     "FFlagStudioPreloadBuilderSans": true,
     "FFlagWebBrowserWinFixInitScriptReload": true,
-    "FStringFlagRepoGitHashFastString": "c0fe3764ab743d2faba77dcdd33addf853a1fc2e",
-    "DFStringFlagRepoGitHashDynamicString": "c0fe3764ab743d2faba77dcdd33addf853a1fc2e",
-    "FStringFlipTimeStampFastString": "2025-04-30T06:37:05.005Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-30T06:37:05.005Z"
+    "FStringFlagRepoGitHashFastString": "2a297912d67d352085016a84bc084a24b86f88ca",
+    "DFStringFlagRepoGitHashDynamicString": "2a297912d67d352085016a84bc084a24b86f88ca",
+    "FStringFlipTimeStampFastString": "2025-04-30T16:12:07.653Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-30T16:12:07.653Z"
 }
