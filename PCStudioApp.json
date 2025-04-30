@@ -11740,7 +11740,6 @@
     "FFlagPerformanceControlEnableExposureBasedIXPTesting": true,
     "FFlagCliAssignStudioUriToRunnerPlugin": true,
     "DFFlagOptimizeClassDescriptorSearches": true,
-    "FFlagStudioSettingDefaultEnabledAndVisible_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-30T16:10:09",
     "FFlagShorelinesRemoveDialog": true,
     "DFFlagPhantomFreezeContinues_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-30T16:19:21",
     "DFFlagRakNetSetUserIdInReliabilityLayer_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-30T16:22:01",
@@ -11751,6 +11750,7 @@
     "DFFlagLimitEltEndNotifications_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-30T16:54:59",
     "FFlagLuaAppScrollableDesktopCarouselsIXP2_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-30T17:05:45",
     "FFlagControllerManagerManagedJoint_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-30T17:06:32",
+    "FFlagStudioSettingDefaultEnabledAndVisible": true,
     "CaptureCountersIntervalInMinutes": 5,
     "CaptureQTStudioCountersEnabled": true,
     "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": false,
@@ -13419,8 +13419,9 @@
     "FFlagFontListFetchRetryForMoreTimes": true,
     "FFlagStudioPreloadBuilderSans": true,
     "FFlagWebBrowserWinFixInitScriptReload": true,
-    "FStringFlagRepoGitHashFastString": "176c8b01d6be1f0d0da8ad5b57d1d798165bd5a2",
-    "DFStringFlagRepoGitHashDynamicString": "176c8b01d6be1f0d0da8ad5b57d1d798165bd5a2",
-    "FStringFlipTimeStampFastString": "2025-04-30T17:08:27.350Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-30T17:08:27.350Z"
+    "FFlagManagedJointJointInstance670_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-30T17:11:38",
+    "FStringFlagRepoGitHashFastString": "31cae83f7f032c901d3f0964fa79093528b81de2",
+    "DFStringFlagRepoGitHashDynamicString": "31cae83f7f032c901d3f0964fa79093528b81de2",
+    "FStringFlipTimeStampFastString": "2025-04-30T17:13:29.726Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-30T17:13:29.726Z"
 }
