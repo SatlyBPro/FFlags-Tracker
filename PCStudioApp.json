@@ -13415,6 +13415,7 @@
     "FFlagProfileResolutionForExperienceAffiliateLinksWithoutUniverseEnabled": true,
     "FFlagEnableRewardsWebViewOverlay": true,
     "DFFlagAddToDecryptionTelemetry": true,
+    "FFlagEnableGameInviteRewardsBanner3_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-30T19:42:09",
     "FFlagDebugLuaAppValidateProps": true,
     "FStringFeature_CookieProtocolEnabled": "524;100",
     "FFlagPathEditorControlPointVisualImprovements2": true,
@@ -13440,8 +13441,8 @@
     "FFlagWebBrowserWinFixInitScriptReload": true,
     "FFlagManagedJointJointInstance670": true,
     "FFlagManagedJointJointInstance670_Staged": "false;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-30T18:49:28",
-    "FStringFlagRepoGitHashFastString": "e98a857459f187b4f00ad677f507005c70c93340",
-    "DFStringFlagRepoGitHashDynamicString": "e98a857459f187b4f00ad677f507005c70c93340",
-    "FStringFlipTimeStampFastString": "2025-04-30T19:32:30.605Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-30T19:32:30.605Z"
+    "FStringFlagRepoGitHashFastString": "97596dd60645be5f6165a814552196419d63e380",
+    "DFStringFlagRepoGitHashDynamicString": "97596dd60645be5f6165a814552196419d63e380",
+    "FStringFlipTimeStampFastString": "2025-04-30T19:43:14.276Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-30T19:43:14.276Z"
 }

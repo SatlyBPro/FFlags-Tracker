@@ -12071,6 +12071,7 @@
     "FFlagProfileResolutionForExperienceAffiliateLinksWithoutUniverseEnabled": true,
     "FFlagEnableRewardsWebViewOverlay": true,
     "DFFlagAddToDecryptionTelemetry": true,
+    "FFlagEnableGameInviteRewardsBanner3_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-30T19:42:09",
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
     "CaptureQTStudioCountersEnabled": true,
@@ -12486,8 +12487,8 @@
     "DFIntGcInParallelWithRenderPrepareTelemetryCooldownSec": 18000,
     "FFlagStreamingSolverV2Release663_PlaceFilter": "false;17485826750;132953425174912",
     "DFFlagSimAdaptiveUseNewVelocityCriteria": true,
-    "FStringFlagRepoGitHashFastString": "e98a857459f187b4f00ad677f507005c70c93340",
-    "DFStringFlagRepoGitHashDynamicString": "e98a857459f187b4f00ad677f507005c70c93340",
-    "FStringFlipTimeStampFastString": "2025-04-30T19:32:30.605Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-30T19:32:30.605Z"
+    "FStringFlagRepoGitHashFastString": "97596dd60645be5f6165a814552196419d63e380",
+    "DFStringFlagRepoGitHashDynamicString": "97596dd60645be5f6165a814552196419d63e380",
+    "FStringFlipTimeStampFastString": "2025-04-30T19:43:14.276Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-30T19:43:14.276Z"
 }
