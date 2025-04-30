@@ -11740,8 +11740,6 @@
     "FFlagPerformanceControlEnableExposureBasedIXPTesting": true,
     "FFlagCliAssignStudioUriToRunnerPlugin": true,
     "DFFlagOptimizeClassDescriptorSearches": true,
-    "FFlagLuaAppScrollableDesktopCarouselsIXP2_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-30T17:05:45",
-    "FFlagControllerManagerManagedJoint_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-30T17:06:32",
     "FFlagStudioSettingDefaultEnabledAndVisible": true,
     "DFFlagPhantomFreezeContinues": true,
     "DFFlagRakNetPriorityPingsFix": true,
@@ -11755,6 +11753,8 @@
     "FFlagNewOptimizeNoCollisionPrimitiveInMidphase668": true,
     "AllowVideoPreRoll": true,
     "FFlagInitializeGDKSessionManager_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-30T18:11:56",
+    "FFlagControllerManagerManagedJoint": true,
+    "FFlagLuaAppScrollableDesktopCarouselsIXP2": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
     "CaptureQTStudioCountersEnabled": true,
@@ -13427,8 +13427,8 @@
     "FFlagStudioPreloadBuilderSans": true,
     "FFlagWebBrowserWinFixInitScriptReload": true,
     "FFlagManagedJointJointInstance670_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-04-30T17:11:38",
-    "FStringFlagRepoGitHashFastString": "471e776f7c29f46ae89f66353e3d2a97b302f0a0",
-    "DFStringFlagRepoGitHashDynamicString": "471e776f7c29f46ae89f66353e3d2a97b302f0a0",
-    "FStringFlipTimeStampFastString": "2025-04-30T18:13:16.348Z",
-    "DFStringFlipTimeStampDynamicString": "2025-04-30T18:13:16.348Z"
+    "FStringFlagRepoGitHashFastString": "7e738739ee4c734f420513f5d17318769dc7b02b",
+    "DFStringFlagRepoGitHashDynamicString": "7e738739ee4c734f420513f5d17318769dc7b02b",
+    "FStringFlipTimeStampFastString": "2025-04-30T18:15:00.174Z",
+    "DFStringFlipTimeStampDynamicString": "2025-04-30T18:15:00.174Z"
 }
