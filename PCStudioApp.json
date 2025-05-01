@@ -11791,6 +11791,8 @@
     "FIntOcclusionSettingsMinGreedDenominator": 3,
     "DFFlagHttpReportRobloxOrigin_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-01T17:45:18",
     "DFFlagSimAeroAdaptiveWake_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-01T17:47:19",
+    "FFlagThirdPartyTextChatSettings_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-01T17:53:50",
+    "FFlagFixBundlePromptThumbnail_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-01T17:55:49",
     "AllowVideoPreRoll": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
@@ -13474,8 +13476,8 @@
     "FFlagStudioPreloadBuilderSans": true,
     "FFlagWebBrowserWinFixInitScriptReload": true,
     "FFlagManagedJointJointInstance670": false,
-    "FStringFlagRepoGitHashFastString": "4d0a51637e53821c2192a5797b396b1afd824e65",
-    "DFStringFlagRepoGitHashDynamicString": "4d0a51637e53821c2192a5797b396b1afd824e65",
-    "FStringFlipTimeStampFastString": "2025-05-01T17:54:37.867Z",
-    "DFStringFlipTimeStampDynamicString": "2025-05-01T17:54:37.867Z"
+    "FStringFlagRepoGitHashFastString": "503fa93953933ea98b807d736f3d4d520c0442ea",
+    "DFStringFlagRepoGitHashDynamicString": "503fa93953933ea98b807d736f3d4d520c0442ea",
+    "FStringFlipTimeStampFastString": "2025-05-01T17:58:15.945Z",
+    "DFStringFlipTimeStampDynamicString": "2025-05-01T17:58:15.945Z"
 }
