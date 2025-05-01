@@ -13280,6 +13280,9 @@
     "FFlagAXCatalogPerfReduceCatalogAPIPayloadIXP5": true,
     "FFlagRemoveStudioHttpRequestAbstraction_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-01T20:06:27",
     "FFlagAddStudioStartupTimeAfterGUACTelemetry_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-01T20:07:45",
+    "FFlagCOLLAB6176PlaceAnnotations2_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-01T20:09:46",
+    "FFlagCOLLAB6176PlaceAnnotations3_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-01T20:09:46",
+    "FIntMininumRequiredMemoryInMB_Staged": "1536;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-01T20:11:56",
     "FFlagShorelinesRemoveDialog": true,
     "FFlagTerrainEditorUseTerrainChannels": true,
     "FFlagEnableAdsMouseUnlock": true,
@@ -13510,8 +13513,8 @@
     "FFlagStudioPreloadBuilderSans": true,
     "FFlagWebBrowserWinFixInitScriptReload": true,
     "FFlagManagedJointJointInstance670": false,
-    "FStringFlagRepoGitHashFastString": "7c78d47d15abf1fbac4a6026501904fc4ca3a778",
-    "DFStringFlagRepoGitHashDynamicString": "7c78d47d15abf1fbac4a6026501904fc4ca3a778",
-    "FStringFlipTimeStampFastString": "2025-05-01T20:08:35.769Z",
-    "DFStringFlipTimeStampDynamicString": "2025-05-01T20:08:35.769Z"
+    "FStringFlagRepoGitHashFastString": "cc92af5076178d89c66c1dc0f601b969ffc375a1",
+    "DFStringFlagRepoGitHashDynamicString": "cc92af5076178d89c66c1dc0f601b969ffc375a1",
+    "FStringFlipTimeStampFastString": "2025-05-01T20:12:57.797Z",
+    "DFStringFlipTimeStampDynamicString": "2025-05-01T20:12:57.797Z"
 }
