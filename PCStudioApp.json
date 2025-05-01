@@ -13261,9 +13261,6 @@
     "FFlagLuauNewNonStrictVisitTypes": false,
     "FFlagFileSyncLuauExtension": true,
     "FFlagLuauLimitIterationWhenCheckingArgumentCounts": true,
-    "FFlagFixRotateInitialIncrementValue_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-01T18:06:08",
-    "FFlagStudioAdditionalPluginToggleActions2_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-01T18:07:02",
-    "FFlagStudioToggleToolDialogs_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-01T18:08:25",
     "FFlagAnnotationsAddTaggingFiltering4_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-01T18:14:45",
     "FFlagStudioPreloadBuilderMono_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-01T18:17:55",
     "FIntOcclusionWorkerThreadCount_Staged": "4;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-01T18:22:46",
@@ -13274,6 +13271,9 @@
     "FFlagCOLLAB6176PlaceAnnotations4": true,
     "FFlagAnnotationsAddTagging10": true,
     "FFlagStudioDebuggingActionsContextConversion": true,
+    "FFlagStudioToggleToolDialogs": true,
+    "FFlagFixRotateInitialIncrementValue": true,
+    "FFlagStudioAdditionalPluginToggleActions2": true,
     "FFlagShorelinesRemoveDialog": true,
     "FFlagTerrainEditorUseTerrainChannels": true,
     "FFlagEnableAdsMouseUnlock": true,
@@ -13505,8 +13505,8 @@
     "FFlagStudioPreloadBuilderSans": true,
     "FFlagWebBrowserWinFixInitScriptReload": true,
     "FFlagManagedJointJointInstance670": false,
-    "FStringFlagRepoGitHashFastString": "c226e208d381ff230b9a2eebbe0508b0f8d810bd",
-    "DFStringFlagRepoGitHashDynamicString": "c226e208d381ff230b9a2eebbe0508b0f8d810bd",
-    "FStringFlipTimeStampFastString": "2025-05-01T19:08:40.730Z",
-    "DFStringFlipTimeStampDynamicString": "2025-05-01T19:08:40.730Z"
+    "FStringFlagRepoGitHashFastString": "0558f91f31d9e69e4aeab2da2a3bca722adef1b4",
+    "DFStringFlagRepoGitHashDynamicString": "0558f91f31d9e69e4aeab2da2a3bca722adef1b4",
+    "FStringFlipTimeStampFastString": "2025-05-01T19:12:06.521Z",
+    "DFStringFlipTimeStampDynamicString": "2025-05-01T19:12:06.521Z"
 }
