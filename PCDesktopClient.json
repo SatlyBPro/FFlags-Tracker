@@ -12522,8 +12522,9 @@
     "FFlagProfilePlatformImproveLoadingPage": true,
     "FFlagProfilePlatformUpdateCommunityStoreHeaderNavigation": true,
     "FFlagGcInParallelWithRenderPrepare3_Staged": "false;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-01T17:52:33",
-    "FStringFlagRepoGitHashFastString": "186a2526b76295d7f93814456ce35a8b32817da0",
-    "DFStringFlagRepoGitHashDynamicString": "186a2526b76295d7f93814456ce35a8b32817da0",
-    "FStringFlipTimeStampFastString": "2025-05-01T18:24:19.621Z",
-    "DFStringFlipTimeStampDynamicString": "2025-05-01T18:24:19.621Z"
+    "FFlagAvatarChatNonStaticClientFeatures_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-01T18:22:28",
+    "FStringFlagRepoGitHashFastString": "b62e1855ff73f107f349781b6166a3b2da2cf455",
+    "DFStringFlagRepoGitHashDynamicString": "b62e1855ff73f107f349781b6166a3b2da2cf455",
+    "FStringFlipTimeStampFastString": "2025-05-01T18:26:24.350Z",
+    "DFStringFlipTimeStampDynamicString": "2025-05-01T18:26:24.350Z"
 }
