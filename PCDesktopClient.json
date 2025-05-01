@@ -12528,8 +12528,9 @@
     "FFlagProfilePlatformUpdateCommunityStoreHeaderNavigation": true,
     "FFlagGcInParallelWithRenderPrepare3_Staged": "false;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-01T17:52:33",
     "FFlagAvatarChatNonStaticClientFeatures_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-01T18:22:28",
-    "FStringFlagRepoGitHashFastString": "9d492e08c20a75601efb3a8326e3c7525ee9bb67",
-    "DFStringFlagRepoGitHashDynamicString": "9d492e08c20a75601efb3a8326e3c7525ee9bb67",
-    "FStringFlipTimeStampFastString": "2025-05-01T18:53:20.839Z",
-    "DFStringFlipTimeStampDynamicString": "2025-05-01T18:53:20.839Z"
+    "DFFlagSimAdaptiveUseNewVelocityCriteria_Staged": "false;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-01T18:54:32",
+    "FStringFlagRepoGitHashFastString": "d26d457fe829f7a2ddd5d3600ff034da19116df0",
+    "DFStringFlagRepoGitHashDynamicString": "d26d457fe829f7a2ddd5d3600ff034da19116df0",
+    "FStringFlipTimeStampFastString": "2025-05-01T18:57:24.817Z",
+    "DFStringFlipTimeStampDynamicString": "2025-05-01T18:57:24.817Z"
 }
