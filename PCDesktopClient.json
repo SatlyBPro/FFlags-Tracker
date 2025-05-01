@@ -12538,8 +12538,9 @@
     "FFlagProfilePlatformUpdateCommunityStoreHeaderNavigation": true,
     "FFlagAvatarChatNonStaticClientFeatures": true,
     "DFFlagCLI_147010_ReportAttributesWithHangTelemetry2": true,
-    "FStringFlagRepoGitHashFastString": "1392d2f87bb5d21904ddb806862c399530654612",
-    "DFStringFlagRepoGitHashDynamicString": "1392d2f87bb5d21904ddb806862c399530654612",
-    "FStringFlipTimeStampFastString": "2025-05-01T20:39:50.387Z",
-    "DFStringFlipTimeStampDynamicString": "2025-05-01T20:39:50.387Z"
+    "DFFlagTrackFontLoadingTime_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-01T20:44:18",
+    "FStringFlagRepoGitHashFastString": "a988f4d94297743148590507d7ccf30d62f7fc0b",
+    "DFStringFlagRepoGitHashDynamicString": "a988f4d94297743148590507d7ccf30d62f7fc0b",
+    "FStringFlipTimeStampFastString": "2025-05-01T20:46:46.482Z",
+    "DFStringFlipTimeStampDynamicString": "2025-05-01T20:46:46.482Z"
 }
