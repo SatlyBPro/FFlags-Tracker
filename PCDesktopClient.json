@@ -11818,6 +11818,7 @@
     "FFlagFixSeamlessVoiceIntegrationWithPrivateVoice2_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-01T20:31:52",
     "FFlagChromeCapturesUsePolicy_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-01T20:32:02",
     "DFLogRCCExecuteInfo_PlaceFilter": "Verbose,6;18294672156",
+    "FStringStudioEmergencyMessageV4_Staged": "ewogICAgInZlcnNpb25TdGFydCI6IjAuMzAwLjAuMSIsCiAgICAidmVyc2lvbkVuZCI6IjAuNjY5LjAuNjY5MDY2MCIsCiAgICAicGxhdGZvcm1zIjogWyJXaW5kb3dzIiwgIk1hYyJdLAogICAgIm1lc3NhZ2UiOnt9LAogICAgInNodXRkb3duIjp0cnVlCn0=;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-01T20:48:42",
     "FFlagFixLooksSecondaryLayerApdativeScrolling": true,
     "FFlagUpdateAvatarGestures_PlaceFilter": "true;16818255141",
     "FFlagEnableTempFixCollectibleBundlePurchase": true,
@@ -12539,8 +12540,8 @@
     "FFlagAvatarChatNonStaticClientFeatures": true,
     "DFFlagCLI_147010_ReportAttributesWithHangTelemetry2": true,
     "DFFlagTrackFontLoadingTime_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-01T20:44:18",
-    "FStringFlagRepoGitHashFastString": "a988f4d94297743148590507d7ccf30d62f7fc0b",
-    "DFStringFlagRepoGitHashDynamicString": "a988f4d94297743148590507d7ccf30d62f7fc0b",
-    "FStringFlipTimeStampFastString": "2025-05-01T20:46:46.482Z",
-    "DFStringFlipTimeStampDynamicString": "2025-05-01T20:46:46.482Z"
+    "FStringFlagRepoGitHashFastString": "92f78dc958799787e47f61877e7ce3449d1cc680",
+    "DFStringFlagRepoGitHashDynamicString": "92f78dc958799787e47f61877e7ce3449d1cc680",
+    "FStringFlipTimeStampFastString": "2025-05-01T20:50:27.640Z",
+    "DFStringFlipTimeStampDynamicString": "2025-05-01T20:50:27.640Z"
 }
