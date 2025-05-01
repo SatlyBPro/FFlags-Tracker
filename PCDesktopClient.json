@@ -12116,9 +12116,9 @@
     "DFFlagAddToDecryptionTelemetry": true,
     "FFlagEnableGameInviteRewardsBanner3": true,
     "DFFlagConfigServiceTestingEnabled": true,
-    "FFlagTouchscreenUseTabTipKeyboardPCGDKOnly_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-01T18:40:58",
-    "FFlagAXCatalogPerfReduceCatalogAPIPayloadIXP5_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-01T18:43:30",
     "FFlagQRCodeCallRefreshSessionIXP": true,
+    "FFlagAXCatalogPerfReduceCatalogAPIPayloadIXP5": true,
+    "FFlagTouchscreenUseTabTipKeyboardPCGDKOnly": true,
     "AllowVideoPreRoll": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
@@ -12533,8 +12533,8 @@
     "DFFlagSimAdaptiveUseNewVelocityCriteria_Staged": "false;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-01T18:54:32",
     "FFlagAvatarChatNonStaticClientFeatures": true,
     "DFFlagCLI_147010_ReportAttributesWithHangTelemetry2_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-01T19:32:09",
-    "FStringFlagRepoGitHashFastString": "868f6d740b4a6e55845e04bee9411f35cde3690e",
-    "DFStringFlagRepoGitHashDynamicString": "868f6d740b4a6e55845e04bee9411f35cde3690e",
-    "FStringFlipTimeStampFastString": "2025-05-01T19:38:52.113Z",
-    "DFStringFlipTimeStampDynamicString": "2025-05-01T19:38:52.113Z"
+    "FStringFlagRepoGitHashFastString": "60657fb8f9ca8725a3fceabb3b6dc7cc33f9bd48",
+    "DFStringFlagRepoGitHashDynamicString": "60657fb8f9ca8725a3fceabb3b6dc7cc33f9bd48",
+    "FStringFlipTimeStampFastString": "2025-05-01T19:47:37.470Z",
+    "DFStringFlipTimeStampDynamicString": "2025-05-01T19:47:37.470Z"
 }

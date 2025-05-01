@@ -245,7 +245,7 @@
     "DFFlagHttpReportResponseContentLength": true,
     "DFFlagHttpTrackBandwidthBasedOnMsgSize": true,
     "DFFlagConfigServiceTestingEnabled": true,
-    "FFlagAXCatalogPerfReduceCatalogAPIPayloadIXP5_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-01T18:43:30",
+    "FFlagAXCatalogPerfReduceCatalogAPIPayloadIXP5": true,
     "FFlagWindowsBootstrapperAdditionalCdnDiagnostics2": true,
     "FFlagBootstrapperEnableOptOutDUAR": true,
     "FStringWindowsProgressiveDownloadExperimentBucketSettings": "v4-61-65",
@@ -264,8 +264,8 @@
     "ShowInstallSuccessPrompt": true,
     "FFlagAXUnifiedItemFooterPriceFix": true,
     "FFlagWinInstallerDoNotKillRunningClient": true,
-    "FStringFlagRepoGitHashFastString": "9171382afe611510f04c5ab60fc1423a6fabcc35",
-    "DFStringFlagRepoGitHashDynamicString": "9171382afe611510f04c5ab60fc1423a6fabcc35",
-    "FStringFlipTimeStampFastString": "2025-05-01T18:48:22.317Z",
-    "DFStringFlipTimeStampDynamicString": "2025-05-01T18:48:22.317Z"
+    "FStringFlagRepoGitHashFastString": "60657fb8f9ca8725a3fceabb3b6dc7cc33f9bd48",
+    "DFStringFlagRepoGitHashDynamicString": "60657fb8f9ca8725a3fceabb3b6dc7cc33f9bd48",
+    "FStringFlipTimeStampFastString": "2025-05-01T19:47:37.470Z",
+    "DFStringFlipTimeStampDynamicString": "2025-05-01T19:47:37.470Z"
 }
