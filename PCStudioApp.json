@@ -11813,6 +11813,8 @@
     "FFlagChromeChatGamepadSupportFix": true,
     "FFlagChromeShortcutAddRespawnLeaveToIEM": true,
     "DFFlagFixTelemetryBadIntegerEncoding": true,
+    "FFlagCLI149974_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-01T20:22:20",
+    "FFlagNavBarWhiteStudioIcon2_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-01T20:22:25",
     "AllowVideoPreRoll": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
@@ -13515,8 +13517,8 @@
     "FFlagStudioPreloadBuilderSans": true,
     "FFlagWebBrowserWinFixInitScriptReload": true,
     "FFlagManagedJointJointInstance670": false,
-    "FStringFlagRepoGitHashFastString": "4fc3e8ab57523be65ded6fe9c453fcfc77b62ffe",
-    "DFStringFlagRepoGitHashDynamicString": "4fc3e8ab57523be65ded6fe9c453fcfc77b62ffe",
-    "FStringFlipTimeStampFastString": "2025-05-01T20:23:18.641Z",
-    "DFStringFlipTimeStampDynamicString": "2025-05-01T20:23:18.641Z"
+    "FStringFlagRepoGitHashFastString": "fac9c8ba2ea6cb21d75c80627cde0cbaa1bc766f",
+    "DFStringFlagRepoGitHashDynamicString": "fac9c8ba2ea6cb21d75c80627cde0cbaa1bc766f",
+    "FStringFlipTimeStampFastString": "2025-05-01T20:27:26.405Z",
+    "DFStringFlipTimeStampDynamicString": "2025-05-01T20:27:26.405Z"
 }
