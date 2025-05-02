@@ -13321,6 +13321,7 @@
     "FFlagIxpCrashTaggingStudio": true,
     "FFlagStudioQActionObserverQueued2": true,
     "FStringAcousticSimulationBetaFeatureUrl": "https://devforum.roblox.com/t/beta-acoustic-simulation/3634265",
+    "FFlagDebugLuaAppValidateProps": true,
     "FFlagRenderEnableGlobalInstancingD3D11": true,
     "FFlagShorelinesRemoveDialog": true,
     "FFlagTerrainEditorUseTerrainChannels": true,
@@ -13529,7 +13530,6 @@
     "FFlagTextBoxRoundUpCursorPosOnSetText": true,
     "DFFlagFixPhantomFreeze": true,
     "FFlagUpdateAsyncLightGrid7": true,
-    "FFlagDebugLuaAppValidateProps": true,
     "FStringFeature_CookieProtocolEnabled": "524;100",
     "FFlagPathEditorControlPointVisualImprovements2": true,
     "FLogCloseDataModel": 6,
@@ -13552,8 +13552,9 @@
     "FFlagFontListFetchRetryForMoreTimes": true,
     "FFlagStudioPreloadBuilderSans": true,
     "FFlagManagedJointJointInstance670": false,
-    "FStringFlagRepoGitHashFastString": "aa1e4b7d871c59e8ca228599c1cd3fb97f22d711",
-    "DFStringFlagRepoGitHashDynamicString": "aa1e4b7d871c59e8ca228599c1cd3fb97f22d711",
-    "FStringFlipTimeStampFastString": "2025-05-02T01:07:23.991Z",
-    "DFStringFlipTimeStampDynamicString": "2025-05-02T01:07:23.991Z"
+    "FFlagAddDefaultAddTabToEmptyTab_Staged": "false;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-02T15:26:04",
+    "FStringFlagRepoGitHashFastString": "a13f5624453cb7b615f55387867bf9a11164feb6",
+    "DFStringFlagRepoGitHashDynamicString": "a13f5624453cb7b615f55387867bf9a11164feb6",
+    "FStringFlipTimeStampFastString": "2025-05-02T15:26:58.289Z",
+    "DFStringFlipTimeStampDynamicString": "2025-05-02T15:26:58.289Z"
 }
