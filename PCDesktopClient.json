@@ -11843,12 +11843,12 @@
     "FFlagTweakTiltMenuShortcuts": true,
     "FFlagUpdateTiltMenuButtonIcons": true,
     "FFlagNoLocalSourceCodeType": true,
-    "FFlagSendRolloutFlagsUpdatedSignalToTelemetry2_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-02T18:08:44",
-    "FFlagUpdateRolloutTimestampInSetRolloutValue_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-02T18:09:28",
     "AllowVideoPreRoll": true,
     "DFFlagOCIgnoreGpuBound": true,
     "DFFlagNewAndroidCpuSpeedMethod_Staged": "false;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-02T18:51:36",
     "DFIntVector3CurveTelemetryEventsThrottleHundrethsPercent": 50,
+    "FFlagSendRolloutFlagsUpdatedSignalToTelemetry2": true,
+    "FFlagUpdateRolloutTimestampInSetRolloutValue": true,
     "FFlagRenderEnableGlobalInstancingD3D11": true,
     "FFlagFixLooksSecondaryLayerApdativeScrolling": true,
     "FFlagUpdateAvatarGestures_PlaceFilter": "true;16818255141",
@@ -12573,8 +12573,8 @@
     "FFlagCLI_147010_RefactorHangReportingLogic": true,
     "FFlagPerformanceControlAveragedQuality2": false,
     "DFFlagRakNetFixShutdownRaceCond": true,
-    "FStringFlagRepoGitHashFastString": "e818005b7f659e428e38907fe06b0d4ee974f5f1",
-    "DFStringFlagRepoGitHashDynamicString": "e818005b7f659e428e38907fe06b0d4ee974f5f1",
-    "FStringFlipTimeStampFastString": "2025-05-02T19:07:23.417Z",
-    "DFStringFlipTimeStampDynamicString": "2025-05-02T19:07:23.417Z"
+    "FStringFlagRepoGitHashFastString": "a71da8b4a2f0c1b29fe6c613c615fa6c49048f8e",
+    "DFStringFlagRepoGitHashDynamicString": "a71da8b4a2f0c1b29fe6c613c615fa6c49048f8e",
+    "FStringFlipTimeStampFastString": "2025-05-02T19:12:12.103Z",
+    "DFStringFlipTimeStampDynamicString": "2025-05-02T19:12:12.103Z"
 }
