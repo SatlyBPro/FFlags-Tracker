@@ -13340,10 +13340,10 @@
     "FFlagStudioQActionObserverQueued2": true,
     "FStringAcousticSimulationBetaFeatureUrl": "https://devforum.roblox.com/t/beta-acoustic-simulation/3634265",
     "FIntIXPMaxWaitingTimeInSeconds": 6,
-    "DFFlagStopUpdateCollisionDuringDMTearDown_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-02T17:04:54",
-    "DFFlagFixBroadphaseExtentOwnerMoved_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-02T17:05:10",
     "FFlagSyncDpiAcrossDms_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-02T17:50:37",
     "FFlagFixReportAdPopupAdInfoType": true,
+    "DFFlagFixBroadphaseExtentOwnerMoved": true,
+    "DFFlagStopUpdateCollisionDuringDMTearDown": true,
     "FFlagRenderEnableGlobalInstancingD3D11": true,
     "FFlagShorelinesRemoveDialog": true,
     "FFlagTerrainEditorUseTerrainChannels": true,
@@ -13575,8 +13575,8 @@
     "FFlagFontListFetchRetryForMoreTimes": true,
     "FFlagStudioPreloadBuilderSans": true,
     "FFlagManagedJointJointInstance670": false,
-    "FStringFlagRepoGitHashFastString": "ab80e8219775e15b11eaaef51c30c7f1ff3a2090",
-    "DFStringFlagRepoGitHashDynamicString": "ab80e8219775e15b11eaaef51c30c7f1ff3a2090",
-    "FStringFlipTimeStampFastString": "2025-05-02T18:02:29.178Z",
-    "DFStringFlipTimeStampDynamicString": "2025-05-02T18:02:29.178Z"
+    "FStringFlagRepoGitHashFastString": "d9b694bf65ead2bf2105bc6cbff0048c49135485",
+    "DFStringFlagRepoGitHashDynamicString": "d9b694bf65ead2bf2105bc6cbff0048c49135485",
+    "FStringFlipTimeStampFastString": "2025-05-02T18:08:11.434Z",
+    "DFStringFlipTimeStampDynamicString": "2025-05-02T18:08:11.434Z"
 }
