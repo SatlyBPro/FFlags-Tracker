@@ -12158,6 +12158,7 @@
     "DFFlagFixPhantomFreeze": true,
     "FFlagUpdateAsyncLightGrid7": true,
     "DFFlagLuauHeapProfilerChildDepthLimitEnable": true,
+    "DFFlagReportServerSecurityDelayStats_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-02T18:30:25",
     "AllowVideoPreRoll": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
@@ -12573,10 +12574,10 @@
     "DFFlagTrackFontLoadingTime": true,
     "FFlagCLI_147010_RefactorHangReportingLogic": true,
     "FFlagPerformanceControlAveragedQuality2": false,
-    "DFFlagRakNetFixShutdownRaceCond_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-02T17:28:01",
     "DFFlagSimAdaptiveUseNewVelocityCriteria_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-02T17:32:22",
-    "FStringFlagRepoGitHashFastString": "b07b57e974119b2e48e897848eb017808e934eb0",
-    "DFStringFlagRepoGitHashDynamicString": "b07b57e974119b2e48e897848eb017808e934eb0",
-    "FStringFlipTimeStampFastString": "2025-05-02T18:13:10.513Z",
-    "DFStringFlipTimeStampDynamicString": "2025-05-02T18:13:10.513Z"
+    "DFFlagRakNetFixShutdownRaceCond": true,
+    "FStringFlagRepoGitHashFastString": "0b05c388938008817225422f1e6467f5214f3c64",
+    "DFStringFlagRepoGitHashDynamicString": "0b05c388938008817225422f1e6467f5214f3c64",
+    "FStringFlipTimeStampFastString": "2025-05-02T18:32:18.655Z",
+    "DFStringFlipTimeStampDynamicString": "2025-05-02T18:32:18.655Z"
 }
