@@ -246,9 +246,11 @@
     "DFFlagHttpTrackBandwidthBasedOnMsgSize": true,
     "DFFlagConfigServiceTestingEnabled": true,
     "FFlagAXCatalogPerfReduceCatalogAPIPayloadIXP5": true,
-    "FIntMininumRequiredMemoryInMB_Staged": "3072;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-01T20:14:35",
-    "FFlagStudioUsePhysicallyInstalledMemoryForMinSpec_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-01T20:20:35",
-    "FFlagStudioMinSpecAdjustments_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-01T20:20:43",
+    "FIntMininumRequiredMemoryInMB": 3072,
+    "FFlagStudioMinSpecAdjustments": true,
+    "FFlagStudioUsePhysicallyInstalledMemoryForMinSpec": true,
+    "FFlagWinUtilRemoveFileWithErrorCode": true,
+    "FFlagWinUtilCopyFileWithErrorCode": true,
     "FFlagWindowsBootstrapperAdditionalCdnDiagnostics2": true,
     "FFlagBootstrapperEnableOptOutDUAR": true,
     "FStringWindowsProgressiveDownloadExperimentBucketSettings": "v4-61-65",
@@ -267,8 +269,8 @@
     "ShowInstallSuccessPrompt": true,
     "FFlagAXUnifiedItemFooterPriceFix": true,
     "FFlagWinInstallerDoNotKillRunningClient": true,
-    "FStringFlagRepoGitHashFastString": "4fc3e8ab57523be65ded6fe9c453fcfc77b62ffe",
-    "DFStringFlagRepoGitHashDynamicString": "4fc3e8ab57523be65ded6fe9c453fcfc77b62ffe",
-    "FStringFlipTimeStampFastString": "2025-05-01T20:23:18.641Z",
-    "DFStringFlipTimeStampDynamicString": "2025-05-01T20:23:18.641Z"
+    "FStringFlagRepoGitHashFastString": "aa1e4b7d871c59e8ca228599c1cd3fb97f22d711",
+    "DFStringFlagRepoGitHashDynamicString": "aa1e4b7d871c59e8ca228599c1cd3fb97f22d711",
+    "FStringFlipTimeStampFastString": "2025-05-02T01:07:23.991Z",
+    "DFStringFlipTimeStampDynamicString": "2025-05-02T01:07:23.991Z"
 }
