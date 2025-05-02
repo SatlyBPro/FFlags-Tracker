@@ -11839,7 +11839,6 @@
     "DFFlagVector3CurveGetValueDoTelemetry": true,
     "FFlagChromeCentralizedShortcutConfig": true,
     "FFlagConsoleSinglePressIntegrationExit": true,
-    "DFFlagOCIgnoreGpuBound_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-02T17:46:36",
     "DFIntVector3CurveTelemetryEventsThrottleHundrethsPercent_Staged": "50;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-02T17:50:32",
     "FFlagReduceTopBarInsetsWhileHidden": true,
     "FFlagTweakTiltMenuShortcuts": true,
@@ -11848,6 +11847,7 @@
     "FFlagSendRolloutFlagsUpdatedSignalToTelemetry2_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-02T18:08:44",
     "FFlagUpdateRolloutTimestampInSetRolloutValue_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-02T18:09:28",
     "AllowVideoPreRoll": true,
+    "DFFlagOCIgnoreGpuBound": true,
     "FFlagRenderEnableGlobalInstancingD3D11": true,
     "FFlagFixLooksSecondaryLayerApdativeScrolling": true,
     "FFlagUpdateAvatarGestures_PlaceFilter": "true;16818255141",
@@ -12572,8 +12572,8 @@
     "FFlagCLI_147010_RefactorHangReportingLogic": true,
     "FFlagPerformanceControlAveragedQuality2": false,
     "DFFlagRakNetFixShutdownRaceCond": true,
-    "FStringFlagRepoGitHashFastString": "d3aaf59868eed75ff7fc190f63e66acb5a209aff",
-    "DFStringFlagRepoGitHashDynamicString": "d3aaf59868eed75ff7fc190f63e66acb5a209aff",
-    "FStringFlipTimeStampFastString": "2025-05-02T18:40:03.558Z",
-    "DFStringFlipTimeStampDynamicString": "2025-05-02T18:40:03.558Z"
+    "FStringFlagRepoGitHashFastString": "e38a9c2f6513947b21420d1f8fad4a93fc8be844",
+    "DFStringFlagRepoGitHashDynamicString": "e38a9c2f6513947b21420d1f8fad4a93fc8be844",
+    "FStringFlipTimeStampFastString": "2025-05-02T18:52:39.005Z",
+    "DFStringFlipTimeStampDynamicString": "2025-05-02T18:52:39.005Z"
 }

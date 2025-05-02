@@ -11839,7 +11839,6 @@
     "DFFlagVector3CurveGetValueDoTelemetry": true,
     "FFlagChromeCentralizedShortcutConfig": true,
     "FFlagConsoleSinglePressIntegrationExit": true,
-    "DFFlagOCIgnoreGpuBound_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-02T17:46:36",
     "DFIntVector3CurveTelemetryEventsThrottleHundrethsPercent_Staged": "50;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-02T17:50:32",
     "FFlagReduceTopBarInsetsWhileHidden": true,
     "FFlagTweakTiltMenuShortcuts": true,
@@ -11848,6 +11847,7 @@
     "FFlagSendRolloutFlagsUpdatedSignalToTelemetry2_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-02T18:08:44",
     "FFlagUpdateRolloutTimestampInSetRolloutValue_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-02T18:09:28",
     "FFlagPartyVoiceControlsAnalytics_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-02T18:38:16",
+    "DFFlagOCIgnoreGpuBound": true,
     "AllowVideoPreRoll": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
@@ -13576,8 +13576,8 @@
     "FFlagFontListFetchRetryForMoreTimes": true,
     "FFlagStudioPreloadBuilderSans": true,
     "FFlagManagedJointJointInstance670": false,
-    "FStringFlagRepoGitHashFastString": "43ab39f385815da4dcf14fd40cd5b4e0d602213d",
-    "DFStringFlagRepoGitHashDynamicString": "43ab39f385815da4dcf14fd40cd5b4e0d602213d",
-    "FStringFlipTimeStampFastString": "2025-05-02T18:45:57.188Z",
-    "DFStringFlipTimeStampDynamicString": "2025-05-02T18:45:57.188Z"
+    "FStringFlagRepoGitHashFastString": "e38a9c2f6513947b21420d1f8fad4a93fc8be844",
+    "DFStringFlagRepoGitHashDynamicString": "e38a9c2f6513947b21420d1f8fad4a93fc8be844",
+    "FStringFlipTimeStampFastString": "2025-05-02T18:52:39.005Z",
+    "DFStringFlipTimeStampDynamicString": "2025-05-02T18:52:39.005Z"
 }
