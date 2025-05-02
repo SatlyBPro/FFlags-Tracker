@@ -212,7 +212,7 @@
     "FFlagAXCombineGetOutfitDispatchesIXP2": false,
     "FFlagRenderDynamicResolutionScale12": true,
     "FStringWindowsInstallerAsLauncherExperimentBucketSettings": "v4-30-49",
-    "FFlagEnableInstallerAsProtocolHandler2": false,
+    "FFlagEnableInstallerAsProtocolHandler2": true,
     "FFlagFreeTypeAllocOrCrash": true,
     "FFlagSignalSlotsHolderIterator": true,
     "FFlagRaknetAllocOrCrash": true,
@@ -269,8 +269,8 @@
     "ShowInstallSuccessPrompt": true,
     "FFlagAXUnifiedItemFooterPriceFix": true,
     "FFlagWinInstallerDoNotKillRunningClient": true,
-    "FStringFlagRepoGitHashFastString": "aa1e4b7d871c59e8ca228599c1cd3fb97f22d711",
-    "DFStringFlagRepoGitHashDynamicString": "aa1e4b7d871c59e8ca228599c1cd3fb97f22d711",
-    "FStringFlipTimeStampFastString": "2025-05-02T01:07:23.991Z",
-    "DFStringFlipTimeStampDynamicString": "2025-05-02T01:07:23.991Z"
+    "FStringFlagRepoGitHashFastString": "ddb74079eb4d425a991c251fa536d1f4054332da",
+    "DFStringFlagRepoGitHashDynamicString": "ddb74079eb4d425a991c251fa536d1f4054332da",
+    "FStringFlipTimeStampFastString": "2025-05-02T20:19:48.140Z",
+    "DFStringFlipTimeStampDynamicString": "2025-05-02T20:19:48.140Z"
 }
