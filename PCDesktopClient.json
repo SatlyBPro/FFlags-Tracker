@@ -12582,8 +12582,10 @@
     "FFlagCLI_147010_RefactorHangReportingLogic": true,
     "FFlagPerformanceControlAveragedQuality2": false,
     "DFFlagRakNetFixShutdownRaceCond": true,
-    "FStringFlagRepoGitHashFastString": "29e8440bd06d02e1ec1285a6af444724a28661fc",
-    "DFStringFlagRepoGitHashDynamicString": "29e8440bd06d02e1ec1285a6af444724a28661fc",
-    "FStringFlipTimeStampFastString": "2025-05-05T18:04:07.477Z",
-    "DFStringFlipTimeStampDynamicString": "2025-05-05T18:04:07.477Z"
+    "FIntDiscoveryVideoPlayEventHundredthsPercent_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-05T18:11:39",
+    "FIntDiscoveryVideoLoadEventHundredthsPercent_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-05T18:12:28",
+    "FStringFlagRepoGitHashFastString": "ee96533dbc6c43bff30e1cad306dd0efdc82d339",
+    "DFStringFlagRepoGitHashDynamicString": "ee96533dbc6c43bff30e1cad306dd0efdc82d339",
+    "FStringFlipTimeStampFastString": "2025-05-05T18:14:06.718Z",
+    "DFStringFlipTimeStampDynamicString": "2025-05-05T18:14:06.718Z"
 }
