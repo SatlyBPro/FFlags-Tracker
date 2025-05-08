@@ -11926,6 +11926,7 @@
     "DFFlagMouseGetPartOptimization2_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-08T17:00:28",
     "DFFlagVideoOutputFormatCheckOldestPacketNotNull": true,
     "FFlagLuaAppUnifyPlayButtonTile": true,
+    "DFFlagVideoMp4Rotation_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-08T17:14:35",
     "AllowVideoPreRoll": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
@@ -13444,9 +13445,9 @@
     "FFlagRibbonTabOverflowMenuAddTab": true,
     "FFlagLuaAppDisallowNegativeWidthSeeAll": true,
     "FFlagUISystemSupportStylingB": true,
-    "FFlagFixCompressorSidechainChannelMismatch_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-08T16:13:08",
-    "FFlagFixAudioPlayerStaleAssetLoad_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-08T16:14:02",
     "FFlagSimUpgradeSolidMesh12_Staged": "false;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-08T16:46:28",
+    "FFlagFixAudioPlayerStaleAssetLoad": true,
+    "FFlagFixCompressorSidechainChannelMismatch": true,
     "FFlagRenderEnableGlobalInstancingD3D11": true,
     "FFlagShorelinesRemoveDialog": true,
     "FFlagTerrainEditorUseTerrainChannels": true,
@@ -13688,8 +13689,8 @@
     "FFlagFontListFetchRetryForMoreTimes": true,
     "FFlagStudioPreloadBuilderSans": true,
     "FFlagManagedJointJointInstance670": false,
-    "FStringFlagRepoGitHashFastString": "d035c91e77b24c2ab3ef4950d2139993cb3a4ba0",
-    "DFStringFlagRepoGitHashDynamicString": "d035c91e77b24c2ab3ef4950d2139993cb3a4ba0",
-    "FStringFlipTimeStampFastString": "2025-05-08T17:13:12.496Z",
-    "DFStringFlipTimeStampDynamicString": "2025-05-08T17:13:12.496Z"
+    "FStringFlagRepoGitHashFastString": "8e652f4aa9821754511001014f7c296028c4631f",
+    "DFStringFlagRepoGitHashDynamicString": "8e652f4aa9821754511001014f7c296028c4631f",
+    "FStringFlipTimeStampFastString": "2025-05-08T17:19:00.530Z",
+    "DFStringFlipTimeStampDynamicString": "2025-05-08T17:19:00.530Z"
 }
