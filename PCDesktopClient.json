@@ -12680,8 +12680,10 @@
     "FFlagLuaAppMigrateGameTileActiveFriendsFix_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-08T17:52:01",
     "FFlagLuaAppMigrateGameTileHoverFixes_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-08T17:56:42",
     "FFlagTouchInputServiceFixesPanLongpress": true,
-    "FStringFlagRepoGitHashFastString": "987830f0e448f5f026e18484df6e697dd95e71b3",
-    "DFStringFlagRepoGitHashDynamicString": "987830f0e448f5f026e18484df6e697dd95e71b3",
-    "FStringFlipTimeStampFastString": "2025-05-08T18:32:35.892Z",
-    "DFStringFlipTimeStampDynamicString": "2025-05-08T18:32:35.892Z"
+    "FFlagCLI_125587_UnifiedHangMonitor_MacRefactoring4_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-08T18:34:22",
+    "FFlagCLI_125587_UnifiedHangMonitor_WindowsRefactoring4_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-08T18:34:22",
+    "FStringFlagRepoGitHashFastString": "c901425d0faf9b9a92eb51cd2a362df61c16dbb9",
+    "DFStringFlagRepoGitHashDynamicString": "c901425d0faf9b9a92eb51cd2a362df61c16dbb9",
+    "FStringFlipTimeStampFastString": "2025-05-08T18:36:02.763Z",
+    "DFStringFlipTimeStampDynamicString": "2025-05-08T18:36:02.763Z"
 }
