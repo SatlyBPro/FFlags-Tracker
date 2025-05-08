@@ -11951,6 +11951,7 @@
     "FIntOuterCageResOver100_IXP": "1;Engine.Avatar.LayeredClothing;Engine.Avatar.LayeredClothing.LinearDeformerExp-Windows-2;1498570592;flagbank",
     "FIntRigidityOuterLayerWeightPct_Staged": "45;SteadyState;10;30;Revert;2025-05-08T20:24:36",
     "FIntRigidityOuterLayerWeightPct_IXP": "1;Engine.Avatar.LayeredClothing;Engine.Avatar.LayeredClothing.LinearDeformerExp-Windows-2;1498570592;flagbank",
+    "FFlagDevFrameworkBreadcrumbAddDelimiterToImageLookup_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-08T20:43:27",
     "AllowVideoPreRoll": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
@@ -13478,6 +13479,8 @@
     "FFlagExplorerFixZoomExtentsAction2_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-08T20:12:43",
     "FFlagLuaAppExplicitErrorOnWidthForSeeAll_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-08T20:26:32",
     "FFlagEnableSocialCards2": true,
+    "FFlagAmrUseFolderIcons_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-08T20:42:58",
+    "FFlagAmrEnableWhenViewportHidden_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-08T20:43:02",
     "FFlagRenderEnableGlobalInstancingD3D11": true,
     "FFlagShorelinesRemoveDialog": true,
     "FFlagTerrainEditorUseTerrainChannels": true,
@@ -13689,7 +13692,7 @@
     "FFlagGlobalSettingsEngineModule3": true,
     "DFIntContentProviderAssetLoadingDelayThrottleHundredthsPercent": 1000,
     "DFFlagPushValueWithCare": true,
-    "FFlagSQLiteCacheSizePagesLowEndEnable_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-08T19:40:05",
+    "FFlagSQLiteCacheSizePagesLowEndEnable": true,
     "FFlagDebugLuaAppValidateProps": true,
     "FStringFeature_CookieProtocolEnabled": "524;100",
     "FFlagPathEditorControlPointVisualImprovements2": true,
@@ -13713,8 +13716,8 @@
     "FFlagFontListFetchRetryForMoreTimes": true,
     "FFlagStudioPreloadBuilderSans": true,
     "FFlagManagedJointJointInstance670": false,
-    "FStringFlagRepoGitHashFastString": "cdb28f4dfda5c6e40592d49aad0f081bb71d390e",
-    "DFStringFlagRepoGitHashDynamicString": "cdb28f4dfda5c6e40592d49aad0f081bb71d390e",
-    "FStringFlipTimeStampFastString": "2025-05-08T20:41:20.980Z",
-    "DFStringFlipTimeStampDynamicString": "2025-05-08T20:41:20.980Z"
+    "FStringFlagRepoGitHashFastString": "9ae1487678c6635096cc92d91d8901c96889af81",
+    "DFStringFlagRepoGitHashDynamicString": "9ae1487678c6635096cc92d91d8901c96889af81",
+    "FStringFlipTimeStampFastString": "2025-05-08T20:46:41.345Z",
+    "DFStringFlipTimeStampDynamicString": "2025-05-08T20:46:41.345Z"
 }
