@@ -11933,6 +11933,7 @@
     "FFlagDevFrameworkMigrateEditTreeId": true,
     "FFlagAXAddWidgetImpressionsEvent": true,
     "FFlagLuaRibbonAnchorLockModes3": true,
+    "FFlagAppChatFixUpdateReducerMessageState": true,
     "FFlagRenderEnableGlobalInstancingD3D11": true,
     "FFlagFixLooksSecondaryLayerApdativeScrolling": true,
     "FFlagUpdateAvatarGestures_PlaceFilter": "true;16818255141",
@@ -12685,8 +12686,8 @@
     "FFlagLuaAppMigrateGameTileHoverFixes": true,
     "FFlagCLI_125587_UnifiedHangMonitor_MacRefactoring4": true,
     "FFlagCLI_125587_UnifiedHangMonitor_WindowsRefactoring4": true,
-    "FStringFlagRepoGitHashFastString": "beaf105a1cad0e7625890f591807310158652664",
-    "DFStringFlagRepoGitHashDynamicString": "beaf105a1cad0e7625890f591807310158652664",
-    "FStringFlipTimeStampFastString": "2025-05-08T19:43:20.889Z",
-    "DFStringFlipTimeStampDynamicString": "2025-05-08T19:43:20.889Z"
+    "FStringFlagRepoGitHashFastString": "49cdde55ad90ae2f48641891fcd567fb165cdee8",
+    "DFStringFlagRepoGitHashDynamicString": "49cdde55ad90ae2f48641891fcd567fb165cdee8",
+    "FStringFlipTimeStampFastString": "2025-05-08T19:44:27.984Z",
+    "DFStringFlipTimeStampDynamicString": "2025-05-08T19:44:27.984Z"
 }
