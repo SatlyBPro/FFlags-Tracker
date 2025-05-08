@@ -12260,10 +12260,10 @@
     "FFlagFixAudioPlayerStaleAssetLoad": true,
     "FFlagFixCompressorSidechainChannelMismatch": true,
     "FFlagLuaAppBootcampIntroUABOOTCAMP57": true,
-    "FFlagLuaAppExplicitErrorOnWidthForSeeAll_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-08T20:26:32",
     "FFlagSQLiteCacheSizePagesLowEndEnable": true,
     "FFlagEnableNotificationsToastTTLFix_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-08T21:17:29",
     "FFlagFixRigidSubskinnedToIc3_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-08T21:21:27",
+    "FFlagLuaAppExplicitErrorOnWidthForSeeAll": true,
     "AllowVideoPreRoll": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
@@ -12693,8 +12693,8 @@
     "FFlagCLI_125587_UnifiedHangMonitor_MacRefactoring4": true,
     "FFlagCLI_125587_UnifiedHangMonitor_WindowsRefactoring4": true,
     "FFlagLuaAppMigrateGameTileIxp4": true,
-    "FStringFlagRepoGitHashFastString": "7fcafe222912735f54cb3007fc260388dffc7f36",
-    "DFStringFlagRepoGitHashDynamicString": "7fcafe222912735f54cb3007fc260388dffc7f36",
-    "FStringFlipTimeStampFastString": "2025-05-08T21:24:52.927Z",
-    "DFStringFlipTimeStampDynamicString": "2025-05-08T21:24:52.927Z"
+    "FStringFlagRepoGitHashFastString": "994958a24f4fb79a654e834e539355d86b1d7cc6",
+    "DFStringFlagRepoGitHashDynamicString": "994958a24f4fb79a654e834e539355d86b1d7cc6",
+    "FStringFlipTimeStampFastString": "2025-05-08T21:33:14.769Z",
+    "DFStringFlipTimeStampDynamicString": "2025-05-08T21:33:14.769Z"
 }

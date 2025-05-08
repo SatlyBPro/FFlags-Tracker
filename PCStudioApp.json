@@ -13469,7 +13469,6 @@
     "FFlagFixStylingStateLayer": true,
     "FFlagRibbonSpinboxClamp": true,
     "FFlagRibbonStyleUpgrades": true,
-    "FFlagLuaAppExplicitErrorOnWidthForSeeAll_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-08T20:26:32",
     "FFlagEnableSocialCards2": true,
     "FFlagAmrUseFolderIcons_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-08T20:42:58",
     "FFlagAmrEnableWhenViewportHidden_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-08T20:43:02",
@@ -13477,6 +13476,8 @@
     "FFlagEnableNotificationsToastTTLFix_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-08T21:17:29",
     "FFlagExplorerFixZoomExtentsAction2": true,
     "DFFlagLayeredClothingSetupForR15Only_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-08T21:21:43",
+    "FFlagDevFrameworkFormHideHeader_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-08T21:26:59",
+    "FFlagLuaAppExplicitErrorOnWidthForSeeAll": true,
     "FFlagRenderEnableGlobalInstancingD3D11": true,
     "FFlagShorelinesRemoveDialog": true,
     "FFlagTerrainEditorUseTerrainChannels": true,
@@ -13713,8 +13714,8 @@
     "FFlagFontListFetchRetryForMoreTimes": true,
     "FFlagStudioPreloadBuilderSans": true,
     "FFlagManagedJointJointInstance670": false,
-    "FStringFlagRepoGitHashFastString": "7fcafe222912735f54cb3007fc260388dffc7f36",
-    "DFStringFlagRepoGitHashDynamicString": "7fcafe222912735f54cb3007fc260388dffc7f36",
-    "FStringFlipTimeStampFastString": "2025-05-08T21:24:52.927Z",
-    "DFStringFlipTimeStampDynamicString": "2025-05-08T21:24:52.927Z"
+    "FStringFlagRepoGitHashFastString": "994958a24f4fb79a654e834e539355d86b1d7cc6",
+    "DFStringFlagRepoGitHashDynamicString": "994958a24f4fb79a654e834e539355d86b1d7cc6",
+    "FStringFlipTimeStampFastString": "2025-05-08T21:33:14.769Z",
+    "DFStringFlipTimeStampDynamicString": "2025-05-08T21:33:14.769Z"
 }
