@@ -11932,6 +11932,7 @@
     "FFlagDevFrameworkMigrateEditTreeId_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-08T18:23:51",
     "FFlagAXAddWidgetImpressionsEvent_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-08T18:30:22",
     "FFlagLuaRibbonAnchorLockModes3_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-08T18:30:29",
+    "FFlagFixOffSaleCurrentlyWearingItemNavigation_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-08T18:43:34",
     "FFlagRenderEnableGlobalInstancingD3D11": true,
     "FFlagFixLooksSecondaryLayerApdativeScrolling": true,
     "FFlagUpdateAvatarGestures_PlaceFilter": "true;16818255141",
@@ -12682,8 +12683,8 @@
     "FFlagTouchInputServiceFixesPanLongpress": true,
     "FFlagCLI_125587_UnifiedHangMonitor_MacRefactoring4_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-08T18:34:22",
     "FFlagCLI_125587_UnifiedHangMonitor_WindowsRefactoring4_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-08T18:34:22",
-    "FStringFlagRepoGitHashFastString": "c901425d0faf9b9a92eb51cd2a362df61c16dbb9",
-    "DFStringFlagRepoGitHashDynamicString": "c901425d0faf9b9a92eb51cd2a362df61c16dbb9",
-    "FStringFlipTimeStampFastString": "2025-05-08T18:36:02.763Z",
-    "DFStringFlipTimeStampDynamicString": "2025-05-08T18:36:02.763Z"
+    "FStringFlagRepoGitHashFastString": "ae3c9d7694b042205686888c18b0f03bbb7e40bc",
+    "DFStringFlagRepoGitHashDynamicString": "ae3c9d7694b042205686888c18b0f03bbb7e40bc",
+    "FStringFlipTimeStampFastString": "2025-05-08T18:45:05.932Z",
+    "DFStringFlipTimeStampDynamicString": "2025-05-08T18:45:05.932Z"
 }
