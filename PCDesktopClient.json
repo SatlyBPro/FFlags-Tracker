@@ -11927,6 +11927,7 @@
     "FFlagLuaAppUnifyPlayButtonTile": true,
     "DFFlagVideoMp4Rotation_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-08T17:14:35",
     "FFlagCageMeshUploadApiMigration": true,
+    "FFlagFixSpecialFileMeshToIc_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-08T17:48:42",
     "FFlagRenderEnableGlobalInstancingD3D11": true,
     "FFlagFixLooksSecondaryLayerApdativeScrolling": true,
     "FFlagUpdateAvatarGestures_PlaceFilter": "true;16818255141",
@@ -12673,8 +12674,9 @@
     "FFlagWHAM17073": true,
     "FFlagLuaAppGameTileWideVideoThumbnail_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-08T16:53:29",
     "FFlagTouchInputServiceFixesPanLongpress_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-08T17:25:37",
-    "FStringFlagRepoGitHashFastString": "c1964fa893babcf1a7b9518adf977c931eac3cf9",
-    "DFStringFlagRepoGitHashDynamicString": "c1964fa893babcf1a7b9518adf977c931eac3cf9",
-    "FStringFlipTimeStampFastString": "2025-05-08T17:39:20.716Z",
-    "DFStringFlipTimeStampDynamicString": "2025-05-08T17:39:20.716Z"
+    "FFlagLuaAppMigrateGameTileActiveFriendsFix_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-08T17:52:01",
+    "FStringFlagRepoGitHashFastString": "74ddfd38cd4ec28e6e68445a5172acf71159a318",
+    "DFStringFlagRepoGitHashDynamicString": "74ddfd38cd4ec28e6e68445a5172acf71159a318",
+    "FStringFlipTimeStampFastString": "2025-05-08T17:53:22.401Z",
+    "DFStringFlipTimeStampDynamicString": "2025-05-08T17:53:22.401Z"
 }
