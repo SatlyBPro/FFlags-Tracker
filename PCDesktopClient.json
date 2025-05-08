@@ -12249,6 +12249,7 @@
     "DFFlagPushValueWithCare": true,
     "FFlagFixAudioPlayerStaleAssetLoad": true,
     "FFlagFixCompressorSidechainChannelMismatch": true,
+    "FFlagLuaAppBootcampIntroUABOOTCAMP57_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-08T18:01:30",
     "AllowVideoPreRoll": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
@@ -12669,14 +12670,14 @@
     "DFFlagFixBroadphaseExtentOwnerMoved": true,
     "DFFlagStopUpdateCollisionDuringDMTearDown": true,
     "FIntLuaAppGameTileVideoVisiblePercent": 80,
-    "FFlagLuaAppGameTileWideVideoThumbnail": false,
+    "FFlagLuaAppGameTileWideVideoThumbnail": true,
     "FFlagWebView2": true,
     "FFlagWHAM17073": true,
-    "FFlagLuaAppGameTileWideVideoThumbnail_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-08T16:53:29",
     "FFlagTouchInputServiceFixesPanLongpress_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-08T17:25:37",
     "FFlagLuaAppMigrateGameTileActiveFriendsFix_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-08T17:52:01",
-    "FStringFlagRepoGitHashFastString": "74ddfd38cd4ec28e6e68445a5172acf71159a318",
-    "DFStringFlagRepoGitHashDynamicString": "74ddfd38cd4ec28e6e68445a5172acf71159a318",
-    "FStringFlipTimeStampFastString": "2025-05-08T17:53:22.401Z",
-    "DFStringFlipTimeStampDynamicString": "2025-05-08T17:53:22.401Z"
+    "FFlagLuaAppMigrateGameTileHoverFixes_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-08T17:56:42",
+    "FStringFlagRepoGitHashFastString": "a2a4c6a2829cc26eeaccc5879cdf348095ca0b27",
+    "DFStringFlagRepoGitHashDynamicString": "a2a4c6a2829cc26eeaccc5879cdf348095ca0b27",
+    "FStringFlipTimeStampFastString": "2025-05-08T18:04:15.478Z",
+    "DFStringFlipTimeStampDynamicString": "2025-05-08T18:04:15.478Z"
 }
