@@ -13655,6 +13655,7 @@
     "FFlagAXSeeAllUsesWidgetColumns": true,
     "FFlagGlobalSettingsEngineModule3": true,
     "DFIntContentProviderAssetLoadingDelayThrottleHundredthsPercent": 1000,
+    "DFFlagPushValueWithCare_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-08T16:07:25",
     "FFlagDebugLuaAppValidateProps": true,
     "FStringFeature_CookieProtocolEnabled": "524;100",
     "FFlagPathEditorControlPointVisualImprovements2": true,
@@ -13678,8 +13679,8 @@
     "FFlagFontListFetchRetryForMoreTimes": true,
     "FFlagStudioPreloadBuilderSans": true,
     "FFlagManagedJointJointInstance670": false,
-    "FStringFlagRepoGitHashFastString": "9d820d6e00612ef93b0707300be0b34284e80939",
-    "DFStringFlagRepoGitHashDynamicString": "9d820d6e00612ef93b0707300be0b34284e80939",
-    "FStringFlipTimeStampFastString": "2025-05-08T00:52:56.684Z",
-    "DFStringFlipTimeStampDynamicString": "2025-05-08T00:52:56.684Z"
+    "FStringFlagRepoGitHashFastString": "1ccf2340aa304012c40797ae9721a8dee3ec14db",
+    "DFStringFlagRepoGitHashDynamicString": "1ccf2340aa304012c40797ae9721a8dee3ec14db",
+    "FStringFlipTimeStampFastString": "2025-05-08T16:08:26.776Z",
+    "DFStringFlipTimeStampDynamicString": "2025-05-08T16:08:26.776Z"
 }
