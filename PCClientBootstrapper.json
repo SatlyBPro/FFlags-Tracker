@@ -253,6 +253,7 @@
     "FFlagWinUtilCopyFileWithErrorCode": true,
     "FIntAXSearchPayloadExperimentPortraitModeMobileThreshold": 190,
     "FFlagWinInstallerAddShortcutTelem": true,
+    "FFlagEnablePartyQuickStartButton3": true,
     "FFlagWindowsBootstrapperAdditionalCdnDiagnostics2": true,
     "FFlagBootstrapperEnableOptOutDUAR": true,
     "FStringWindowsProgressiveDownloadExperimentBucketSettings": "v4-61-65",
@@ -271,8 +272,8 @@
     "ShowInstallSuccessPrompt": true,
     "FFlagAXUnifiedItemFooterPriceFix": true,
     "FFlagWinInstallerDoNotKillRunningClient": true,
-    "FStringFlagRepoGitHashFastString": "74d29d5acb22237799ed25436ae574c50fbef337",
-    "DFStringFlagRepoGitHashDynamicString": "74d29d5acb22237799ed25436ae574c50fbef337",
-    "FStringFlipTimeStampFastString": "2025-05-05T21:42:25.123Z",
-    "DFStringFlipTimeStampDynamicString": "2025-05-05T21:42:25.123Z"
+    "FStringFlagRepoGitHashFastString": "9d820d6e00612ef93b0707300be0b34284e80939",
+    "DFStringFlagRepoGitHashDynamicString": "9d820d6e00612ef93b0707300be0b34284e80939",
+    "FStringFlipTimeStampFastString": "2025-05-08T00:52:56.684Z",
+    "DFStringFlipTimeStampDynamicString": "2025-05-08T00:52:56.684Z"
 }
