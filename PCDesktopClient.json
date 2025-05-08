@@ -12672,8 +12672,9 @@
     "FFlagWebView2": true,
     "FFlagWHAM17073": true,
     "FFlagLuaAppGameTileWideVideoThumbnail_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-08T16:53:29",
-    "FStringFlagRepoGitHashFastString": "8e652f4aa9821754511001014f7c296028c4631f",
-    "DFStringFlagRepoGitHashDynamicString": "8e652f4aa9821754511001014f7c296028c4631f",
-    "FStringFlipTimeStampFastString": "2025-05-08T17:19:00.530Z",
-    "DFStringFlipTimeStampDynamicString": "2025-05-08T17:19:00.530Z"
+    "FFlagTouchInputServiceFixesPanLongpress_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-08T17:25:37",
+    "FStringFlagRepoGitHashFastString": "6f6779fed6b4bf483cd2fd7db5a7d8d39702b61c",
+    "DFStringFlagRepoGitHashDynamicString": "6f6779fed6b4bf483cd2fd7db5a7d8d39702b61c",
+    "FStringFlipTimeStampFastString": "2025-05-08T17:27:38.864Z",
+    "DFStringFlipTimeStampDynamicString": "2025-05-08T17:27:38.864Z"
 }
