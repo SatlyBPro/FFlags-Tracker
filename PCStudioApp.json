@@ -13423,7 +13423,7 @@
     "FFlagStudioLogPluginRuntime": true,
     "FFlagLuauTypeCheckerStricterIndexCheck": true,
     "FFlagLuauStoreReturnTypesAsPackOnAst": true,
-    "FFlagSimUpgradeSolidMesh12": true,
+    "FFlagSimUpgradeSolidMesh12": false,
     "FFlagToolboxCSWOTAEnabled3": true,
     "FFlagSTUDIOPLAT37936": false,
     "FFlagRibbonRefreshTools": true,
@@ -13446,7 +13446,6 @@
     "FFlagRibbonTabOverflowMenuAddTab": true,
     "FFlagLuaAppDisallowNegativeWidthSeeAll": true,
     "FFlagUISystemSupportStylingB": true,
-    "FFlagSimUpgradeSolidMesh12_Staged": "false;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-08T16:46:28",
     "FFlagFixAudioPlayerStaleAssetLoad": true,
     "FFlagFixCompressorSidechainChannelMismatch": true,
     "FFlagCollaborationActions2_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-08T17:20:14",
@@ -13692,8 +13691,8 @@
     "FFlagFontListFetchRetryForMoreTimes": true,
     "FFlagStudioPreloadBuilderSans": true,
     "FFlagManagedJointJointInstance670": false,
-    "FStringFlagRepoGitHashFastString": "74ddfd38cd4ec28e6e68445a5172acf71159a318",
-    "DFStringFlagRepoGitHashDynamicString": "74ddfd38cd4ec28e6e68445a5172acf71159a318",
-    "FStringFlipTimeStampFastString": "2025-05-08T17:53:22.401Z",
-    "DFStringFlipTimeStampDynamicString": "2025-05-08T17:53:22.401Z"
+    "FStringFlagRepoGitHashFastString": "1475184992f25e0d7d65e2cba59b30463afb9858",
+    "DFStringFlagRepoGitHashDynamicString": "1475184992f25e0d7d65e2cba59b30463afb9858",
+    "FStringFlipTimeStampFastString": "2025-05-08T17:55:59.247Z",
+    "DFStringFlipTimeStampDynamicString": "2025-05-08T17:55:59.247Z"
 }
