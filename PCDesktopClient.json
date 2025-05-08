@@ -11923,6 +11923,8 @@
     "DFFlagVideoOutputFormatCheckOldestPacketNotNull_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-08T16:08:03",
     "FFlagLuaAppUnifyPlayButtonTile_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-08T16:08:12",
     "FFlagCageMeshUploadApiMigration_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-08T16:30:18",
+    "FFlagLuaAppInlineRequireAppConfigurer_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-08T16:55:15",
+    "FFlagDevFrameworkCreateStyleRuleAcceptNil_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-08T16:57:26",
     "FFlagRenderEnableGlobalInstancingD3D11": true,
     "FFlagFixLooksSecondaryLayerApdativeScrolling": true,
     "FFlagUpdateAvatarGestures_PlaceFilter": "true;16818255141",
@@ -12667,8 +12669,9 @@
     "FFlagLuaAppGameTileWideVideoThumbnail": false,
     "FFlagWebView2": true,
     "FFlagWHAM17073": true,
-    "FStringFlagRepoGitHashFastString": "f1b95ffec62bb235f487daa52644d712129039ed",
-    "DFStringFlagRepoGitHashDynamicString": "f1b95ffec62bb235f487daa52644d712129039ed",
-    "FStringFlipTimeStampFastString": "2025-05-08T16:31:15.918Z",
-    "DFStringFlipTimeStampDynamicString": "2025-05-08T16:31:15.918Z"
+    "FFlagLuaAppGameTileWideVideoThumbnail_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-08T16:53:29",
+    "FStringFlagRepoGitHashFastString": "34bfa81f811b256018f0a56afe707e6e9eba3eba",
+    "DFStringFlagRepoGitHashDynamicString": "34bfa81f811b256018f0a56afe707e6e9eba3eba",
+    "FStringFlipTimeStampFastString": "2025-05-08T16:58:35.367Z",
+    "DFStringFlipTimeStampDynamicString": "2025-05-08T16:58:35.367Z"
 }
