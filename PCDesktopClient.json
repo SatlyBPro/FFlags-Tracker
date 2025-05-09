@@ -11950,7 +11950,7 @@
     "DFFlagRenderDeviceIncludeAdapterIdInCaps": true,
     "DFFlagStreamingBooleanIteration5": true,
     "DFFlagSJBICurrentPass": true,
-    "DFFlagAvatarClothingAndDecalTelemetry3_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-09T16:03:02",
+    "DFFlagAvatarClothingAndDecalTelemetry3": true,
     "FFlagRenderEnableGlobalInstancingD3D11": true,
     "FFlagFixLooksSecondaryLayerApdativeScrolling": true,
     "FFlagUpdateAvatarGestures_PlaceFilter": "true;16818255141",
@@ -12701,8 +12701,8 @@
     "FFlagCLI_125587_UnifiedHangMonitor_WindowsRefactoring4": true,
     "FFlagLuaAppMigrateGameTileIxp4": true,
     "FFlagEarlyOutRichTextParsing": true,
-    "FStringFlagRepoGitHashFastString": "0c67483eb3054e5c2edec0e4bc0f97eb800441d7",
-    "DFStringFlagRepoGitHashDynamicString": "0c67483eb3054e5c2edec0e4bc0f97eb800441d7",
-    "FStringFlipTimeStampFastString": "2025-05-09T16:03:36.904Z",
-    "DFStringFlipTimeStampDynamicString": "2025-05-09T16:03:36.904Z"
+    "FStringFlagRepoGitHashFastString": "d2b3d60b25a6a081a6e6e5707d527f7eae89916c",
+    "DFStringFlagRepoGitHashDynamicString": "d2b3d60b25a6a081a6e6e5707d527f7eae89916c",
+    "FStringFlipTimeStampFastString": "2025-05-09T17:07:58.779Z",
+    "DFStringFlipTimeStampDynamicString": "2025-05-09T17:07:58.779Z"
 }
