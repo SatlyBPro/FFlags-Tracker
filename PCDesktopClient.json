@@ -11062,6 +11062,7 @@
     "DFIntBatchAssetAPIWorkflowStatsHundredthsPercent": 1000,
     "DFIntNumConcurrentBatchRefreshWorkflowsPerAssetProviderInstance": 5,
     "DFIntNumConcurrentBatchWorkflowsPerAssetProviderInstance": 2,
+    "FIntStudioGetBlockingIDTimeoutMS_Staged": "1000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-15T19:55:01",
     "FFlagRenderEnableGlobalInstancingD3D11": true,
     "FFlagFixLooksSecondaryLayerApdativeScrolling": true,
     "FFlagUpdateAvatarGestures_PlaceFilter": "true;16818255141",
@@ -11402,6 +11403,7 @@
     "FFlagCustomHeadersOnDetailsPage": true,
     "FFlagGamepadMenuActionTelemetry": true,
     "FIntGamepadMenuActionThrottleHundrethsPercent": 10000,
+    "FFlagMoveCiEncouragedGatingToGuac_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-15T20:01:56",
     "AllowVideoPreRoll": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
@@ -11835,8 +11837,8 @@
     "DFFlagSolverV2OptimizeSetUpdates": true,
     "FFlagPartyVoiceBypassCheck": true,
     "FFlagStreamingSolverV2Release663": true,
-    "FStringFlagRepoGitHashFastString": "8dbba4381d0d3859a05db970d8d16b0d0d14fad3",
-    "DFStringFlagRepoGitHashDynamicString": "8dbba4381d0d3859a05db970d8d16b0d0d14fad3",
-    "FStringFlipTimeStampFastString": "2025-05-15T19:43:16.986Z",
-    "DFStringFlipTimeStampDynamicString": "2025-05-15T19:43:16.986Z"
+    "FStringFlagRepoGitHashFastString": "15b68e2ddb8d7c28dcc8cb5bee2bc2b39fbd1c49",
+    "DFStringFlagRepoGitHashDynamicString": "15b68e2ddb8d7c28dcc8cb5bee2bc2b39fbd1c49",
+    "FStringFlipTimeStampFastString": "2025-05-15T20:03:35.489Z",
+    "DFStringFlipTimeStampDynamicString": "2025-05-15T20:03:35.489Z"
 }
