@@ -11067,6 +11067,7 @@
     "AllowVideoPreRoll": true,
     "FStringEngineVoiceWebrtcRobloxAudioJitterBufferSizeDecreaseIxpLayer_Staged": "Engine.Voice.JitterBufferSizeDecrease;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-15T20:56:19",
     "FIntStudioGetBlockingIDTimeoutMS": 1000,
+    "FFlagUseOldVoiceCurves_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-15T21:05:59",
     "FFlagRenderEnableGlobalInstancingD3D11": true,
     "FFlagFixLooksSecondaryLayerApdativeScrolling": true,
     "FFlagUpdateAvatarGestures_PlaceFilter": "true;16818255141",
@@ -11407,8 +11408,8 @@
     "FFlagCustomHeadersOnDetailsPage": true,
     "FFlagGamepadMenuActionTelemetry": true,
     "FIntGamepadMenuActionThrottleHundrethsPercent": 10000,
-    "FFlagMoveCiEncouragedGatingToGuac_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-15T20:01:56",
     "DFFlagHttpCurlDefaultAcceptEncodingEnabled_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-15T21:00:21",
+    "FFlagMoveCiEncouragedGatingToGuac": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
     "CaptureQTStudioCountersEnabled": true,
@@ -11841,8 +11842,8 @@
     "DFFlagSolverV2OptimizeSetUpdates": true,
     "FFlagPartyVoiceBypassCheck": true,
     "FFlagStreamingSolverV2Release663": true,
-    "FStringFlagRepoGitHashFastString": "65ad69c38be7bd1f1d842f5a6de6993d3681a4d4",
-    "DFStringFlagRepoGitHashDynamicString": "65ad69c38be7bd1f1d842f5a6de6993d3681a4d4",
-    "FStringFlipTimeStampFastString": "2025-05-15T21:03:44.057Z",
-    "DFStringFlipTimeStampDynamicString": "2025-05-15T21:03:44.057Z"
+    "FStringFlagRepoGitHashFastString": "66413f3db062b36db313be2e07ba4cd80eeef123",
+    "DFStringFlagRepoGitHashDynamicString": "66413f3db062b36db313be2e07ba4cd80eeef123",
+    "FStringFlipTimeStampFastString": "2025-05-15T21:12:33.302Z",
+    "DFStringFlipTimeStampDynamicString": "2025-05-15T21:12:33.302Z"
 }
