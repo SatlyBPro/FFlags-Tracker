@@ -11372,6 +11372,8 @@
     "FFlagSduiFixInstrumentation_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-15T18:19:53",
     "FFlagSduiFixCarouselImpsItemsPerRow_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-15T18:21:23",
     "DFFlagVideoPlayerFixUAF_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-15T18:21:57",
+    "FFlagGamepadMenuActionTelemetry_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-15T18:29:21",
+    "FFlagCustomHeadersOnDetailsPage_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-15T18:29:25",
     "AllowVideoPreRoll": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
@@ -11805,8 +11807,8 @@
     "DFFlagSolverV2OptimizeSetUpdates": true,
     "FFlagPartyVoiceBypassCheck_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-15T18:15:54",
     "FFlagStreamingSolverV2Release663_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-15T18:21:00",
-    "FStringFlagRepoGitHashFastString": "a894db7f3de705e827cdb81c34812d8ff51b4f78",
-    "DFStringFlagRepoGitHashDynamicString": "a894db7f3de705e827cdb81c34812d8ff51b4f78",
-    "FStringFlipTimeStampFastString": "2025-05-15T18:24:23.403Z",
-    "DFStringFlipTimeStampDynamicString": "2025-05-15T18:24:23.403Z"
+    "FStringFlagRepoGitHashFastString": "f65fe31b18cdc18bcc7f347656b2164b28d0543e",
+    "DFStringFlagRepoGitHashDynamicString": "f65fe31b18cdc18bcc7f347656b2164b28d0543e",
+    "FStringFlipTimeStampFastString": "2025-05-15T18:33:43.187Z",
+    "DFStringFlipTimeStampDynamicString": "2025-05-15T18:33:43.187Z"
 }
