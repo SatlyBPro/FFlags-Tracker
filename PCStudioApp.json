@@ -12743,6 +12743,7 @@
     "FFlagVoiceChatClientRewriteMasterLua2": true,
     "FFlagFoundationAdjustButtonIconSizes_Staged": "false;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-15T16:10:40",
     "FFlagChatWindowSemiRoduxMessages_IXP": "1;ExperienceChat.Performance;FFlagChatWindowSemiRoduxMessages;77621948;flagbank",
+    "DFFlagWriteOnlyBufferNoExcept_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-15T17:07:23",
     "FFlagDebugLuaAppValidateProps": true,
     "FStringFeature_CookieProtocolEnabled": "524;100",
     "FFlagPathEditorControlPointVisualImprovements2": true,
@@ -12764,8 +12765,8 @@
     "FFlagFontListFetchRetryForMoreTimes": true,
     "FFlagStudioPreloadBuilderSans": true,
     "FFlagManagedJointJointInstance670": false,
-    "FStringFlagRepoGitHashFastString": "00887bbfcba1119f088447915626e2251e002e4c",
-    "DFStringFlagRepoGitHashDynamicString": "00887bbfcba1119f088447915626e2251e002e4c",
-    "FStringFlipTimeStampFastString": "2025-05-15T17:03:57.432Z",
-    "DFStringFlipTimeStampDynamicString": "2025-05-15T17:03:57.432Z"
+    "FStringFlagRepoGitHashFastString": "349747dd1d2f3d403d236ad78f14c5bce3b38c5c",
+    "DFStringFlagRepoGitHashDynamicString": "349747dd1d2f3d403d236ad78f14c5bce3b38c5c",
+    "FStringFlipTimeStampFastString": "2025-05-15T17:09:04.760Z",
+    "DFStringFlipTimeStampDynamicString": "2025-05-15T17:09:04.760Z"
 }
