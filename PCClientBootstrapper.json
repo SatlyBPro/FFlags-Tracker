@@ -237,6 +237,7 @@
     "FFlagEnablePartyQuickStartButton3": true,
     "FFlagLuaAppBootcampIntroUABOOTCAMP57": true,
     "FFlagEnableNotificationsToastTTLFix": true,
+    "FFlagAXStatEnableCustomEventStreamTable": true,
     "FFlagWindowsBootstrapperAdditionalCdnDiagnostics2": true,
     "FFlagBootstrapperEnableOptOutDUAR": true,
     "FStringWindowsProgressiveDownloadExperimentBucketSettings": "v4-61-65",
@@ -254,8 +255,8 @@
     "ShowInstallSuccessPrompt": true,
     "FFlagAXUnifiedItemFooterPriceFix": true,
     "FFlagWinInstallerDoNotKillRunningClient": true,
-    "FStringFlagRepoGitHashFastString": "2cb6d7d76d0c11452539b14dd92b96cd3c2ff903",
-    "DFStringFlagRepoGitHashDynamicString": "2cb6d7d76d0c11452539b14dd92b96cd3c2ff903",
-    "FStringFlipTimeStampFastString": "2025-05-09T19:37:41.626Z",
-    "DFStringFlipTimeStampDynamicString": "2025-05-09T19:37:41.626Z"
+    "FStringFlagRepoGitHashFastString": "62041e49f3d18dc9d320f43728e3b7e00abad2bb",
+    "DFStringFlagRepoGitHashDynamicString": "62041e49f3d18dc9d320f43728e3b7e00abad2bb",
+    "FStringFlipTimeStampFastString": "2025-05-15T16:17:37.862Z",
+    "DFStringFlipTimeStampDynamicString": "2025-05-15T16:17:37.862Z"
 }
