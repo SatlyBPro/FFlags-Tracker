@@ -11366,6 +11366,7 @@
     "FFlagVoiceChatClientRewriteMasterLua2": true,
     "FFlagChatWindowSemiRoduxMessages_IXP": "1;ExperienceChat.Performance;FFlagChatWindowSemiRoduxMessages;77621948;flagbank",
     "DFFlagWriteOnlyBufferNoExcept_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-15T17:07:23",
+    "DFFlagSimOptimizeSetThrottle2_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-15T17:31:54",
     "AllowVideoPreRoll": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
@@ -11797,8 +11798,8 @@
     "DFFlagSolverV2UpdatePPPLogic_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-15T16:58:38",
     "DFFlagSolverV2NoExtentsReportsForNonSpatialSetsOnClient_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-15T16:59:28",
     "DFFlagSolverV2OptimizeSetUpdates_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-15T17:04:49",
-    "FStringFlagRepoGitHashFastString": "408115452a33a96fc6a5e3f452ec36210497a0bc",
-    "DFStringFlagRepoGitHashDynamicString": "408115452a33a96fc6a5e3f452ec36210497a0bc",
-    "FStringFlipTimeStampFastString": "2025-05-15T17:24:08.452Z",
-    "DFStringFlipTimeStampDynamicString": "2025-05-15T17:24:08.452Z"
+    "FStringFlagRepoGitHashFastString": "a7ee41767f5b6cdc906a1431a342b2f02246a419",
+    "DFStringFlagRepoGitHashDynamicString": "a7ee41767f5b6cdc906a1431a342b2f02246a419",
+    "FStringFlipTimeStampFastString": "2025-05-15T17:35:31.105Z",
+    "DFStringFlipTimeStampDynamicString": "2025-05-15T17:35:31.105Z"
 }
