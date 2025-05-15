@@ -11065,6 +11065,7 @@
     "FFlagFoundationFixDisablingForIconButtons": true,
     "DFFlagRolloutFlagsInGameServerInitializationErrorPoints_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-15T20:21:10",
     "DFFlagReportGameServerInitializationErrorAsV2Counter_Staged": "false;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-15T20:21:13",
+    "FFlagAvatarChatNonStaticClientFeatures_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-15T20:35:21",
     "AllowVideoPreRoll": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
@@ -12817,8 +12818,8 @@
     "FFlagStudioPreloadBuilderSans": true,
     "FFlagManagedJointJointInstance670": false,
     "FFlagMovePrerenderV2": true,
-    "FStringFlagRepoGitHashFastString": "912d76518c6c1dfe546bb3771f0abdf2d70673bd",
-    "DFStringFlagRepoGitHashDynamicString": "912d76518c6c1dfe546bb3771f0abdf2d70673bd",
-    "FStringFlipTimeStampFastString": "2025-05-15T20:24:34.304Z",
-    "DFStringFlipTimeStampDynamicString": "2025-05-15T20:24:34.304Z"
+    "FStringFlagRepoGitHashFastString": "3e4bc681a1f1aa7c6c442ca25a43660078d7b62b",
+    "DFStringFlagRepoGitHashDynamicString": "3e4bc681a1f1aa7c6c442ca25a43660078d7b62b",
+    "FStringFlipTimeStampFastString": "2025-05-15T20:37:05.672Z",
+    "DFStringFlipTimeStampDynamicString": "2025-05-15T20:37:05.672Z"
 }
