@@ -11375,6 +11375,8 @@
     "FFlagGamepadMenuActionTelemetry_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-15T18:29:21",
     "FFlagCustomHeadersOnDetailsPage_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-15T18:29:25",
     "FIntGamepadMenuActionThrottleHundrethsPercent_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-15T18:40:04",
+    "FFlagEngineVoiceChatClientRewriteIxpEnabled_IXP": "1;Engine.Voice.Exposure.1;Engine.Voice.ClientRewrite.Rollout.NonIOS;264016710;dev_controlled",
+    "FFlagVoiceChatClientRewrite_OneFlagToRuleThemAll_Client_IXP": "1;Engine.Voice.Exposure.1;Engine.Voice.ClientRewrite.Rollout.NonIOS;264016710;dev_controlled",
     "AllowVideoPreRoll": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
@@ -11808,8 +11810,8 @@
     "DFFlagSolverV2OptimizeSetUpdates": true,
     "FFlagPartyVoiceBypassCheck_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-15T18:15:54",
     "FFlagStreamingSolverV2Release663_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-15T18:21:00",
-    "FStringFlagRepoGitHashFastString": "4df111c22ff57868f5d6a0978f0caedf8d986e99",
-    "DFStringFlagRepoGitHashDynamicString": "4df111c22ff57868f5d6a0978f0caedf8d986e99",
-    "FStringFlipTimeStampFastString": "2025-05-15T18:44:23.922Z",
-    "DFStringFlipTimeStampDynamicString": "2025-05-15T18:44:23.922Z"
+    "FStringFlagRepoGitHashFastString": "ed54a34d47dc14b86b19cb602dcb246dce6232d9",
+    "DFStringFlagRepoGitHashDynamicString": "ed54a34d47dc14b86b19cb602dcb246dce6232d9",
+    "FStringFlipTimeStampFastString": "2025-05-15T18:52:32.807Z",
+    "DFStringFlipTimeStampDynamicString": "2025-05-15T18:52:32.807Z"
 }
