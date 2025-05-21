@@ -11224,6 +11224,9 @@
     "FIntXSmallCollectionItemMaxItemCount_Staged": "2;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-21T22:30:39",
     "FFlagAutoEnrollHapticService_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-21T22:30:43",
     "FIntXSmallCollectionItemFractionalPercent_Staged": "75;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-21T22:31:18",
+    "DFFlagEnableReportingToEsEiNewFlow_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-21T22:31:21",
+    "FFlagThumbnailGeneratorClickReturnFailed_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-21T22:33:10",
+    "FFlagRemoveAttributesForAccessoryParts_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-21T22:38:00",
     "FFlagEnableWidgetSeeAllButtonUseBackButtonV1": true,
     "FFlagHideDraggerPeekViewV3": true,
     "FFlagEnableAdsMouseUnlock": true,
@@ -11994,8 +11997,9 @@
     "FFlagTextureUseACR4": true,
     "FIntTextureUseACRHundredthPercent": 500,
     "FFlagNewHapticService16": true,
-    "FStringFlagRepoGitHashFastString": "3421d8a4ef3dfc3f10686300b47c680f7f051a5f",
-    "DFStringFlagRepoGitHashDynamicString": "3421d8a4ef3dfc3f10686300b47c680f7f051a5f",
-    "FStringFlipTimeStampFastString": "2025-05-21T22:33:18.582Z",
-    "DFStringFlipTimeStampDynamicString": "2025-05-21T22:33:18.582Z"
+    "FIntTextureUseACRHundredthPercent_Staged": "1000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-21T22:37:56",
+    "FStringFlagRepoGitHashFastString": "86d7b2dff2ffa2e4335ccdbf28cf4d4a0f8fff52",
+    "DFStringFlagRepoGitHashDynamicString": "86d7b2dff2ffa2e4335ccdbf28cf4d4a0f8fff52",
+    "FStringFlipTimeStampFastString": "2025-05-21T22:42:17.056Z",
+    "DFStringFlipTimeStampDynamicString": "2025-05-21T22:42:17.056Z"
 }
