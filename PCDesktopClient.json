@@ -11196,6 +11196,8 @@
     "FFlagDisableReactSchedulingTimePctStats": true,
     "FFlagFCFixSkinnedShadows_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-21T20:26:33",
     "FFlagAnimationCurveDenseCacheFixUniquePtr_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-21T20:26:48",
+    "FFlagSupportsGLProgramBinary2_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-21T20:34:49",
+    "FFlagLuaAppSharedSduiContext_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-21T20:41:03",
     "FFlagUpdateAvatarGestures_PlaceFilter": "true;16818255141",
     "FFlagEnableTempFixCollectibleBundlePurchase": true,
     "FFlagFixAvatarUtilCharacter_PlaceFilter": "true;16818255141;6295939019",
@@ -11532,6 +11534,7 @@
     "FFlagLuauStoreLocalAnnotationColonPositions": true,
     "DFFlagAssetProviderDeferRedirectCacheWrites": true,
     "DFFlagFixHttpClientAbortBgReqBug": true,
+    "FStringGraphicsDeferShaderLoadingPatternList_Staged": ".*:D3D10.*:d3d10.*:.*|Intel.*HD Graphics.*:.*:.*:.*|AMD Radeon(TM) Graphics:.*:.*:.*|AMD Radeon.*(TM) Graphics:.*:.*:.*;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-21T20:35:20",
     "AllowVideoPreRoll": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
@@ -11968,8 +11971,8 @@
     "FFlagGamepadPointAndClick4_IXP": "1;Engine.Interactivity.InputAndControls.PointAndClickDefault;Engine.Interactivity.InputAndControls.PointAndClickDSManualExposure;1875661088;dev_controlled",
     "FFlagWindowsClientHandleWeirdDeltasBetter": true,
     "FFlagCLI152334": true,
-    "FStringFlagRepoGitHashFastString": "5c6ca196d6c74d61f5ea786f00af77b113ef814c",
-    "DFStringFlagRepoGitHashDynamicString": "5c6ca196d6c74d61f5ea786f00af77b113ef814c",
-    "FStringFlipTimeStampFastString": "2025-05-21T20:31:32.096Z",
-    "DFStringFlipTimeStampDynamicString": "2025-05-21T20:31:32.096Z"
+    "FStringFlagRepoGitHashFastString": "a9dbd59a980c11b4ae5d3b31962cdb007d2aeeae",
+    "DFStringFlagRepoGitHashDynamicString": "a9dbd59a980c11b4ae5d3b31962cdb007d2aeeae",
+    "FStringFlipTimeStampFastString": "2025-05-21T20:42:59.196Z",
+    "DFStringFlipTimeStampDynamicString": "2025-05-21T20:42:59.196Z"
 }
