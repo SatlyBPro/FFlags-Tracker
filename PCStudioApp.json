@@ -11182,6 +11182,7 @@
     "DFIntRewardedAdEventTrackingEventThrottleHundrethsPercent": 1000,
     "FFlagEnableAdsMouseUnlock": true,
     "FFlagRenderEnableGlobalInstancingD3D11": true,
+    "FFlagSupportsGLProgramBinary2_Staged": "true;SteadyState;10;30;Revert;2025-05-21T18:14:30",
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
     "CaptureQTStudioCountersEnabled": true,
@@ -12940,8 +12941,8 @@
     "FFlagStudioPreloadBuilderSans": true,
     "FFlagManagedJointJointInstance670": false,
     "FFlagMovePrerenderV2": true,
-    "FStringFlagRepoGitHashFastString": "e780e8dc9dda2a52f82e58b422e5f6907c637dc3",
-    "DFStringFlagRepoGitHashDynamicString": "e780e8dc9dda2a52f82e58b422e5f6907c637dc3",
-    "FStringFlipTimeStampFastString": "2025-05-21T18:10:15.033Z",
-    "DFStringFlipTimeStampDynamicString": "2025-05-21T18:10:15.033Z"
+    "FStringFlagRepoGitHashFastString": "297ba365b21aa16c671df733e6abe38b4b719866",
+    "DFStringFlagRepoGitHashDynamicString": "297ba365b21aa16c671df733e6abe38b4b719866",
+    "FStringFlipTimeStampFastString": "2025-05-21T18:21:55.590Z",
+    "DFStringFlipTimeStampDynamicString": "2025-05-21T18:21:55.590Z"
 }
