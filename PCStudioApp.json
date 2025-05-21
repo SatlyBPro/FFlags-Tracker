@@ -11208,6 +11208,8 @@
     "DFFlagSendRakNetEarlyStats": true,
     "DFFlagFixAds7644": true,
     "FFlagLuaAppSharedSduiContext": true,
+    "EnableTentativeFixForNullDomainInfoOnStart": "true",
+    "FFlagPartyFormationCreateUserExposureEnabled_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-21T22:00:47",
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
     "CaptureQTStudioCountersEnabled": true,
@@ -12962,10 +12964,10 @@
     "FFlagStudioPreloadBuilderSans": true,
     "FFlagManagedJointJointInstance670": false,
     "FFlagMovePrerenderV2": true,
-    "FFlagTextureUseACR4_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-21T20:47:24",
     "FIntTextureUseACRHundredthPercent_Staged": "500;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-21T20:56:51",
-    "FStringFlagRepoGitHashFastString": "2a971f2d94b9f6b8855b1057988b775e968ef8ec",
-    "DFStringFlagRepoGitHashDynamicString": "2a971f2d94b9f6b8855b1057988b775e968ef8ec",
-    "FStringFlipTimeStampFastString": "2025-05-21T21:51:15.611Z",
-    "DFStringFlipTimeStampDynamicString": "2025-05-21T21:51:15.611Z"
+    "FFlagTextureUseACR4": true,
+    "FStringFlagRepoGitHashFastString": "43a71f554c66203510331dfeab211f18fac4f2aa",
+    "DFStringFlagRepoGitHashDynamicString": "43a71f554c66203510331dfeab211f18fac4f2aa",
+    "FStringFlipTimeStampFastString": "2025-05-21T22:03:13.950Z",
+    "DFStringFlipTimeStampDynamicString": "2025-05-21T22:03:13.950Z"
 }
