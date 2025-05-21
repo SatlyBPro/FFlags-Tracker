@@ -11178,7 +11178,6 @@
     "DFIntHapticMixerMaxNumOfEffects": 100,
     "DFFlagEnableGUIStateChangeInVC": true,
     "DFIntRewardedAdEventTrackingEventThrottleHundrethsPercent": 1000,
-    "DFFlagEnableRewardedAdsFunnelEvents2_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-21T18:24:11",
     "FFlagLuauReportSubtypingErrors": true,
     "DFFlagHapticEffectCreateServiceDependency": true,
     "DFFlagSolverV2EnableObserverStatsReport670_Staged": "false;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-21T18:48:55",
@@ -11189,6 +11188,8 @@
     "DFFlagContactManagerOnAssemblyAddedRemovedTelemetry": true,
     "DFFlagTempPhysicsCollisionDataReceivedStats": true,
     "FFlagDisableReactSchedulingAvgMaxMsStats_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-21T19:22:22",
+    "FFlagDisableReactSchedulingTimePctStats_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-21T19:24:02",
+    "DFFlagEnableRewardedAdsFunnelEvents2": true,
     "AllowVideoPreRoll": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
@@ -12948,8 +12949,8 @@
     "FFlagStudioPreloadBuilderSans": true,
     "FFlagManagedJointJointInstance670": false,
     "FFlagMovePrerenderV2": true,
-    "FStringFlagRepoGitHashFastString": "7696405409f35d195d97416571270cd06e51ff7d",
-    "DFStringFlagRepoGitHashDynamicString": "7696405409f35d195d97416571270cd06e51ff7d",
-    "FStringFlipTimeStampFastString": "2025-05-21T19:23:15.379Z",
-    "DFStringFlipTimeStampDynamicString": "2025-05-21T19:23:15.379Z"
+    "FStringFlagRepoGitHashFastString": "885805cef0005bf306d3b405ca6a5afb0c14e635",
+    "DFStringFlagRepoGitHashDynamicString": "885805cef0005bf306d3b405ca6a5afb0c14e635",
+    "FStringFlipTimeStampFastString": "2025-05-21T19:27:24.495Z",
+    "DFStringFlipTimeStampDynamicString": "2025-05-21T19:27:24.495Z"
 }
