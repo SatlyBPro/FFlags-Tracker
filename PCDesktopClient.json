@@ -11190,8 +11190,10 @@
     "DFFlagCLI150209ReplicatorBwTelem_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-21T20:05:35",
     "DFFlagSendVideoTypeTelemetry_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-21T20:11:27",
     "DFFlagSendVideoCmcdAppField_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-21T20:12:11",
-    "FFlagRenderEnableGlobalInstancingD3D11": true,
+    "FFlagEnableHapticOnGUI_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-21T20:13:29",
     "FFlagFixLooksSecondaryLayerApdativeScrolling": true,
+    "FFlagRenderEnableGlobalInstancingD3D11": true,
+    "FIntReactSchedulerYieldInterval2_Staged": "5;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-21T20:18:01",
     "FFlagUpdateAvatarGestures_PlaceFilter": "true;16818255141",
     "FFlagEnableTempFixCollectibleBundlePurchase": true,
     "FFlagFixAvatarUtilCharacter_PlaceFilter": "true;16818255141;6295939019",
@@ -11965,8 +11967,8 @@
     "FFlagGamepadPointAndClick4_IXP": "1;Engine.Interactivity.InputAndControls.PointAndClickDefault;Engine.Interactivity.InputAndControls.PointAndClickDSManualExposure;1875661088;dev_controlled",
     "FFlagWindowsClientHandleWeirdDeltasBetter": true,
     "FFlagCLI152334": true,
-    "FStringFlagRepoGitHashFastString": "fa6e4d827fa4e67149bd42461f8560ce588a0077",
-    "DFStringFlagRepoGitHashDynamicString": "fa6e4d827fa4e67149bd42461f8560ce588a0077",
-    "FStringFlipTimeStampFastString": "2025-05-21T20:13:26.014Z",
-    "DFStringFlipTimeStampDynamicString": "2025-05-21T20:13:26.014Z"
+    "FStringFlagRepoGitHashFastString": "57033b1d7ec50bb5712028787d8f3a9d30a358d8",
+    "DFStringFlagRepoGitHashDynamicString": "57033b1d7ec50bb5712028787d8f3a9d30a358d8",
+    "FStringFlipTimeStampFastString": "2025-05-21T20:18:53.862Z",
+    "DFStringFlipTimeStampDynamicString": "2025-05-21T20:18:53.862Z"
 }
