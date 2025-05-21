@@ -11130,7 +11130,7 @@
     "FFlagProfilePlatformStoreOrganicEventIndex": true,
     "FFlagRemoveUtilDebugLog": true,
     "FFlagEnableConsoleExpControlsIXP3": false,
-    "DFFlagSolverV2EnableObserverStatsReport670": true,
+    "DFFlagSolverV2EnableObserverStatsReport670": false,
     "FFlagSongDetailsEnableAudioPlaybackInEngine": true,
     "FFlagSongDetailsHideSubmenuWhenReporting": true,
     "FFlagLuaAppRefactorInfiniteScrollingWithLoadMoreButton": true,
@@ -11180,7 +11180,6 @@
     "DFIntRewardedAdEventTrackingEventThrottleHundrethsPercent": 1000,
     "FFlagLuauReportSubtypingErrors": true,
     "DFFlagHapticEffectCreateServiceDependency": true,
-    "DFFlagSolverV2EnableObserverStatsReport670_Staged": "false;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-21T18:48:55",
     "FFlagReactSchedulerEnableDeferredWork_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-21T18:59:56",
     "FFlagReactSchedulerSetFrameMarkerOnHeartbeatEnd_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-21T18:59:56",
     "FFlagReactSchedulerSetTargetMsByHeartbeatDelta_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-21T18:59:56",
@@ -11966,8 +11965,8 @@
     "FFlagGamepadPointAndClick4_IXP": "1;Engine.Interactivity.InputAndControls.PointAndClickDefault;Engine.Interactivity.InputAndControls.PointAndClickDSManualExposure;1875661088;dev_controlled",
     "FFlagWindowsClientHandleWeirdDeltasBetter": true,
     "FFlagCLI152334": true,
-    "FStringFlagRepoGitHashFastString": "ba57c8ec1ec5bc5dba0d63e4b68960fc9ce44d89",
-    "DFStringFlagRepoGitHashDynamicString": "ba57c8ec1ec5bc5dba0d63e4b68960fc9ce44d89",
-    "FStringFlipTimeStampFastString": "2025-05-21T19:38:58.593Z",
-    "DFStringFlipTimeStampDynamicString": "2025-05-21T19:38:58.593Z"
+    "FStringFlagRepoGitHashFastString": "9138a07fc8954d9f7fb0c5d411aa891130b1c9c0",
+    "DFStringFlagRepoGitHashDynamicString": "9138a07fc8954d9f7fb0c5d411aa891130b1c9c0",
+    "FStringFlipTimeStampFastString": "2025-05-21T19:52:36.885Z",
+    "DFStringFlipTimeStampDynamicString": "2025-05-21T19:52:36.885Z"
 }
