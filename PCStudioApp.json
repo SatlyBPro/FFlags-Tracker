@@ -11183,7 +11183,6 @@
     "DFFlagContactManagerOnAssemblyAddedRemovedTelemetry": true,
     "DFFlagTempPhysicsCollisionDataReceivedStats": true,
     "DFFlagEnableRewardedAdsFunnelEvents2": true,
-    "FFlagPerformanceControlRequestCompleteCount_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-21T19:38:12",
     "FIntLuaAppStartupReactSchedulerDelayMs": 15000,
     "DFFlagCLI150209ReplicatorBwTelem_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-21T20:05:35",
     "DFFlagSendVideoTypeTelemetry_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-21T20:11:27",
@@ -11198,6 +11197,9 @@
     "FFlagAnimationCurveDenseCacheFixUniquePtr_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-21T20:26:48",
     "FFlagSupportsGLProgramBinary2_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-21T20:34:49",
     "FFlagLuaAppSharedSduiContext_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-21T20:41:03",
+    "DFFlagFixAds7644_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-21T20:43:20",
+    "FFlagPerformanceControlRequestCompleteCount": true,
+    "DFFlagSendRakNetEarlyStats_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-21T20:44:14",
     "CaptureQTStudioCountersEnabled": true,
     "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": false,
     "DFFlagEnableRemoteProfiling": true,
@@ -12954,8 +12956,9 @@
     "FFlagStudioPreloadBuilderSans": true,
     "FFlagManagedJointJointInstance670": false,
     "FFlagMovePrerenderV2": true,
-    "FStringFlagRepoGitHashFastString": "a9dbd59a980c11b4ae5d3b31962cdb007d2aeeae",
-    "DFStringFlagRepoGitHashDynamicString": "a9dbd59a980c11b4ae5d3b31962cdb007d2aeeae",
-    "FStringFlipTimeStampFastString": "2025-05-21T20:42:59.196Z",
-    "DFStringFlipTimeStampDynamicString": "2025-05-21T20:42:59.196Z"
+    "FFlagTextureUseACR4_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-05-21T20:47:24",
+    "FStringFlagRepoGitHashFastString": "30bfc0b480723b68efc424430b017abcd13ece94",
+    "DFStringFlagRepoGitHashDynamicString": "30bfc0b480723b68efc424430b017abcd13ece94",
+    "FStringFlipTimeStampFastString": "2025-05-21T20:49:15.451Z",
+    "DFStringFlipTimeStampDynamicString": "2025-05-21T20:49:15.451Z"
 }
