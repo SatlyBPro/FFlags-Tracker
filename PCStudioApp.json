@@ -11293,7 +11293,6 @@
     "DFFlagAddTranslationDisplayMode": true,
     "FFlagToolsManagerRemoveObserver": true,
     "DFFlagRenderUseHardwareBufferTextureForWinVideoEncode": true,
-    "DFIntGetProductInfoProductCacheSecs": 180,
     "AllowVideoPreRoll": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
@@ -13067,8 +13066,8 @@
     "FFlagMovePrerenderV2": true,
     "FFlagTextureUseACR4": false,
     "FIntTextureUseACRHundredthPercent": 2000,
-    "FStringFlagRepoGitHashFastString": "50504a7bfb49985bbaff82f8c9b893428374349b",
-    "DFStringFlagRepoGitHashDynamicString": "50504a7bfb49985bbaff82f8c9b893428374349b",
-    "FStringFlipTimeStampFastString": "2025-05-24T17:41:44.750Z",
-    "DFStringFlipTimeStampDynamicString": "2025-05-24T17:41:44.750Z"
+    "FStringFlagRepoGitHashFastString": "6c1a1bf68db4a02e1ce07582d3b38022b5771c32",
+    "DFStringFlagRepoGitHashDynamicString": "6c1a1bf68db4a02e1ce07582d3b38022b5771c32",
+    "FStringFlipTimeStampFastString": "2025-05-24T18:00:08.310Z",
+    "DFStringFlipTimeStampDynamicString": "2025-05-24T18:00:08.310Z"
 }
