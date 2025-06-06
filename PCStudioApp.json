@@ -13212,8 +13212,8 @@
     "FFlagLuauBetterCannotCallFunctionPrimitive": true,
     "FFlagLuauNewNonStrictFixGenericTypePacks": true,
     "FFlagFixGetAdIneligibleExperienceMultipleCalls": true,
-    "FFlagEnableCodeAssistExperiment": true,
-    "FFlagEnableCodeAssistExperimentMgr": true,
+    "FFlagEnableCodeAssistExperiment": false,
+    "FFlagEnableCodeAssistExperimentMgr": false,
     "DFFlagInsertServiceValidateInstancePermissions": true,
     "FFlagDevFrameworkRibbonHooks2": true,
     "FFlagLuauUserTypeFunctionAliases_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-06T16:48:24",
@@ -13495,8 +13495,8 @@
     "FFlagMovePrerenderV2": true,
     "FFlagTextureUseACR4": false,
     "FIntTextureUseACRHundredthPercent": 2000,
-    "FStringFlagRepoGitHashFastString": "bfaee4a6baef89eb6c992a668ea7c90e8cff187a",
-    "DFStringFlagRepoGitHashDynamicString": "bfaee4a6baef89eb6c992a668ea7c90e8cff187a",
-    "FStringFlipTimeStampFastString": "2025-06-06T16:56:25.114Z",
-    "DFStringFlipTimeStampDynamicString": "2025-06-06T16:56:25.114Z"
+    "FStringFlagRepoGitHashFastString": "e60571a9a352381a88e2fba116919f4ca860781a",
+    "DFStringFlagRepoGitHashDynamicString": "e60571a9a352381a88e2fba116919f4ca860781a",
+    "FStringFlipTimeStampFastString": "2025-06-06T17:06:25.177Z",
+    "DFStringFlipTimeStampDynamicString": "2025-06-06T17:06:25.177Z"
 }
