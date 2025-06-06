@@ -11667,6 +11667,7 @@
     "FFlagRenderSquadLobbyOnlyWhenVisible": true,
     "FFlagGroupedRollouts": true,
     "FFlagEnableFriendsMenuShareGameInviteLink2_Staged": "false;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-06T16:04:44",
+    "DFIntWindowsMinimumClientVersion2_Staged": "674;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-06T16:41:12",
     "AllowVideoPreRoll": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
@@ -13465,6 +13466,7 @@
     "FFlagUseRbxStorageInCapturesCommon": true,
     "FFlagUseRbxstorageInGallery": true,
     "FFlagEnableVoiceChatMuteForVideoCaptures_v2_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-06T16:00:58",
+    "FFlagImprovedInstantiation_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-06-06T16:41:02",
     "FFlagDebugLuaAppValidateProps": true,
     "FStringFeature_CookieProtocolEnabled": "524;100",
     "FFlagPathEditorControlPointVisualImprovements2": true,
@@ -13488,8 +13490,8 @@
     "FFlagMovePrerenderV2": true,
     "FFlagTextureUseACR4": false,
     "FIntTextureUseACRHundredthPercent": 2000,
-    "FStringFlagRepoGitHashFastString": "c48c1efb45b80de3f0f3ae638d356c24ee0fb5f8",
-    "DFStringFlagRepoGitHashDynamicString": "c48c1efb45b80de3f0f3ae638d356c24ee0fb5f8",
-    "FStringFlipTimeStampFastString": "2025-06-06T16:29:16.297Z",
-    "DFStringFlipTimeStampDynamicString": "2025-06-06T16:29:16.297Z"
+    "FStringFlagRepoGitHashFastString": "83db3a1531f18d837b211137b0f5c1528bab5f66",
+    "DFStringFlagRepoGitHashDynamicString": "83db3a1531f18d837b211137b0f5c1528bab5f66",
+    "FStringFlipTimeStampFastString": "2025-06-06T16:43:07.834Z",
+    "DFStringFlipTimeStampDynamicString": "2025-06-06T16:43:07.834Z"
 }
